@@ -1,0 +1,10 @@
+| Energy | Laos |
+| --- | --- |
+| Electricity - production: | 1.02 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 2% |
+| Electricity - production by source: | hydro: 98% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 690.6 million kWh (2000) |
+| Electricity - exports: | 400 million kWh (2000) |
+| Electricity - imports: | 142 million kWh (2000) |

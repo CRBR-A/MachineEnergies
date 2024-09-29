@@ -1,0 +1,26 @@
+| Energy | Japan |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 989.3 billion kWh (2016 est.) |
+| Electricity - consumption: | 943.7 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 295.9 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 71% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 1% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 8% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 20% of total installed capacity (2017 est.) |
+| Crude oil - production: | 3,200 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2017 est.) |
+| Crude oil - imports: | 3.208 million bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 44.12 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 3.467 million bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 3.894 million bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 370,900 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 1.1 million bbl/day (2017 est.) |
+| Natural gas - production: | 3.058 billion cu m (2017 est.) |
+| Natural gas - consumption: | 127.2 billion cu m (2017 est.) |
+| Natural gas - exports: | 169.9 million cu m (2017 est.) |
+| Natural gas - imports: | 116.6 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 20.9 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 1.268 billion Mt (2017 est.) |

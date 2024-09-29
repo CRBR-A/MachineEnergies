@@ -1,0 +1,20 @@
+| Energy | World |
+| --- | --- |
+| Electricity - production: | 17.42 trillion kWh (2005 est.) |
+| Electricity - production by source: | fossil fuel: NA |
+| Electricity - production by source: | hydro: NA |
+| Electricity - production by source: | nuclear: NA |
+| Electricity - production by source: | other: NA |
+| Electricity - consumption: | 15.81 trillion kWh (2005 est.) |
+| Electricity - exports: | 619.8 billion kWh (2005) |
+| Electricity - imports: | 633.2 billion kWh (2005) |
+| Oil - production: | 83 million bbl/day (2004 est.) |
+| Oil - consumption: | 82.59 million bbl/day (2004 est.) |
+| Oil - exports: | 63.76 million bbl/day (2004) |
+| Oil - imports: | 63.18 million bbl/day (2004) |
+| Oil - proved reserves: | 1.312 trillion bbl (1 January 2006) |
+| Natural gas - production: | 2.769 trillion cu m (2005 est.) |
+| Natural gas - consumption: | 2.811 trillion cu m (2005 est.) |
+| Natural gas - exports: | 818.1 billion cu m (2005 est.) |
+| Natural gas - imports: | 785.8 billion cu m (2005) |
+| Natural gas - proved reserves: | 166.8 trillion cu m (1 January 2006 est.) |

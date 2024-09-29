@@ -1,0 +1,10 @@
+| Energy | Ghana |
+| --- | --- |
+| Electricity - production: | 5.92 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 30% |
+| Electricity - production by source: | hydro: 70% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 5.484 billion kWh (2000) |
+| Electricity - exports: | 422 million kWh (2000) |
+| Electricity - imports: | 400 million kWh (2000) |

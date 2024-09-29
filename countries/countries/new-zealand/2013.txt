@@ -1,0 +1,25 @@
+| Energy | New Zealand |
+| --- | --- |
+| Electricity - production: | 43.54 billion kWh (2011 est.) |
+| Electricity - consumption: | 40.76 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 9.679 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 31.7% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 54.2% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 14% of total installed capacity (2010 est.) |
+| Crude oil - production: | 48,190 bbl/day (2012 est.) |
+| Crude oil - exports: | 47,290 bbl/day (2010 est.) |
+| Crude oil - imports: | 99,810 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 81.4 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 109,700 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 148,900 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 2,471 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 41,170 bbl/day (2010 est.) |
+| Natural gas - production: | 4.59 billion cu m (2012 est.) |
+| Natural gas - consumption: | 4.537 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 29.42 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 37.17 million Mt (2011 est.) |

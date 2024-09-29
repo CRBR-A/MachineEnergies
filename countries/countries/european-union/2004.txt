@@ -1,0 +1,16 @@
+| Energy | European Union |
+| --- | --- |
+| Electricity - production: | 2.822 trillion kWh (2001) |
+| Electricity - consumption: | 2.635 trillion kWh (2001) |
+| Electricity - exports: | 234.8 billion kWh (2001) |
+| Electricity - imports: | 245.7 billion kWh (2001) |
+| Oil - production: | 3.244 million bbl/day (2001) |
+| Oil - consumption: | 14.48 million bbl/day (2001) |
+| Oil - exports: | 6.429 million bbl/day (2001) |
+| Oil - imports: | 16.97 million bbl/day (2001) |
+| Oil - proved reserves: | 7.467 billion bbl (1 January 2002) |
+| Natural gas - production: | 243.8 billion cu m (2001) |
+| Natural gas - consumption: | 463.6 billion cu m (2001) |
+| Natural gas - exports: | 77.04 billion cu m (2001) |
+| Natural gas - imports: | 292.2 billion cu m (2001) |
+| Natural gas - proved reserves: | 3.262 trillion cu m (1 January 2002) |

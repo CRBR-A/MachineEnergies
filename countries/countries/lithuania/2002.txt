@@ -1,0 +1,10 @@
+| Energy | Lithuania |
+| --- | --- |
+| Electricity - production: | 10.966 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 20% |
+| Electricity - production by source: | hydro: 3% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 77% |
+| Electricity - consumption: | 6.898 billion kWh (2000) |
+| Electricity - exports: | 6.3 billion kWh (2000) |
+| Electricity - imports: | 3 billion kWh (2000) |

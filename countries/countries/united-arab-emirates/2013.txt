@@ -1,0 +1,25 @@
+| Energy | United Arab Emirates |
+| --- | --- |
+| Electricity - production: | 102.7 billion kWh (2011 est.) |
+| Electricity - consumption: | 85.17 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 23.25 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 3.213 million bbl/day (2012 est.) |
+| Crude oil - exports: | 2.142 million bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 97.8 billion bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 371,500 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 572,100 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 382,300 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 351,400 bbl/day (2010 est.) |
+| Natural gas - production: | 52.31 billion cu m (2011 est.) |
+| Natural gas - consumption: | 60.54 billion cu m (2010 est.) |
+| Natural gas - exports: | 5.18 billion cu m (2011 est.) |
+| Natural gas - imports: | 17.44 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 6.089 trillion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 245.4 million Mt (2011 est.) |

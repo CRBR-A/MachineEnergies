@@ -1,0 +1,29 @@
+| Energy | ETHIOPIA |
+| --- | --- |
+| Electricity access: | population without electricity: 71,200,000 |
+| Electricity access: | electrification - total population: 24% |
+| Electricity access: | electrification - urban areas: 85% |
+| Electricity access: | electrification - rural areas: 10% (2013) |
+| Electricity - production: | 9.5 billion kWh (2014 est.) |
+| Electricity - consumption: | 6.7 billion kWh (2014 est.) |
+| Electricity - exports: | 1.1 billion kWh (2014 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 2.4 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 8.3% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 88.2% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 3.6% of total installed capacity (2012 est.) |
+| Crude oil - production: | 0 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 430,000 bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 61,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 58,740 bbl/day (2013 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 0 cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 24.92 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 9.3 million Mt (2013 est.) |

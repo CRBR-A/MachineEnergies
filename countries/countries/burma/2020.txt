@@ -1,0 +1,29 @@
+| Energy | Burma |
+| --- | --- |
+| Electricity access: | population without electricity: 27 million (2019) |
+| Electricity access: | electrification - total population: 51% (2019) |
+| Electricity access: | electrification - urban areas: 76% (2019) |
+| Electricity access: | electrification - rural areas: 39% (2019) |
+| Electricity - production: | 17.32 billion kWh (2016 est.) |
+| Electricity - consumption: | 14.93 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 5.205 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 39% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 61% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 1% of total installed capacity (2017 est.) |
+| Crude oil - production: | 11,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 1,824 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 139 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 13,330 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 123,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 102,600 bbl/day (2015 est.) |
+| Natural gas - production: | 18.41 billion cu m (2017 est.) |
+| Natural gas - consumption: | 4.502 billion cu m (2017 est.) |
+| Natural gas - exports: | 14.07 billion cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 637.1 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 27.01 million Mt (2017 est.) |

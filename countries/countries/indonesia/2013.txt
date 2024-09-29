@@ -1,0 +1,25 @@
+| Energy | Indonesia |
+| --- | --- |
+| Electricity - production: | 173.8 billion kWh (2011 est.) |
+| Electricity - consumption: | 158 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 2.542 billion kWh (2011 est.) |
+| Electricity - installed generating capacity: | 39.9 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 87% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 9.9% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 3.1% of total installed capacity (2011 est.) |
+| Crude oil - production: | 974,300 bbl/day (2012 est.) |
+| Crude oil - exports: | 338,100 bbl/day (2010 est.) |
+| Crude oil - imports: | 388,400 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 4.03 billion bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 935,300 bbl/day (2011 est.) |
+| Refined petroleum products - consumption: | 1.322 million bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 142,400 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 473,400 bbl/day (2011 est.) |
+| Natural gas - production: | 76.25 billion cu m (2011 est.) |
+| Natural gas - consumption: | 39.56 billion cu m (2010 est.) |
+| Natural gas - exports: | 38.67 billion cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 3.069 trillion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 426.8 million Mt (2011 est.) |

@@ -1,0 +1,25 @@
+| Energy | RWANDA |
+| --- | --- |
+| Electricity - production: | 300.2 million kWh (2011 est.) |
+| Electricity - consumption: | 352.2 million kWh (2011 est.) |
+| Electricity - exports: | 5 million kWh (2011 est.) |
+| Electricity - imports: | 78 million kWh (2011 est.) |
+| Electricity - installed generating capacity: | 684,000 kW (2011 est.) |
+| Electricity - from fossil fuels: | 39.9% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 59.8% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0.3% of total installed capacity (2011 est.) |
+| Crude oil - production: | 10 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 5,320 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 5,302 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2012 est.) |
+| Natural gas - consumption: | 0 cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 56.63 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 769,300 Mt (2012 est.) |

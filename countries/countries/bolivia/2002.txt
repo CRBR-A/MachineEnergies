@@ -1,0 +1,10 @@
+| Energy | Bolivia |
+| --- | --- |
+| Electricity - production: | 3.87 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 48% |
+| Electricity - production by source: | hydro: 50% |
+| Electricity - production by source: | other: 2% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 3.605 billion kWh (2000) |
+| Electricity - exports: | 5 million kWh (2000) |
+| Electricity - imports: | 11 million kWh (2000) |

@@ -1,0 +1,25 @@
+| Energy | Portugal |
+| --- | --- |
+| Electricity - production: | 50.3 billion kWh (2010 est.) |
+| Electricity - consumption: | 47.81 billion kWh (2009 est.) |
+| Electricity - exports: | 3.191 billion kWh (2010 est.) |
+| Electricity - imports: | 5.814 billion kWh (2010 est.) |
+| Electricity - installed generating capacity: | 17.39 million kW (2009 est.) |
+| Electricity - from fossil fuels: | 48.3% of total installed capacity (2009 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2009 est.) |
+| Electricity - from hydroelectric plants: | 23.3% of total installed capacity (2009 est.) |
+| Electricity - from other renewable sources: | 22.5% of total installed capacity (2009 est.) |
+| Crude oil - production: | 1,926 bbl/day (2011 est.) |
+| Crude oil - exports: | 0 bbl/day (2009 est.) |
+| Crude oil - imports: | 205,400 bbl/day (2009 est.) |
+| Crude oil - proved reserves: | NA bbl |
+| Refined petroleum products - production: | 237,000 bbl/day (2009 est.) |
+| Refined petroleum products - consumption: | 259,700 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 49,650 bbl/day (2009 est.) |
+| Refined petroleum products - imports: | 83,520 bbl/day (2009 est.) |
+| Natural gas - production: | 0 cu m (2010 est.) |
+| Natural gas - consumption: | 5.212 billion cu m (2011 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 5.181 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2012 est.) |
+| Carbon dioxide emissions from consumption of energy: | 51.43 million Mt (2010 est.) |

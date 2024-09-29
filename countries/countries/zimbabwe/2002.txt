@@ -1,0 +1,10 @@
+| Energy | Zimbabwe |
+| --- | --- |
+| Electricity - production: | 6.425 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 53% |
+| Electricity - production by source: | hydro: 47% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 10.475 billion kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 4.5 billion kWh (2000) |

@@ -1,0 +1,16 @@
+| Energy | Rwanda |
+| --- | --- |
+| Electricity - production: | 96.78 million kWh (2001) |
+| Electricity - production by source: | fossil fuel: 2.3% |
+| Electricity - production by source: | hydro: 97.7% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 140 million kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 50 million kWh (2001) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 5,300 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 0 bbl (37257) |
+| Natural gas - proved reserves: | 28.32 billion cu m (37257) |

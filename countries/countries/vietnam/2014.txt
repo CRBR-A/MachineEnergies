@@ -1,0 +1,25 @@
+| Energy | Vietnam |
+| --- | --- |
+| Electricity - production: | 117 billion kWh (2012 est.) |
+| Electricity - consumption: | 104 billion kWh (2012 est.) |
+| Electricity - exports: | 964 million kWh (2010 est.) |
+| Electricity - imports: | 2.7 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 26.3 million kW (2012 est.) |
+| Electricity - from fossil fuels: | 55% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 45% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0.1% of total installed capacity (2012 est.) |
+| Crude oil - production: | 363,500 bbl/day (2012 est.) |
+| Crude oil - exports: | 188,000 bbl/day (2012 est.) |
+| Crude oil - imports: | 0 bbl/day (2012 est.) |
+| Crude oil - proved reserves: | 4.4 billion bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 112,000 bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 259,900 bbl/day (2012 est.) |
+| Refined petroleum products - exports: | 37,050 bbl/day (2012 est.) |
+| Refined petroleum products - imports: | 184,900 bbl/day (2012 est.) |
+| Natural gas - production: | 9.3 billion cu m (2012 est.) |
+| Natural gas - consumption: | 10.2 billion cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 890 million cu m (2012 est.) |
+| Natural gas - proved reserves: | 699.4 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 112.7 million Mt (2011 est.) |

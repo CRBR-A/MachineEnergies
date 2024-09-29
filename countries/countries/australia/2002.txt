@@ -1,0 +1,10 @@
+| Energy | Australia |
+| --- | --- |
+| Electricity - production: | 202.68 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 90% |
+| Electricity - production by source: | hydro: 8% |
+| Electricity - production by source: | other: 2% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 188.49 billion kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 0 kWh (2000) |

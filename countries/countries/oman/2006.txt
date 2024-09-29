@@ -1,0 +1,20 @@
+| Energy | Oman |
+| --- | --- |
+| Electricity - production: | 10.3 billion kWh (2003) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 9.582 billion kWh (2003) |
+| Electricity - exports: | 0 kWh (2003) |
+| Electricity - imports: | 0 kWh (2003) |
+| Oil - production: | 769,000 bbl/day (2005 est.) |
+| Oil - consumption: | 62,000 bbl/day (2003 est.) |
+| Oil - exports: | 721,000 bbl/day (2004) |
+| Oil - imports: | NA bbl/day |
+| Oil - proved reserves: | 6.1 billion bbl (2005 est.) |
+| Natural gas - production: | 16.5 billion cu m (2003 est.) |
+| Natural gas - consumption: | 7.09 billion cu m (2003 est.) |
+| Natural gas - exports: | 7.43 billion cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 829.1 billion cu m (2005) |

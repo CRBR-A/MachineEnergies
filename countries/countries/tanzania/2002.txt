@@ -1,0 +1,10 @@
+| Energy | Tanzania |
+| --- | --- |
+| Electricity - production: | 2.765 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 18% |
+| Electricity - production by source: | hydro: 82% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 2.616 billion kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 45 million kWh (2000) |

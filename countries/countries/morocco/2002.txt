@@ -1,0 +1,10 @@
+| Energy | Morocco |
+| --- | --- |
+| Electricity - production: | 14.243 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 91% |
+| Electricity - production by source: | hydro: 9% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 14.346 billion kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 1.1 billion kWh (2000) |

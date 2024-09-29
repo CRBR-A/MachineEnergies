@@ -1,0 +1,29 @@
+| Energy | SYRIA |
+| --- | --- |
+| Electricity access: | population without electricity: 1,600,000 |
+| Electricity access: | electrification - total population: 96% |
+| Electricity access: | electrification - urban areas: 100% |
+| Electricity access: | electrification - rural areas: 81% (2013) |
+| Electricity - production: | 21 billion kWh (2014 est.) |
+| Electricity - consumption: | 17 billion kWh (2014 est.) |
+| Electricity - exports: | 100 million kWh (2014 est.) |
+| Electricity - imports: | 1.2 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 8.2 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 82.9% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 16.8% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0.3% of total installed capacity (2012 est.) |
+| Crude oil - production: | 30,000 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 58,260 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 2.5 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 111,600 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 165,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 12,150 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 76,050 bbl/day (2013 est.) |
+| Natural gas - production: | 5.205 billion cu m (2014 est.) |
+| Natural gas - consumption: | 5.205 billion cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 249.2 million cu m (2011 est.) |
+| Natural gas - proved reserves: | 240.7 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 49 million Mt (2013 est.) |

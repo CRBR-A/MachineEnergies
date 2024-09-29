@@ -1,0 +1,25 @@
+| Energy | KENYA |
+| --- | --- |
+| Electricity - production: | 7.618 billion kWh (2011 est.) |
+| Electricity - consumption: | 6.284 billion kWh (2011 est.) |
+| Electricity - exports: | 42 million kWh (2011 est.) |
+| Electricity - imports: | 37 million kWh (2011 est.) |
+| Electricity - installed generating capacity: | 1.816 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 43.2% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 44.4% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 12.4% of total installed capacity (2011 est.) |
+| Crude oil - production: | 0 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 31,040 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 32,240 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 83,600 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 1,266 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 52,160 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2012 est.) |
+| Natural gas - consumption: | 0 cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 13.45 million Mt (2012 est.) |

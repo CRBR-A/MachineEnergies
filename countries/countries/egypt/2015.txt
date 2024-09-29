@@ -1,0 +1,25 @@
+| Energy | EGYPT |
+| --- | --- |
+| Electricity - production: | 152 billion kWh (2012 est.) |
+| Electricity - consumption: | 129.4 billion kWh (2011 est.) |
+| Electricity - exports: | 1.679 billion kWh (2012 est.) |
+| Electricity - imports: | 102 million kWh (2012 est.) |
+| Electricity - installed generating capacity: | 27 million kW (2013 est.) |
+| Electricity - from fossil fuels: | 90% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2014 est.) |
+| Electricity - from hydroelectric plants: | 8% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 2% of total installed capacity (2012 est.) |
+| Crude oil - production: | 700,000 bbl/day (2013 est.) |
+| Crude oil - exports: | 189,000 bbl/day (2013 est.) |
+| Crude oil - imports: | 80,000 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 4.4 billion bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 445,000 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 770,000 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 83,000 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 170,000 bbl/day (2013 est.) |
+| Natural gas - production: | 56.63 billion cu m (2013 est.) |
+| Natural gas - consumption: | 53.8 billion cu m (2013 est.) |
+| Natural gas - exports: | 3.823 billion cu m (2013 est.) |
+| Natural gas - imports: | 2.832 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 2.18 trillion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 206.3 million Mt (2012 est.) |

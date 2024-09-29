@@ -1,0 +1,25 @@
+| Energy | Argentina |
+| --- | --- |
+| Electricity - production: | 119.3 billion kWh (2010 est.) |
+| Electricity - consumption: | 111.1 billion kWh (2010 est.) |
+| Electricity - exports: | 1.701 billion kWh (2010 est.) |
+| Electricity - imports: | 10.3 billion kWh (2010 est.) |
+| Electricity - installed generating capacity: | 32.87 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 66.2% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 3.1% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 27.6% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0.2% of total installed capacity (2010 est.) |
+| Crude oil - production: | 723,200 bbl/day (2012 est.) |
+| Crude oil - exports: | 90,920 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 2.805 billion bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 622,200 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 678,100 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 94,500 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 76,550 bbl/day (2010 est.) |
+| Natural gas - production: | 38.77 billion cu m (2011 est.) |
+| Natural gas - consumption: | 43.29 billion cu m (2010 est.) |
+| Natural gas - exports: | 200 million cu m (2011 est.) |
+| Natural gas - imports: | 7.57 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 332.5 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 190.6 million Mt (2011 est.) |

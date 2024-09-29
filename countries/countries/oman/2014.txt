@@ -1,0 +1,25 @@
+| Energy | Oman |
+| --- | --- |
+| Electricity - production: | 18.63 billion kWh (2010 est.) |
+| Electricity - consumption: | 15.32 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 4.265 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 923,800 bbl/day (2012 est.) |
+| Crude oil - exports: | 705,100 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 5.5 billion bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 164,600 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 98,000 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 47,710 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 2,390 bbl/day (2010 est.) |
+| Natural gas - production: | 35.94 billion cu m (2012 est.) |
+| Natural gas - consumption: | 17.53 billion cu m (2011 est.) |
+| Natural gas - exports: | 10.93 billion cu m (2011 est.) |
+| Natural gas - imports: | 1.95 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 849.5 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 52.67 million Mt (2011 est.) |

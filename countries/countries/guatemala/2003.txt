@@ -1,0 +1,16 @@
+| Energy | Guatemala |
+| --- | --- |
+| Electricity - production: | 6.237 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 51.9% |
+| Electricity - production by source: | hydro: 35.2% |
+| Electricity - production by source: | other: 12.9% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 5.559 billion kWh (2001) |
+| Electricity - exports: | 336 million kWh (2001) |
+| Electricity - imports: | 95 million kWh (2001) |
+| Oil - production: | 21,080 bbl/day (2001 est.) |
+| Oil - consumption: | 61,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 263 million bbl (37257) |
+| Natural gas - proved reserves: | 1.543 billion cu m (37257) |

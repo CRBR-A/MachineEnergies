@@ -1,0 +1,10 @@
+| Energy | Egypt |
+| --- | --- |
+| Electricity - production: | 64.685 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 76.59% |
+| Electricity - production by source: | hydro: 23.41% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 60.157 billion kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

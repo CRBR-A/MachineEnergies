@@ -1,0 +1,20 @@
+| Energy | Saudi Arabia |
+| --- | --- |
+| Electricity - production: | 145.1 billion kWh (2003) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 134.9 billion kWh (2003) |
+| Electricity - exports: | 0 kWh (2003) |
+| Electricity - imports: | 0 kWh (2003) |
+| Oil - production: | 9.475 million bbl/day (2005 est.) |
+| Oil - consumption: | 1.775 million bbl/day (2003) |
+| Oil - exports: | 7.92 million bbl/day (2003) |
+| Oil - imports: | 0 bbl/day (2003) |
+| Oil - proved reserves: | 262.7 billion bbl (2005 est.) |
+| Natural gas - production: | 60.06 billion cu m (2003 est.) |
+| Natural gas - consumption: | 60.06 billion cu m (2003 est.) |
+| Natural gas - exports: | 0 cu m (2002) |
+| Natural gas - imports: | 0 cu m (2002) |
+| Natural gas - proved reserves: | 6.544 trillion cu m (2005) |

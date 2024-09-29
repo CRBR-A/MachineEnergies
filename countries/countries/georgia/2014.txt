@@ -1,0 +1,25 @@
+| Energy | Georgia |
+| --- | --- |
+| Electricity - production: | 9.694 billion kWh (2012 est.) |
+| Electricity - consumption: | 9.379 billion kWh (2012 est.) |
+| Electricity - exports: | 1.492 billion kWh (2010 est.) |
+| Electricity - imports: | 614 million kWh (2012 est.) |
+| Electricity - installed generating capacity: | 4.538 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 37.2% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 62.8% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 979.5 bbl/day (2012 est.) |
+| Crude oil - exports: | 531 bbl/day (2012 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 35 million bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 17,280 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2011 est.) |
+| Refined petroleum products - imports: | 18,500 bbl/day (2010 est.) |
+| Natural gas - production: | 9.151 million cu m (2012 est.) |
+| Natural gas - consumption: | 1.97 billion cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 1.96 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 8.495 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 5.868 million Mt (2011 est.) |

@@ -1,0 +1,29 @@
+| Energy | QATAR |
+| --- | --- |
+| Electricity access: | population without electricity: 45,165 |
+| Electricity access: | electrification - total population: 98% |
+| Electricity access: | electrification - urban areas: 98% |
+| Electricity access: | electrification - rural areas: 93% (2012) |
+| Electricity - production: | 39.01 billion kWh (2015 est.) |
+| Electricity - consumption: | 36.53 billion kWh (2015 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 8.836 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 99.5% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 0.5% of total installed capacity (2015 est.) |
+| Crude oil - production: | 1.523 million bbl/day (2016 est.) |
+| Crude oil - exports: | 1.255 million bbl/day (2014 est.) |
+| Crude oil - imports: | 0 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 25.24 billion bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 278,300 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 280,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 544,000 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 245.3 bbl/day (2014 est.) |
+| Natural gas - production: | 164 billion cu m (2015 est.) |
+| Natural gas - consumption: | 49.64 billion cu m (2015 est.) |
+| Natural gas - exports: | 123.9 billion cu m (2015 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 24.3 trillion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 92 million Mt (2013 est.) |

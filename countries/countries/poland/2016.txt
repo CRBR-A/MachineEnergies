@@ -1,0 +1,26 @@
+| Energy | POLAND |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 150 billion kWh (2014 est.) |
+| Electricity - consumption: | 142 billion kWh (2014 est.) |
+| Electricity - exports: | 11 billion kWh (2014) |
+| Electricity - imports: | 14 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 36 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 89.5% of total installed capacity (2013 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2013 est.) |
+| Electricity - from hydroelectric plants: | 1.5% of total installed capacity (2013 est.) |
+| Electricity - from other renewable sources: | 8.5% of total installed capacity (2013 est.) |
+| Crude oil - production: | 18,420 bbl/day (2015 est.) |
+| Crude oil - exports: | 5,162 bbl/day (2015 est.) |
+| Crude oil - imports: | 532,300 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 100 million bbl (1 January 2010 es) |
+| Refined petroleum products - production: | 568,200 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 536,700 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 160,100 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 128,800 bbl/day (2015 est.) |
+| Natural gas - production: | 6.08 billion cu m (2014 est.) |
+| Natural gas - consumption: | 17.66 billion cu m (2014 est.) |
+| Natural gas - exports: | 76 million cu m (2014 est.) |
+| Natural gas - imports: | 11.82 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 81.66 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 322 million Mt (2013 est.) |

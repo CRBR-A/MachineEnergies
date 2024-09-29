@@ -1,0 +1,10 @@
+| Energy | Czech Republic |
+| --- | --- |
+| Electricity - production: | 69.589 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 78% |
+| Electricity - production by source: | hydro: 3% |
+| Electricity - production by source: | other: 1% (2000) |
+| Electricity - production by source: | nuclear: 19% |
+| Electricity - consumption: | 54.701 billion kWh (2000) |
+| Electricity - exports: | 18.74 billion kWh (2000) |
+| Electricity - imports: | 8.725 billion kWh (2000) |

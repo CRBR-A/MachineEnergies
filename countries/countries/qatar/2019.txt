@@ -1,0 +1,26 @@
+| Energy | Qatar |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 39.78 billion kWh (2016 est.) |
+| Electricity - consumption: | 37.24 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 8.796 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 1% of total installed capacity (2017 est.) |
+| Crude oil - production: | 1.464 million bbl/day (2018 est.) |
+| Crude oil - exports: | 1.15 million bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 25.24 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 273,800 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 277,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 485,000 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 12,300 bbl/day (2015 est.) |
+| Natural gas - production: | 166.4 billion cu m (2017 est.) |
+| Natural gas - consumption: | 39.9 billion cu m (2017 est.) |
+| Natural gas - exports: | 126.5 billion cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 24.07 trillion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 114.2 million Mt (2017 est.) |

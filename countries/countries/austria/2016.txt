@@ -1,0 +1,26 @@
+| Energy | AUSTRIA |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 59 billion kWh (2014 est.) |
+| Electricity - consumption: | 69.75 billion kWh (2015 est.) |
+| Electricity - exports: | 19.31 billion kWh (2015 est.) |
+| Electricity - imports: | 29.37 billion kWh (2015 est.) |
+| Electricity - installed generating capacity: | 24.22 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 32.8% of total installed capacity (2014 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2014 est.) |
+| Electricity - from hydroelectric plants: | 56% of total installed capacity (2014 est.) |
+| Electricity - from other renewable sources: | 11.1% of total installed capacity (2014 est.) |
+| Crude oil - production: | 16,500 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 165,300 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 47.5 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 200,900 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 264,600 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 50,640 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 117,300 bbl/day (2015 est.) |
+| Natural gas - production: | 1.321 billion cu m (2014 est.) |
+| Natural gas - consumption: | 7.845 billion cu m (2014 est.) |
+| Natural gas - exports: | 2.529 billion cu m (2014 est.) |
+| Natural gas - imports: | 10.12 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 7.9 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 76.2 million Mt (2014 est.) |

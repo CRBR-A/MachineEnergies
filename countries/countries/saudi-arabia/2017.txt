@@ -1,0 +1,29 @@
+| Energy | SAUDI ARABIA |
+| --- | --- |
+| Electricity access: | population without electricity: 200,000 |
+| Electricity access: | electrification - total population: 98% |
+| Electricity access: | electrification - urban areas: 99% |
+| Electricity access: | electrification - rural areas: 93% (2013) |
+| Electricity - production: | 318 billion kWh (2015 est.) |
+| Electricity - consumption: | 292.8 billion kWh (2015 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 69.05 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 99.9% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 0.1% of total installed capacity (2015 est.) |
+| Crude oil - production: | 10.46 million bbl/day (2016 est.) |
+| Crude oil - exports: | 7.273 million bbl/day (2014 est.) |
+| Crude oil - imports: | 0 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 266.5 billion bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 2.221 million bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 3.237 million bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 1.621 million bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 486,900 bbl/day (2014 est.) |
+| Natural gas - production: | 102.3 billion cu m (2015 est.) |
+| Natural gas - consumption: | 102.3 billion cu m (2015 est.) |
+| Natural gas - exports: | 0 cu m (2014 est.) |
+| Natural gas - imports: | 0 cu m (2014 est.) |
+| Natural gas - proved reserves: | 8.602 trillion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 594 million Mt (2013 est.) |

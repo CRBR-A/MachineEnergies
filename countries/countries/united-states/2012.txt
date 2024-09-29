@@ -1,0 +1,25 @@
+| Energy | United States |
+| --- | --- |
+| Electricity - production: | 4.12 trillion kWh (2010 est.) |
+| Electricity - consumption: | 3.889 trillion kWh (2010 est.) |
+| Electricity - exports: | 19.41 billion kWh (2010 est.) |
+| Electricity - imports: | 45.23 billion kWh (2010 est.) |
+| Electricity - installed generating capacity: | 1.025 billion kW (2010 est.) |
+| Electricity - from fossil fuels: | 75.5% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 9.9% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 7.7% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 4.8% of total installed capacity (2010 est.) |
+| Crude oil - production: | 9.023 million bbl/day (2011 est.) |
+| Crude oil - exports: | 43,800 bbl/day (2009 est.) |
+| Crude oil - imports: | 9.013 million bbl/day (2009 est.) |
+| Crude oil - proved reserves: | 20.68 billion bbl (1 January 2012 est.) |
+| Refined petroleum products - production: | 17.88 million bbl/day (2009 est.) |
+| Refined petroleum products - consumption: | 18.84 million bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 1.876 million bbl/day (2009 est.) |
+| Refined petroleum products - imports: | 1.255 million bbl/day (2009 est.) |
+| Natural gas - production: | 651.3 billion cu m (2011 est.) |
+| Natural gas - consumption: | 689.9 billion cu m (2011 est.) |
+| Natural gas - exports: | 42.67 billion cu m (2011 est.) |
+| Natural gas - imports: | 97.86 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 7.716 trillion cu m (1 January 2009 est.) |
+| Carbon dioxide emissions from consumption of energy: | 5.61 billion Mt (2010 est.) |

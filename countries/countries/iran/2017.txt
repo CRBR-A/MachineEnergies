@@ -1,0 +1,29 @@
+| Energy | IRAN |
+| --- | --- |
+| Electricity access: | population without electricity: 1,100,000 |
+| Electricity access: | electrification - total population: 98.6% |
+| Electricity access: | electrification - urban areas: 100% |
+| Electricity access: | electrification - rural areas: 95% (2013) |
+| Electricity - production: | 265.1 billion kWh (2015 est.) |
+| Electricity - consumption: | 220.9 billion kWh (2015 est.) |
+| Electricity - exports: | 6.822 billion kWh (2015 est.) |
+| Electricity - imports: | 4.148 billion kWh (2015 est.) |
+| Electricity - installed generating capacity: | 72.94 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 83.2% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 1.3% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 13.9% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 0.2% of total installed capacity (2015 est.) |
+| Crude oil - production: | 4.068 million bbl/day (2016 est.) |
+| Crude oil - exports: | 1.342 million bbl/day (2014 est.) |
+| Crude oil - imports: | 33,710 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 158.4 billion bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 1.801 million bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 1.922 million bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 272,600 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 47,750 bbl/day (2014 est.) |
+| Natural gas - production: | 184.8 billion cu m (2015 est.) |
+| Natural gas - consumption: | 186 billion cu m (2015 est.) |
+| Natural gas - exports: | 8.38 billion cu m (2015 est.) |
+| Natural gas - imports: | 9.55 billion cu m (2015 est.) |
+| Natural gas - proved reserves: | 33.5 trillion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 650.4 million Mt (2014 est.) |

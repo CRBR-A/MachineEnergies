@@ -1,0 +1,25 @@
+| Energy | Spain |
+| --- | --- |
+| Electricity - production: | 276.8 billion kWh (2011 est.) |
+| Electricity - consumption: | 249.7 billion kWh (2011 est.) |
+| Electricity - exports: | 19.59 billion kWh (2012 est.) |
+| Electricity - imports: | 8.209 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 101.7 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 48.7% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 7.3% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 13% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 25.8% of total installed capacity (2010 est.) |
+| Crude oil - production: | 29,290 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 1.061 million bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 150 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 1.189 million bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 1.384 million bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 249,500 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 566,200 bbl/day (2010 est.) |
+| Natural gas - production: | 61 million cu m (2012 est.) |
+| Natural gas - consumption: | 35.82 billion cu m (2010 est.) |
+| Natural gas - exports: | 4.414 billion cu m (2012 est.) |
+| Natural gas - imports: | 36.75 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 2.548 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 318.6 million Mt (2011 est.) |

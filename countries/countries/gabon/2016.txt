@@ -1,0 +1,29 @@
+| Energy | GABON |
+| --- | --- |
+| Electricity access: | population without electricity: 200,000 |
+| Electricity access: | electrification - total population: 89% |
+| Electricity access: | electrification - urban areas: 97% |
+| Electricity access: | electrification - rural areas: 38% (2013) |
+| Electricity - production: | 2.3 billion kWh (2014 est.) |
+| Electricity - consumption: | 2.1 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 400 million kWh (2014 est.) |
+| Electricity - installed generating capacity: | 600,000 kW (2014 est.) |
+| Electricity - from fossil fuels: | 59% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 41% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 213,300 bbl/day (2015 est.) |
+| Crude oil - exports: | 200,000 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 2 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 21,750 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 19,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 7,212 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 5,364 bbl/day (2013 est.) |
+| Natural gas - production: | 420 million cu m (2014 est.) |
+| Natural gas - consumption: | 420 million cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 28.32 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 6 million Mt (2013 est.) |

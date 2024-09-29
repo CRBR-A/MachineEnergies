@@ -1,0 +1,25 @@
+| Energy | Switzerland |
+| --- | --- |
+| Electricity - production: | 60.18 billion kWh (2011 est.) |
+| Electricity - consumption: | 60.42 billion kWh (2011 est.) |
+| Electricity - exports: | 34.57 billion kWh (2012 est.) |
+| Electricity - imports: | 32.25 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 18.07 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 3.1% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 18% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 65.9% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 3% of total installed capacity (2010 est.) |
+| Crude oil - production: | 3,613 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2011 est.) |
+| Crude oil - imports: | 258,200 bbl/day (2011 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 96,710 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 258,200 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 7,585 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 157,600 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2011 est.) |
+| Natural gas - consumption: | 3.682 billion cu m (2010 est.) |
+| Natural gas - exports: | 8.494 billion cu m (2012 est.) |
+| Natural gas - imports: | 11.77 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2011 es) |
+| Carbon dioxide emissions from consumption of energy: | 43.36 million Mt (2011 est.) |

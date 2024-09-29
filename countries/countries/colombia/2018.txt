@@ -1,0 +1,29 @@
+| Energy | Colombia |
+| --- | --- |
+| Electricity access: | population without electricity: 1.2 million (2013) |
+| Electricity access: | electrification - total population: 97% (2013) |
+| Electricity access: | electrification - urban areas: 100% (2013) |
+| Electricity access: | electrification - rural areas: 88% (2013) |
+| Electricity - production: | 74.92 billion kWh (2016 est.) |
+| Electricity - consumption: | 68.25 billion kWh (2016 est.) |
+| Electricity - exports: | 460 million kWh (2015 est.) |
+| Electricity - imports: | 378 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 16.89 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 29% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 69% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 2% of total installed capacity (2017 est.) |
+| Crude oil - production: | 853,600 bbl/day (2017 est.) |
+| Crude oil - exports: | 726,700 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 1.665 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 303,600 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 333,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 56,900 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 57,170 bbl/day (2015 est.) |
+| Natural gas - production: | 10.02 billion cu m (2017 est.) |
+| Natural gas - consumption: | 10.08 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 48.14 million cu m (2017 est.) |
+| Natural gas - proved reserves: | 113.9 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 95.59 million Mt (2017 est.) |

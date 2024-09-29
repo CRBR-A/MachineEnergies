@@ -1,0 +1,25 @@
+| Energy | Albania |
+| --- | --- |
+| Electricity - production: | 7.481 billion kWh (2010 est.) |
+| Electricity - consumption: | 4.669 billion kWh (2010 est.) |
+| Electricity - exports: | 301 million kWh (2011 est.) |
+| Electricity - imports: | 3.475 billion kWh (2011 est.) |
+| Electricity - installed generating capacity: | 1.621 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 9.9% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 90.1% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 16,870 bbl/day (2012 est.) |
+| Crude oil - exports: | 8,997 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 172.4 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 3,121 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 38,390 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 67.56 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 22,810 bbl/day (2010 est.) |
+| Natural gas - production: | 10 million cu m (2011 est.) |
+| Natural gas - consumption: | 10 million cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 849.5 million cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 4.183 million Mt (2011 est.) |

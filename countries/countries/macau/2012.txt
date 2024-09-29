@@ -1,0 +1,25 @@
+| Energy | Macau |
+| --- | --- |
+| Electricity - production: | 1.1 billion kWh (2010 est.) |
+| Electricity - consumption: | 3.66 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2010 est.) |
+| Electricity - imports: | 2.79 billion kWh (2010 est.) |
+| Electricity - installed generating capacity: | 472,000 kW (2009 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2009 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2009 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2009 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2009 est.) |
+| Crude oil - production: | 0 bbl/day (2011 est.) |
+| Crude oil - exports: | 0 bbl/day (2009 est.) |
+| Crude oil - imports: | 0 bbl/day (2009 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2012 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2008 est.) |
+| Refined petroleum products - consumption: | 18,180 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2009 est.) |
+| Refined petroleum products - imports: | 15,400 bbl/day (2008 est.) |
+| Natural gas - production: | 0 cu m (2010 est.) |
+| Natural gas - consumption: | 154.7 million cu m (2010) |
+| Natural gas - exports: | 0 cu m (2010 est.) |
+| Natural gas - imports: | 154.5 million cu m (2010 est.) |
+| Natural gas - proved reserves: | 174,000 cu m (1 January 2010 est.) |
+| Carbon dioxide emissions from consumption of energy: | 2.537 million Mt (2010 est.) |

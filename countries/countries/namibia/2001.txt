@@ -1,0 +1,11 @@
+| Energy | Namibia |
+| --- | --- |
+| Electricity - production: | 1.198 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 2% |
+| Electricity - production by source: | hydro: 98% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 1.948 billion kWh (1999) |
+| Electricity - exports: | 56 million kWh (1999) |
+| Electricity - imports: | 890 million kWh |
+| Electricity - imports: | note: supplied by South Africa (1999) |

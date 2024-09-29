@@ -1,0 +1,25 @@
+| Energy | RUSSIA |
+| --- | --- |
+| Electricity - production: | 1.054 trillion kWh (2013 est.) |
+| Electricity - consumption: | 1.037 trillion kWh (2013 est.) |
+| Electricity - exports: | 15.7 billion kWh (2013 est.) |
+| Electricity - imports: | 2.7 billion kWh (2013 est.) |
+| Electricity - installed generating capacity: | 239.7 million kW (2012 est.) |
+| Electricity - from fossil fuels: | 69.2% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 10.6% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 20.2% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 10.05 million bbl/day (31 September 2014 est.) |
+| Crude oil - exports: | 4.625 million bbl/day (2013 est.) |
+| Crude oil - imports: | 17,610 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 80 billion bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 4.812 million bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 3.32 million bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 2.968 million bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 28,040 bbl/day (2013 est.) |
+| Natural gas - production: | 668 billion cu m (2013 est.) |
+| Natural gas - consumption: | 413.5 billion cu m (2013 est.) |
+| Natural gas - exports: | 196 billion cu m (2013 est.) |
+| Natural gas - imports: | 8.2 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 47.8 trillion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 1.782 billion Mt (2012 est.) |

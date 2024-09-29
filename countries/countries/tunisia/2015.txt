@@ -1,0 +1,25 @@
+| Energy | TUNISIA |
+| --- | --- |
+| Electricity - production: | 15.23 billion kWh (2011 est.) |
+| Electricity - consumption: | 12.94 billion kWh (2011 est.) |
+| Electricity - exports: | 172 million kWh (2012 est.) |
+| Electricity - imports: | 175 million kWh (2012 est.) |
+| Electricity - installed generating capacity: | 4.076 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 97.1% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 1.6% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 1.3% of total installed capacity (2011 est.) |
+| Crude oil - production: | 64,150 bbl/day (2013 est.) |
+| Crude oil - exports: | 77,980 bbl/day (2010 est.) |
+| Crude oil - imports: | 3,680 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 425 million bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 11,170 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 90,080 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 3,391 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 80,980 bbl/day (2010 est.) |
+| Natural gas - production: | 1.863 billion cu m (2012 est.) |
+| Natural gas - consumption: | 3.683 billion cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 1.819 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 65.13 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 20.27 million Mt (2012 est.) |

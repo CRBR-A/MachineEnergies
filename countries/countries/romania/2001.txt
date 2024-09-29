@@ -1,0 +1,10 @@
+| Energy | Romania |
+| --- | --- |
+| Electricity - production: | 49.036 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 53.99% |
+| Electricity - production by source: | hydro: 36.18% |
+| Electricity - production by source: | nuclear: 9.81% |
+| Electricity - production by source: | other: 0.02% (1999) |
+| Electricity - consumption: | 44.768 billion kWh (1999) |
+| Electricity - exports: | 1.935 billion kWh (1999) |
+| Electricity - imports: | 1.1 billion kWh (1999) |

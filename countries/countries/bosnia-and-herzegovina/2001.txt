@@ -1,0 +1,10 @@
+| Energy | Bosnia and Herzegovina |
+| --- | --- |
+| Electricity - production: | 2.585 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 38.68% |
+| Electricity - production by source: | hydro: 61.32% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 2.684 billion kWh (1999) |
+| Electricity - exports: | 150 million kWh (1999) |
+| Electricity - imports: | 430 million kWh (1999) |

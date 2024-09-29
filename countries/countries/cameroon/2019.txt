@@ -1,0 +1,29 @@
+| Energy | Cameroon |
+| --- | --- |
+| Electricity access: | population without electricity: 9 million (2017) |
+| Electricity access: | electrification - total population: 60.1% (2016) |
+| Electricity access: | electrification - urban areas: 91.9% (2016) |
+| Electricity access: | electrification - rural areas: 21.3% (2016) |
+| Electricity - production: | 8.108 billion kWh (2016 est.) |
+| Electricity - consumption: | 6.411 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 55 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 1.558 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 52% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 47% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 1% of total installed capacity (2017 est.) |
+| Crude oil - production: | 69,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 96,370 bbl/day (2015 est.) |
+| Crude oil - imports: | 36,480 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 200 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 39,080 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 45,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 8,545 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 14,090 bbl/day (2015 est.) |
+| Natural gas - production: | 910.4 million cu m (2017 est.) |
+| Natural gas - consumption: | 906.1 million cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 135.1 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 7.672 million Mt (2017 est.) |

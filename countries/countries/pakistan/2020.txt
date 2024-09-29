@@ -1,0 +1,29 @@
+| Energy | Pakistan |
+| --- | --- |
+| Electricity access: | population without electricity: 45 million (2019) |
+| Electricity access: | electrification - total population: 79% (2019) |
+| Electricity access: | electrification - urban areas: 91% (2019) |
+| Electricity access: | electrification - rural areas: 72% (2019) |
+| Electricity - production: | 109.7 billion kWh (2016 est.) |
+| Electricity - consumption: | 92.33 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 490 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 26.9 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 62% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 5% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 27% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 7% of total installed capacity (2017 est.) |
+| Crude oil - production: | 90,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 13,150 bbl/day (2015 est.) |
+| Crude oil - imports: | 168,200 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 332.2 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 291,200 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 557,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 25,510 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 264,500 bbl/day (2015 est.) |
+| Natural gas - production: | 39.05 billion cu m (2017 est.) |
+| Natural gas - consumption: | 45.05 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 6.003 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 588.8 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 179.5 million Mt (2017 est.) |

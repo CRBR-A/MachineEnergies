@@ -1,0 +1,26 @@
+| Energy | Malaysia |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 148.3 billion kWh (2016 est.) |
+| Electricity - consumption: | 136.9 billion kWh (2016 est.) |
+| Electricity - exports: | 3 million kWh (2015 est.) |
+| Electricity - imports: | 33 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 33 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 78% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 18% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 4% of total installed capacity (2017 est.) |
+| Crude oil - production: | 647,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 326,200 bbl/day (2015 est.) |
+| Crude oil - imports: | 166,000 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 3.6 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 528,300 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 704,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 208,400 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 304,600 bbl/day (2015 est.) |
+| Natural gas - production: | 69.49 billion cu m (2017 est.) |
+| Natural gas - consumption: | 30.44 billion cu m (2017 est.) |
+| Natural gas - exports: | 38.23 billion cu m (2017 est.) |
+| Natural gas - imports: | 2.803 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 1.183 trillion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 226.8 million Mt (2017 est.) |

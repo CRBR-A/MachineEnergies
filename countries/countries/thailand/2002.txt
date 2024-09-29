@@ -1,0 +1,10 @@
+| Energy | Thailand |
+| --- | --- |
+| Electricity - production: | 94.314 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 92% |
+| Electricity - production by source: | hydro: 6% |
+| Electricity - production by source: | other: 1% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 90.261 billion kWh (2000) |
+| Electricity - exports: | 151 million kWh (2000) |
+| Electricity - imports: | 2.7 billion kWh (2000) |

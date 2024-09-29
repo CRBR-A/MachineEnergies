@@ -1,0 +1,20 @@
+| Energy | Thailand |
+| --- | --- |
+| Electricity - production: | 97.6 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 91.3% |
+| Electricity - production by source: | hydro: 6.4% |
+| Electricity - production by source: | other: 2.4% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 90.91 billion kWh (2001) |
+| Electricity - exports: | 200 million kWh (2001) |
+| Electricity - imports: | 350 million kWh (2001) |
+| Oil - production: | 173,800 bbl/day (2001 est.) |
+| Oil - consumption: | 785,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 551.5 million bbl (37257) |
+| Natural gas - production: | 18.73 billion cu m (2001 est.) |
+| Natural gas - consumption: | 23.93 billion cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 5.2 billion cu m (2001 est.) |
+| Natural gas - proved reserves: | 368.2 billion cu m (37257) |

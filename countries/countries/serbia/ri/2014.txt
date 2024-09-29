@@ -1,0 +1,25 @@
+| Energy | Serbia |
+| --- | --- |
+| Electricity - production: | 37.65 billion kWh (2013 est.) |
+| Electricity - consumption: | 28.04 billion kWh (2013 est.) |
+| Electricity - exports: | 5.707 billion kWh (2013 est.) |
+| Electricity - imports: | 5.835 billion kWh (2013 est.) |
+| Electricity - installed generating capacity: | 7.379 million kW (2013 est.) |
+| Electricity - from fossil fuels: | 57.5% of total installed capacity (2013 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2013 est.) |
+| Electricity - from hydroelectric plants: | 39% of total installed capacity (2013 est.) |
+| Electricity - from other renewable sources: | 3.5% of total installed capacity (2013 est.) |
+| Crude oil - production: | 24,500 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 33,330 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 77.5 million bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 65,720 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 72,770 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 16,060 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 31,120 bbl/day (2013 est.) |
+| Natural gas - production: | 484.7 million cu m (2013 est.) |
+| Natural gas - consumption: | 2.827 billion cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 2.45 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 48.14 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 62 million Mt (2013 est.) |

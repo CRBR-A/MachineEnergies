@@ -1,0 +1,10 @@
+| Energy | Lebanon |
+| --- | --- |
+| Electricity - production: | 7.95 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 97% |
+| Electricity - production by source: | hydro: 3% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 8.643 billion kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 1.25 billion kWh (2000) |

@@ -1,0 +1,20 @@
+| Energy | Trinidad and Tobago |
+| --- | --- |
+| Electricity - production: | 5.315 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 99.8% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | other: 0.2% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 4.943 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 125,400 bbl/day (2001 est.) |
+| Oil - consumption: | 24,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 716 million bbl (37257) |
+| Natural gas - production: | 15.19 billion cu m (2001 est.) |
+| Natural gas - consumption: | 11.54 billion cu m (2001 est.) |
+| Natural gas - exports: | 3.65 billion cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 610.6 billion cu m (37257) |

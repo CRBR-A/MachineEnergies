@@ -1,0 +1,29 @@
+| Energy | CHILE |
+| --- | --- |
+| Electricity access: | population without electricity: 70,600 |
+| Electricity access: | electrification - total population: 99.6% |
+| Electricity access: | electrification - urban areas: 100% |
+| Electricity access: | electrification - rural areas: 98% (2012) |
+| Electricity - production: | 71 billion kWh (2014 est.) |
+| Electricity - consumption: | 66 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 700 million kWh (2011 est.) |
+| Electricity - installed generating capacity: | 23 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 62.1% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 33% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 4.9% of total installed capacity (2012 est.) |
+| Crude oil - production: | 6,260 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 165,900 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 150 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 205,800 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 340,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 3,761 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 152,900 bbl/day (2015 est.) |
+| Natural gas - production: | 798 million cu m (2014 est.) |
+| Natural gas - consumption: | 4.048 billion cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2014 est.) |
+| Natural gas - imports: | 3.5 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 97.97 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 76 million Mt (2013 est.) |

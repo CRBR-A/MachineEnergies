@@ -1,0 +1,19 @@
+| Energy | Singapore |
+| --- | --- |
+| Electricity - production: | 35.33 billion kWh (2003) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 32 billion kWh (2003) |
+| Electricity - exports: | 0 kWh (2003) |
+| Electricity - imports: | 0 kWh (2003) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 700,000 bbl/day (2001 est.) |
+| Oil - exports: | NA |
+| Oil - imports: | NA |
+| Natural gas - production: | 0 cu m (2001 est.) |
+| Natural gas - consumption: | 2.5 billion cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 2.5 billion cu m |
+| Natural gas - imports: | note: from Indonesia and Malaysia (2001 est.) |

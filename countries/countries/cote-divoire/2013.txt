@@ -1,0 +1,25 @@
+| Energy | Cote d'Ivoire |
+| --- | --- |
+| Electricity - production: | 5.721 billion kWh (2010 est.) |
+| Electricity - consumption: | 3.865 billion kWh (2010 est.) |
+| Electricity - exports: | 471 million kWh (2010 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 1.222 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 50.6% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 49.4% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 38,560 bbl/day (2012 est.) |
+| Crude oil - exports: | 32,190 bbl/day (2010 est.) |
+| Crude oil - imports: | 49,780 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 100 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 55,890 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 24,630 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 38,300 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 4,810 bbl/day (2010 est.) |
+| Natural gas - production: | 1.5 billion cu m (2011 est.) |
+| Natural gas - consumption: | 1.5 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 28.32 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 6.68 million Mt (2011 est.) |

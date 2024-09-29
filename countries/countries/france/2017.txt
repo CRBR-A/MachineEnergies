@@ -1,0 +1,26 @@
+| Energy | FRANCE |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 536.1 billion kWh (2015 est.) |
+| Electricity - consumption: | 436.1 billion kWh (2015 est.) |
+| Electricity - exports: | 61.41 billion kWh (2016 est.) |
+| Electricity - imports: | 20.79 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 129.3 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 16.1% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 48.8% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 14% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 16.9% of total installed capacity (2015 est.) |
+| Crude oil - production: | 16,420 bbl/day (2016 est.) |
+| Crude oil - exports: | 0 bbl/day (2016 est.) |
+| Crude oil - imports: | 1.096 million bbl/day (2016 est.) |
+| Crude oil - proved reserves: | 72.35 million bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 1.27 million bbl/day (2016 est.) |
+| Refined petroleum products - consumption: | 1.661 million bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 433,400 bbl/day (2016 est.) |
+| Refined petroleum products - imports: | 854,200 bbl/day (2016 est.) |
+| Natural gas - production: | 28 million cu m (2015 est.) |
+| Natural gas - consumption: | 42.51 billion cu m (2015 est.) |
+| Natural gas - exports: | 5.419 billion cu m (2015 est.) |
+| Natural gas - imports: | 44.38 billion cu m (2015 est.) |
+| Natural gas - proved reserves: | 8.608 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 385.6 million Mt (2013 est.) |

@@ -1,0 +1,10 @@
+| Energy | Colombia |
+| --- | --- |
+| Electricity - production: | 43.574 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 22.27% |
+| Electricity - production by source: | hydro: 76.19% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 1.54% (1999) |
+| Electricity - consumption: | 40.532 billion kWh (1999) |
+| Electricity - exports: | 27 million kWh (1999) |
+| Electricity - imports: | 35 million kWh (1999) |

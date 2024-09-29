@@ -1,0 +1,26 @@
+| Energy | HUNGARY |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 28.67 billion kWh (2015 est.) |
+| Electricity - consumption: | 38.66 billion kWh (2015 est.) |
+| Electricity - exports: | 5.24 billion kWh (2016 est.) |
+| Electricity - imports: | 17.95 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 8.468 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 64.5% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 22.3% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 0.7% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 14.1% of total installed capacity (2015 est.) |
+| Crude oil - production: | 13,830 bbl/day (2016 est.) |
+| Crude oil - exports: | 1,042 bbl/day (2016 est.) |
+| Crude oil - imports: | 120,400 bbl/day (2016 est.) |
+| Crude oil - proved reserves: | 25.1 million bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 156,100 bbl/day (2016 est.) |
+| Refined petroleum products - consumption: | 157,200 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 50,510 bbl/day (2016 est.) |
+| Refined petroleum products - imports: | 67,860 bbl/day (2016 est.) |
+| Natural gas - production: | 1.772 billion cu m (2015 est.) |
+| Natural gas - consumption: | 17.14 billion cu m (2015 est.) |
+| Natural gas - exports: | 545 million cu m (2015 est.) |
+| Natural gas - imports: | 6.79 billion cu m (2015 est.) |
+| Natural gas - proved reserves: | 7.702 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 44.2 million Mt (2015 est.) |

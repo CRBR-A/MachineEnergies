@@ -1,0 +1,25 @@
+| Energy | MOROCCO |
+| --- | --- |
+| Electricity - production: | 23.65 billion kWh (2011 est.) |
+| Electricity - consumption: | 25.14 billion kWh (2011 est.) |
+| Electricity - exports: | 818 million kWh (2012 est.) |
+| Electricity - imports: | 5.66 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 6.413 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 73.2% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 22% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 4.9% of total installed capacity (2011 est.) |
+| Crude oil - production: | 5,500 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 122,900 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 680,000 bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 131,500 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 209,400 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 20,830 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 143,000 bbl/day (2010 est.) |
+| Natural gas - production: | 62.03 million cu m (2012 est.) |
+| Natural gas - consumption: | 1.084 billion cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 1.022 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 1.444 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 39.35 million Mt (2012 est.) |

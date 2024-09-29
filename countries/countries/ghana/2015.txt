@@ -1,0 +1,25 @@
+| Energy | GHANA |
+| --- | --- |
+| Electricity - production: | 12.87 billion kWh (2013 est.) |
+| Electricity - consumption: | 10.58 billion kWh (2013 est.) |
+| Electricity - exports: | 122 million kWh (2013 est.) |
+| Electricity - imports: | 27 million kWh (2013 est.) |
+| Electricity - installed generating capacity: | 2.847 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 45% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 54% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2015 est.) |
+| Crude oil - production: | 110,000 bbl/day (2014 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 32,060 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 660 million bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 22,130 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 66,570 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 9,977 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 37,240 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2014 est.) |
+| Natural gas - consumption: | 615 million cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 615 million cu m (2012 est.) |
+| Natural gas - proved reserves: | 22.65 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 9.098 million Mt (2012 est.) |

@@ -1,0 +1,26 @@
+| Energy | UNITED KINGDOM |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 309.8 billion kWh (2015 est.) |
+| Electricity - consumption: | 301.6 billion kWh (2015 est.) |
+| Electricity - exports: | 2.153 billion kWh (2016 est.) |
+| Electricity - imports: | 19.7 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 94.64 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 55.6% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 9.4% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 1.9% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 33.4% of total installed capacity (2015 est.) |
+| Crude oil - production: | 933,000 bbl/day (2016 est.) |
+| Crude oil - exports: | 636,200 bbl/day (2016 est.) |
+| Crude oil - imports: | 808,800 bbl/day (2016 est.) |
+| Crude oil - proved reserves: | 2.564 billion bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 1.28 million bbl/day (2016 est.) |
+| Refined petroleum products - consumption: | 1.586 million bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 632,200 bbl/day (2016 est.) |
+| Refined petroleum products - imports: | 941,200 bbl/day (2016 est.) |
+| Natural gas - production: | 41.34 billion cu m (2015 est.) |
+| Natural gas - consumption: | 186.2 billion cu m (2015 est.) |
+| Natural gas - exports: | 14.22 billion cu m (2015 est.) |
+| Natural gas - imports: | 44.5 billion cu m (2015 est.) |
+| Natural gas - proved reserves: | 207.2 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 568.3 million Mt (2013 est.) |

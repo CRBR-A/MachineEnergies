@@ -1,0 +1,10 @@
+| Energy | Kazakhstan |
+| --- | --- |
+| Electricity - production: | 48.692 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 86% |
+| Electricity - production by source: | hydro: 14% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 48.336 billion kWh (2000) |
+| Electricity - exports: | 50 million kWh (2000) |
+| Electricity - imports: | 3.102 billion kWh (2000) |

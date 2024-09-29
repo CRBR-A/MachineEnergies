@@ -1,0 +1,29 @@
+| Energy | IRAQ |
+| --- | --- |
+| Electricity access: | population without electricity: 600,000 |
+| Electricity access: | electrification - total population: 98% |
+| Electricity access: | electrification - urban areas: 99.6% |
+| Electricity access: | electrification - rural areas: 95.4% (2013) |
+| Electricity - production: | 64 billion kWh (2014 est.) |
+| Electricity - consumption: | 42 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 12 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 19 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 92% of total installed capacity (2013 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2013 est.) |
+| Electricity - from hydroelectric plants: | 7.6% of total installed capacity (2013 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2013 est.) |
+| Crude oil - production: | 4.054 million bbl/day (2015 est.) |
+| Crude oil - exports: | 2.462 million bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 143 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 599,200 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 807,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 10,240 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 256,400 bbl/day (2013 est.) |
+| Natural gas - production: | 905 million cu m (2014 est.) |
+| Natural gas - consumption: | 905 million cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 3.158 trillion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 137 million Mt (2013 est.) |

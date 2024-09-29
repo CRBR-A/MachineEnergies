@@ -1,0 +1,25 @@
+| Energy | MOZAMBIQUE |
+| --- | --- |
+| Electricity - production: | 14.83 billion kWh (2012 est.) |
+| Electricity - consumption: | 10.19 billion kWh (2012 est.) |
+| Electricity - exports: | 9.462 billion kWh (2012 est.) |
+| Electricity - imports: | 8.537 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 2.429 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 10.3% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 89.7% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2011 est.) |
+| Crude oil - production: | 20 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 992 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 24,000 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 953 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 16,140 bbl/day (2010 est.) |
+| Natural gas - production: | 4.355 billion cu m (2012 est.) |
+| Natural gas - consumption: | 755 million cu m (2012 est.) |
+| Natural gas - exports: | 3.6 billion cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 2.832 trillion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 4.789 million Mt (2012 est.) |

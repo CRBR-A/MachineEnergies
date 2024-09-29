@@ -1,0 +1,28 @@
+| Energy | Venezuela |
+| --- | --- |
+| Electricity access: | electrification - total population: 99.6% (2019) |
+| Electricity access: | electrification - urban areas: 100% (2019) |
+| Electricity access: | electrification - rural areas: 99% (2019) |
+| Electricity - production: | 109.3 billion kWh (2016 est.) |
+| Electricity - consumption: | 71.96 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2015 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 31 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 51% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 49% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2017 est.) |
+| Crude oil - production: | 1.484 million bbl/day (2018 est.) |
+| Crude oil - exports: | 1.656 million bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 302.3 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 926,300 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 659,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 325,800 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 20,640 bbl/day (2015 est.) |
+| Natural gas - production: | 27.07 billion cu m (2017 est.) |
+| Natural gas - consumption: | 24.21 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 5.739 trillion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 129.9 million Mt (2017 est.) |

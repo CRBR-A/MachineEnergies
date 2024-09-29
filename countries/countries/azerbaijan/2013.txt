@@ -1,0 +1,25 @@
+| Energy | Azerbaijan |
+| --- | --- |
+| Electricity - production: | 19.44 billion kWh (2011 est.) |
+| Electricity - consumption: | 13.57 billion kWh (2010 est.) |
+| Electricity - exports: | 462 million kWh (2010 est.) |
+| Electricity - imports: | 100 million kWh (2010 est.) |
+| Electricity - installed generating capacity: | 6.392 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 84.5% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 15.4% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0.1% of total installed capacity (2010 est.) |
+| Crude oil - production: | 931,900 bbl/day (2012 est.) |
+| Crude oil - exports: | 821,000 bbl/day (2011 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 7 billion bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 133,500 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 168,000 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 53,440 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 498.6 bbl/day (2010 est.) |
+| Natural gas - production: | 17.86 billion cu m (2011 est.) |
+| Natural gas - consumption: | 9.921 billion cu m (2010 est.) |
+| Natural gas - exports: | 5.55 billion cu m (2011 est.) |
+| Natural gas - imports: | 250 million cu m (2011 est.) |
+| Natural gas - proved reserves: | 991.1 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 36.52 million Mt (2011 est.) |

@@ -1,0 +1,10 @@
+| Energy | Malta |
+| --- | --- |
+| Electricity - production: | 1.75 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 1.628 billion kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 0 kWh (2000) |

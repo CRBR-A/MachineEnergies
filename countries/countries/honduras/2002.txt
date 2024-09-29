@@ -1,0 +1,10 @@
+| Energy | Honduras |
+| --- | --- |
+| Electricity - production: | 3.573 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 37% |
+| Electricity - production by source: | hydro: 63% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 3.593 billion kWh (2000) |
+| Electricity - exports: | 5 million kWh (2000) |
+| Electricity - imports: | 275 million kWh (2000) |

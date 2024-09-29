@@ -1,0 +1,10 @@
+| Energy | Canada |
+| --- | --- |
+| Electricity - production: | 567.193 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 26.38% |
+| Electricity - production by source: | hydro: 60% |
+| Electricity - production by source: | nuclear: 12.31% |
+| Electricity - production by source: | other: 1.31% (1999) |
+| Electricity - consumption: | 497.532 billion kWh (1999) |
+| Electricity - exports: | 42.911 billion kWh (1999) |
+| Electricity - imports: | 12.953 billion kWh (1999) |

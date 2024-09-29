@@ -1,0 +1,5 @@
+| Energy | Monaco |
+| --- | --- |
+| Electricity - consumption: | NA kWh |
+| Electricity - imports: | NA kWh |
+| Electricity - imports: | note: electricity supplied by France |

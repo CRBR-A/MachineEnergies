@@ -1,0 +1,25 @@
+| Energy | TAIWAN |
+| --- | --- |
+| Electricity - production: | 258 billion kWh (2015 est.) |
+| Electricity - consumption: | 249.5 billion kWh (2015 est.) |
+| Electricity - exports: | 0 kWh (2015 est.) |
+| Electricity - imports: | 0 kWh (2015 est.) |
+| Electricity - installed generating capacity: | 54 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 75.6% of total installed capacity (2014 est.) |
+| Electricity - from nuclear fuels: | 10.6% of total installed capacity (2014 est.) |
+| Electricity - from hydroelectric plants: | 5.4% of total installed capacity (2014 est.) |
+| Electricity - from other renewable sources: | 8.4% of total installed capacity (2014 est.) |
+| Crude oil - production: | 196 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 841,300 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 10.06 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 1.299 million bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 818,700 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 352,600 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 363,100 bbl/day (2013 est.) |
+| Natural gas - production: | 1.294 billion cu m (2015 est.) |
+| Natural gas - consumption: | 17.79 billion cu m (2015 est.) |
+| Natural gas - exports: | 0 cu m (2015 est.) |
+| Natural gas - imports: | 17.94 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 6.229 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 26.69 million Mt (2014 est.) |

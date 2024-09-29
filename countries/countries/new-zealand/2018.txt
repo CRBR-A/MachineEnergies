@@ -1,0 +1,26 @@
+| Energy | New Zealand |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 42.53 billion kWh (2016 est.) |
+| Electricity - consumption: | 39.5 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 9.301 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 23% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 58% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 20% of total installed capacity (2017 est.) |
+| Crude oil - production: | 31,480 bbl/day (2017 est.) |
+| Crude oil - exports: | 26,440 bbl/day (2017 est.) |
+| Crude oil - imports: | 108,900 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 51.8 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 115,100 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 169,100 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 1,782 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 56,000 bbl/day (2017 est.) |
+| Natural gas - production: | 5.097 billion cu m (2017 est.) |
+| Natural gas - consumption: | 5.182 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 33.7 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 37.75 million Mt (2017 est.) |

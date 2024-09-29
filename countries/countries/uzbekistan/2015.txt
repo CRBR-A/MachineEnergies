@@ -1,0 +1,25 @@
+| Energy | UZBEKISTAN |
+| --- | --- |
+| Electricity - production: | 52.53 billion kWh (2012 est.) |
+| Electricity - consumption: | 45.07 billion kWh (2011 est.) |
+| Electricity - exports: | 12.25 billion kWh (2011 est.) |
+| Electricity - imports: | 12.16 billion kWh (2011 est.) |
+| Electricity - installed generating capacity: | 12.35 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 86% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 14% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2011 est.) |
+| Crude oil - production: | 100,000 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 594 million bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 92,300 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 105,600 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 4,968 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 655.9 bbl/day (2010 est.) |
+| Natural gas - production: | 62.9 billion cu m (2012 est.) |
+| Natural gas - consumption: | 52.7 billion cu m (2012 est.) |
+| Natural gas - exports: | 10.2 billion cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 1.841 trillion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 123.2 million Mt (2012 est.) |

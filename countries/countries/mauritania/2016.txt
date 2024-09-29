@@ -1,0 +1,29 @@
+| Energy | MAURITANIA |
+| --- | --- |
+| Electricity access: | population without electricity: 2,800,000 |
+| Electricity access: | electrification - total population: 28% |
+| Electricity access: | electrification - urban areas: 47% |
+| Electricity access: | electrification - rural areas: 2% (2013) |
+| Electricity - production: | 800 million kWh (2014 est.) |
+| Electricity - consumption: | 800 million kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 400,000 kW (2014 est.) |
+| Electricity - from fossil fuels: | 66.9% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 33.1% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 5,247 bbl/day (2015 est.) |
+| Crude oil - exports: | 11,250 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 20 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 16,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 16,390 bbl/day (2013 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 0 cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 28.32 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 2.4 million Mt (2013 est.) |

@@ -1,0 +1,29 @@
+| Energy | INDIA |
+| --- | --- |
+| Electricity access: | population without electricity: 237,400,000 |
+| Electricity access: | electrification - total population: 79% |
+| Electricity access: | electrification - urban areas: 98% |
+| Electricity access: | electrification - rural areas: 70% (2013) |
+| Electricity - production: | 1.218 trillion kWh (2014 est.) |
+| Electricity - consumption: | 973 billion kWh (2014 est.) |
+| Electricity - exports: | 200 million kWh (2012 est.) |
+| Electricity - imports: | 5 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 311 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 68.7% of total installed capacity (26 February 2014 ) |
+| Electricity - from nuclear fuels: | 2% of total installed capacity (26 February 2014 ) |
+| Electricity - from hydroelectric plants: | 16.9% of total installed capacity (26 February 2014 ) |
+| Electricity - from other renewable sources: | 12.4% of total installed capacity (26 February 2014 ) |
+| Crude oil - production: | 761,000 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 3.785 million bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 5.675 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 4.775 million bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 3.735 million bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 1.471 million bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 401,900 bbl/day (2013 est.) |
+| Natural gas - production: | 30.4 billion cu m (2014 est.) |
+| Natural gas - consumption: | 52.1 billion cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2014 est.) |
+| Natural gas - imports: | 21.7 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 1.489 trillion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 1.887 billion Mt (2013 est.) |

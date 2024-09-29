@@ -1,0 +1,10 @@
+| Energy | France |
+| --- | --- |
+| Electricity - production: | 513.92 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 10% |
+| Electricity - production by source: | hydro: 13% |
+| Electricity - production by source: | other: 1% (2000) |
+| Electricity - production by source: | nuclear: 77% |
+| Electricity - consumption: | 408.51 billion kWh (2000) |
+| Electricity - exports: | 73.172 billion kWh (2000) |
+| Electricity - imports: | 3.737 billion kWh (2000) |

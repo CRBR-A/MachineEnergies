@@ -1,0 +1,10 @@
+| Energy | United States |
+| --- | --- |
+| Electricity - production: | 3,799.944 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 71% |
+| Electricity - production by source: | hydro: 7% |
+| Electricity - production by source: | other: 2% (2000) |
+| Electricity - production by source: | nuclear: 20% |
+| Electricity - consumption: | 3.613 trillion kWh (2000) |
+| Electricity - exports: | 14.829 billion kWh (2000) |
+| Electricity - imports: | 48.879 billion kWh (2000) |

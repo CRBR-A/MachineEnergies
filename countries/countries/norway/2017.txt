@@ -1,0 +1,26 @@
+| Energy | NORWAY |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 149.5 billion kWh (2016 est.) |
+| Electricity - consumption: | 133.1 billion kWh (2016 est.) |
+| Electricity - exports: | 15.53 billion kWh (2016 est.) |
+| Electricity - imports: | 5.7 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 33.85 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 4.1% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 88.4% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 3.3% of total installed capacity (2015 est.) |
+| Crude oil - production: | 1.648 million bbl/day (2016 est.) |
+| Crude oil - exports: | 1.395 million bbl/day (2016 est.) |
+| Crude oil - imports: | 10,630 bbl/day (2016 est.) |
+| Crude oil - proved reserves: | 6.611 billion bbl (1 January 2017) |
+| Refined petroleum products - production: | 282,400 bbl/day (2016 est.) |
+| Refined petroleum products - consumption: | 227,700 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 353,100 bbl/day (2016 est.) |
+| Refined petroleum products - imports: | 124,500 bbl/day (2016 est.) |
+| Natural gas - production: | 117.2 billion cu m (2015 est.) |
+| Natural gas - consumption: | 9.428 billion cu m (2015 est.) |
+| Natural gas - exports: | 112 billion cu m (2015 est.) |
+| Natural gas - imports: | 0 cu m (2014 est.) |
+| Natural gas - proved reserves: | 1.856 trillion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 53.9 million Mt (2015 est.) |

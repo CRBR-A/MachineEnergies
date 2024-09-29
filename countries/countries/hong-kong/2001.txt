@@ -1,0 +1,10 @@
+| Energy | Hong Kong |
+| --- | --- |
+| Electricity - production: | 27.726 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 32.202 billion kWh (1999) |
+| Electricity - exports: | 633 million kWh (1999) |
+| Electricity - imports: | 7.05 billion kWh (1999) |

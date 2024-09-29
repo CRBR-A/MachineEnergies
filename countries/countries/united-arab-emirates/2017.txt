@@ -1,0 +1,29 @@
+| Energy | UNITED ARAB EMIRATES |
+| --- | --- |
+| Electricity access: | population without electricity: 177,824 |
+| Electricity access: | electrification - total population: 98% |
+| Electricity access: | electrification - urban areas: 99% |
+| Electricity access: | electrification - rural areas: 93% (2012) |
+| Electricity - production: | 119.7 billion kWh (2015 est.) |
+| Electricity - consumption: | 110.6 billion kWh (2015 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 28.9 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 99.5% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 0.5% of total installed capacity (2015 est.) |
+| Crude oil - production: | 3.106 million bbl/day (2016 est.) |
+| Crude oil - exports: | 2.684 million bbl/day (2014 est.) |
+| Crude oil - imports: | 0 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 97.8 billion bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 479,400 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 901,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 334,900 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 413,700 bbl/day (2014 est.) |
+| Natural gas - production: | 60.18 billion cu m (2015 est.) |
+| Natural gas - consumption: | 186 billion cu m (2015 est.) |
+| Natural gas - exports: | 11.08 billion cu m (2015 est.) |
+| Natural gas - imports: | 20.53 billion cu m (2015 est.) |
+| Natural gas - proved reserves: | 6.091 trillion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 245 million Mt (2013 est.) |

@@ -1,0 +1,25 @@
+| Energy | PAPUA NEW GUINEA |
+| --- | --- |
+| Electricity - production: | 3.325 billion kWh (2011 est.) |
+| Electricity - consumption: | 3.092 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 700,000 kW (2011 est.) |
+| Electricity - from fossil fuels: | 61.1% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 30.9% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 8% of total installed capacity (2011 est.) |
+| Crude oil - production: | 28,090 bbl/day (2013 est.) |
+| Crude oil - exports: | 28,400 bbl/day (2010 est.) |
+| Crude oil - imports: | 14,880 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 185.9 million bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 17,330 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 22,170 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 3,536 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 5,937 bbl/day (2010 est.) |
+| Natural gas - production: | 100 million cu m (2012 est.) |
+| Natural gas - consumption: | 100 million cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 155.3 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 3.385 million Mt (2012 est.) |

@@ -1,0 +1,25 @@
+| Energy | Ecuador |
+| --- | --- |
+| Electricity - production: | 21.84 billion kWh (2011 est.) |
+| Electricity - consumption: | 14.92 billion kWh (2010 est.) |
+| Electricity - exports: | 14.1 million kWh (2010 est.) |
+| Electricity - imports: | 1.3 billion kWh (2010 est.) |
+| Electricity - installed generating capacity: | 5.243 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 55.3% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 42.8% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 2% of total installed capacity (2010 est.) |
+| Crude oil - production: | 504,500 bbl/day (2012 est.) |
+| Crude oil - exports: | 366,000 bbl/day (2012 est.) |
+| Crude oil - imports: | 154,000 bbl/day (2012 est.) |
+| Crude oil - proved reserves: | 8.24 billion bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 198,700 bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 280,000 bbl/day (2012 est.) |
+| Refined petroleum products - exports: | 28,000 bbl/day (2012 est.) |
+| Refined petroleum products - imports: | 111,000 bbl/day (2012 est.) |
+| Natural gas - production: | 240 million cu m (2011 est.) |
+| Natural gas - consumption: | 330 million cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 25,000 cu m (2012 est.) |
+| Natural gas - proved reserves: | 6.994 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 29.13 million Mt (2011 est.) |

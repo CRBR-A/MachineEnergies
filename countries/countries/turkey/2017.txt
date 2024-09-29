@@ -1,0 +1,26 @@
+| Energy | TURKEY |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 245.8 billion kWh (2015 est.) |
+| Electricity - consumption: | 213.2 billion kWh (2015 est.) |
+| Electricity - exports: | 1.442 billion kWh (2016 est.) |
+| Electricity - imports: | 6.4 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 73.15 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 56.8% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 35.4% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 11.2% of total installed capacity (2015 est.) |
+| Crude oil - production: | 49,500 bbl/day (2016 est.) |
+| Crude oil - exports: | 0 bbl/day (2016 est.) |
+| Crude oil - imports: | 506,300 bbl/day (2016 est.) |
+| Crude oil - proved reserves: | 388.5 million bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 618,300 bbl/day (2016 est.) |
+| Refined petroleum products - consumption: | 943,700 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 134,900 bbl/day (2016 est.) |
+| Refined petroleum products - imports: | 527,700 bbl/day (2016 est.) |
+| Natural gas - production: | 381 million cu m (2015 est.) |
+| Natural gas - consumption: | 81.35 billion cu m (2015 est.) |
+| Natural gas - exports: | 624 million cu m (2015 est.) |
+| Natural gas - imports: | 48.43 billion cu m (2015 est.) |
+| Natural gas - proved reserves: | 18.49 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 319 million Mt (2013 est.) |

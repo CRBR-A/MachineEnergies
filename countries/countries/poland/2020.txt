@@ -1,0 +1,26 @@
+| Energy | Poland |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 156.9 billion kWh (2016 est.) |
+| Electricity - consumption: | 149.4 billion kWh (2016 est.) |
+| Electricity - exports: | 12.02 billion kWh (2016) |
+| Electricity - imports: | 14.02 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 38.11 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 79% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 2% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 19% of total installed capacity (2017 est.) |
+| Crude oil - production: | 21,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 4,451 bbl/day (2017 est.) |
+| Crude oil - imports: | 493,100 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 126 million bbl (1 January 2018) |
+| Refined petroleum products - production: | 554,200 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 649,600 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 104,800 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 222,300 bbl/day (2017 est.) |
+| Natural gas - production: | 5.748 billion cu m (2017 est.) |
+| Natural gas - consumption: | 20.1 billion cu m (2017 est.) |
+| Natural gas - exports: | 1.246 billion cu m (2017 est.) |
+| Natural gas - imports: | 15.72 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 79.79 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 359 million Mt (2017 est.) |

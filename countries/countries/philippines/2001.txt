@@ -1,0 +1,10 @@
+| Energy | Philippines |
+| --- | --- |
+| Electricity - production: | 40.745 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 61.03% |
+| Electricity - production by source: | hydro: 18.68% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 20.29% (1999) |
+| Electricity - consumption: | 37.893 billion kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

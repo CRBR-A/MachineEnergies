@@ -1,0 +1,25 @@
+| Energy | Ireland |
+| --- | --- |
+| Electricity - production: | 26.04 billion kWh (2011 est.) |
+| Electricity - consumption: | 26.1 billion kWh (2011 est.) |
+| Electricity - exports: | 370 million kWh (2012 est.) |
+| Electricity - imports: | 724 million kWh (2012 est.) |
+| Electricity - installed generating capacity: | 8.316 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 76.2% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 2.9% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 17.4% of total installed capacity (2010 est.) |
+| Crude oil - production: | 725.6 bbl/day (2012 est.) |
+| Crude oil - exports: | 1,858 bbl/day (2010 est.) |
+| Crude oil - imports: | 62,070 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 59,630 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 144,000 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 26,120 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 166,000 bbl/day (2010 est.) |
+| Natural gas - production: | 373 million cu m (2012 est.) |
+| Natural gas - consumption: | 5.506 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 4.522 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 9.911 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 36.57 million Mt (2011 est.) |

@@ -1,0 +1,25 @@
+| Energy | Korea, South |
+| --- | --- |
+| Electricity - production: | 459.5 billion kWh (2011 est.) |
+| Electricity - consumption: | 455.1 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 84.66 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 71.1% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 20.9% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 1.9% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 1.5% of total installed capacity (2010 est.) |
+| Crude oil - production: | 61,040 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 2.59 million bbl/day (2012 est.) |
+| Crude oil - proved reserves: | NA bbl |
+| Refined petroleum products - production: | 2.83 million bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 2.26 million bbl/day (2012 est.) |
+| Refined petroleum products - exports: | 944,700 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 794,000 bbl/day (2010 est.) |
+| Natural gas - production: | 437 million cu m (2012 est.) |
+| Natural gas - consumption: | 45.9 billion cu m (2011 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 47.31 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 5.267 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 611 million Mt (2011 est.) |

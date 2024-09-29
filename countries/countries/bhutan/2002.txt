@@ -1,0 +1,10 @@
+| Energy | Bhutan |
+| --- | --- |
+| Electricity - production: | 1.876 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 0% |
+| Electricity - production by source: | hydro: 100% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 380.68 million kWh (2000) |
+| Electricity - exports: | 1.385 billion kWh (2000) |
+| Electricity - imports: | 21 million kWh (2000) |

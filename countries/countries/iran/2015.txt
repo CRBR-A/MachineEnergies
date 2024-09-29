@@ -1,0 +1,25 @@
+| Energy | IRAN |
+| --- | --- |
+| Electricity - production: | 225.8 billion kWh (2011 est.) |
+| Electricity - consumption: | 185.8 billion kWh (2011 est.) |
+| Electricity - exports: | 8.668 billion kWh (2011 est.) |
+| Electricity - imports: | 3.656 billion kWh (2011 est.) |
+| Electricity - installed generating capacity: | 65.31 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 86.5% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 13.4% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0.2% of total installed capacity (2011 est.) |
+| Crude oil - production: | 3.113 million bbl/day (2013 est.) |
+| Crude oil - exports: | 1.322 million bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 157.3 billion bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 1.718 million bbl/day (2011 est.) |
+| Refined petroleum products - consumption: | 1.87 million bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 330,800 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 180,400 bbl/day (2010 est.) |
+| Natural gas - production: | 166.6 billion cu m (2013 est.) |
+| Natural gas - consumption: | 162.2 billion cu m (2013 est.) |
+| Natural gas - exports: | 9.4 billion cu m (2013 est.) |
+| Natural gas - imports: | 5 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 33.8 trillion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 603.6 million Mt (2012 est.) |

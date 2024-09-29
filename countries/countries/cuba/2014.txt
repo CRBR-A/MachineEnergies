@@ -1,0 +1,25 @@
+| Energy | Cuba |
+| --- | --- |
+| Electricity - production: | 17.8 billion kWh (2011 est.) |
+| Electricity - consumption: | 13.64 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 5.914 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 99.3% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 0.6% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0.1% of total installed capacity (2011 est.) |
+| Crude oil - production: | 50,800 bbl/day (2012 est.) |
+| Crude oil - exports: | 83,000 bbl/day (2012 est.) |
+| Crude oil - imports: | 165,000 bbl/day (2012 est.) |
+| Crude oil - proved reserves: | 124 million bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 100,600 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 150,200 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 11,320 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 4,877 bbl/day (2010 est.) |
+| Natural gas - production: | 1.03 billion cu m (2012 est.) |
+| Natural gas - consumption: | 1.03 billion cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 70.79 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 28.41 million Mt (2011 est.) |

@@ -1,0 +1,26 @@
+| Energy | Bahrain |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 26.81 billion kWh (2016 est.) |
+| Electricity - consumption: | 26.11 billion kWh (2016 est.) |
+| Electricity - exports: | 213 million kWh (2015 est.) |
+| Electricity - imports: | 276 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 3.928 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2017 est.) |
+| Crude oil - production: | 40,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 226,200 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 124.6 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 274,500 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 61,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 245,300 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 14,530 bbl/day (2015 est.) |
+| Natural gas - production: | 15.89 billion cu m (2017 est.) |
+| Natural gas - consumption: | 15.89 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 92.03 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 37.98 million Mt (2017 est.) |

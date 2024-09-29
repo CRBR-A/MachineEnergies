@@ -1,0 +1,29 @@
+| Energy | PANAMA |
+| --- | --- |
+| Electricity access: | population without electricity: 300,000 |
+| Electricity access: | electrification - total population: 91% |
+| Electricity access: | electrification - urban areas: 94% |
+| Electricity access: | electrification - rural areas: 80% (2013) |
+| Electricity - production: | 9 billion kWh (2014 est.) |
+| Electricity - consumption: | 7.8 billion kWh (2014 est.) |
+| Electricity - exports: | 99 million kWh (2014 est.) |
+| Electricity - imports: | 200 million kWh (2014 est.) |
+| Electricity - installed generating capacity: | 2.7 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 38.7% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 61.3% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 0 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2010 es) |
+| Refined petroleum products - production: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 136,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 66.08 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 127,000 bbl/day (2013 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 0 cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 17 million Mt (2013 est.) |

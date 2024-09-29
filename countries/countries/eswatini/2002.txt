@@ -1,0 +1,11 @@
+| Energy | Swaziland |
+| --- | --- |
+| Electricity - production: | 362 million kWh (2000) |
+| Electricity - production by source: | fossil fuel: 56% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | hydro: 44% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 900.66 million kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 564 million kWh |
+| Electricity - imports: | note: supplied by South Africa (2000) |

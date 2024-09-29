@@ -1,0 +1,10 @@
+| Energy | Greece |
+| --- | --- |
+| Electricity - production: | 46.432 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 89.6% |
+| Electricity - production by source: | hydro: 9.72% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0.68% (1999) |
+| Electricity - consumption: | 43.343 billion kWh (1999) |
+| Electricity - exports: | 1.65 billion kWh (1999) |
+| Electricity - imports: | 1.811 billion kWh (1999) |

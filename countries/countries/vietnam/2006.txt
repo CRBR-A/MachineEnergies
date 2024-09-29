@@ -1,0 +1,20 @@
+| Energy | Vietnam |
+| --- | --- |
+| Electricity - production: | 46.2 billion kWh (2004) |
+| Electricity - production by source: | fossil fuel: 43.7% |
+| Electricity - production by source: | hydro: 56.3% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 52 billion kWh (2004) |
+| Electricity - exports: | NA kWh |
+| Electricity - imports: | NA kWh |
+| Oil - production: | 400,000 bbl/day (2005 est.) |
+| Oil - consumption: | 216,000 bbl/day (2003 est.) |
+| Oil - exports: | NA bbl/day |
+| Oil - imports: | NA bbl/day |
+| Oil - proved reserves: | 600 million bbl (2005 est.) |
+| Natural gas - production: | 6.342 billion cu m (2005 est.) |
+| Natural gas - consumption: | 6.342 billion cu m (2005 est.) |
+| Natural gas - exports: | 0 cu m (2005 est.) |
+| Natural gas - imports: | NA cu m |
+| Natural gas - proved reserves: | 192.6 billion cu m (2005) |

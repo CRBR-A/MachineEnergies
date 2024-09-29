@@ -1,0 +1,25 @@
+| Energy | Bolivia |
+| --- | --- |
+| Electricity - production: | 6.94 billion kWh (2012 est.) |
+| Electricity - consumption: | 6.301 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 1.655 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 58.9% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 39.3% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 1.7% of total installed capacity (2012 est.) |
+| Crude oil - production: | 56,570 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 209.8 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 314,700 bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 45,840 bbl/day (2012 est.) |
+| Refined petroleum products - exports: | 864.7 bbl/day (2012 est.) |
+| Refined petroleum products - imports: | 14,150 bbl/day (2008 est.) |
+| Natural gas - production: | 48.97 billion cu m (2012 est.) |
+| Natural gas - consumption: | 8.59 billion cu m (2012 est.) |
+| Natural gas - exports: | 40.28 billion cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 281.5 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 13.98 million Mt (2011 est.) |

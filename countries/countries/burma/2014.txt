@@ -1,0 +1,25 @@
+| Energy | Burma |
+| --- | --- |
+| Electricity - production: | 7.346 billion kWh (2010 est.) |
+| Electricity - consumption: | 6.093 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 1.713 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 53.3% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 46.7% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 20,830 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 50 million bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 18,920 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 40,620 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 4,855 bbl/day (2010 est.) |
+| Natural gas - production: | 11.91 billion cu m (2011 est.) |
+| Natural gas - consumption: | 3.24 billion cu m (2010 est.) |
+| Natural gas - exports: | 8.57 billion cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 283.2 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 13.67 million Mt (2011 est.) |

@@ -1,0 +1,26 @@
+| Energy | Latvia |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 6.241 billion kWh (2016 est.) |
+| Electricity - consumption: | 6.798 billion kWh (2016 est.) |
+| Electricity - exports: | 3.795 billion kWh (2016 est.) |
+| Electricity - imports: | 4.828 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 2.932 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 39% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 53% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 8% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2017 est.) |
+| Crude oil - imports: | 0 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 44,600 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 16,180 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 54,370 bbl/day (2017 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 1.218 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 1.246 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 8.632 million Mt (2017 est.) |

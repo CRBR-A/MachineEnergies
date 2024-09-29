@@ -1,0 +1,29 @@
+| Energy | NEPAL |
+| --- | --- |
+| Electricity access: | population without electricity: 6,600,000 |
+| Electricity access: | electrification - total population: 76% |
+| Electricity access: | electrification - urban areas: 97% |
+| Electricity access: | electrification - rural areas: 72% (2013) |
+| Electricity - production: | 3.342 billion kWh (FY 2016 est.) |
+| Electricity - consumption: | 3.746 billion kWh (FY 2016 est.) |
+| Electricity - exports: | 3.25 million kWh (FY 2016 est.) |
+| Electricity - imports: | 1.758 billion kWh (FY 2016 est.) |
+| Electricity - installed generating capacity: | 838,100 kW (2015 est.) |
+| Electricity - from fossil fuels: | 6.3% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 89.8% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 3.6% of total installed capacity (2015 est.) |
+| Crude oil - production: | 0 bbl/day (2016 est.) |
+| Crude oil - exports: | 2.016 million bbl/day (1) |
+| Crude oil - imports: | 2.016 million bbl/day (1) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 0 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 32,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 30,590 bbl/day (2014 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 0 cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 4.2 million Mt (2013 est.) |

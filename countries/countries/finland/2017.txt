@@ -1,0 +1,26 @@
+| Energy | FINLAND |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 65.17 billion kWh (2015 est.) |
+| Electricity - consumption: | 79.07 billion kWh (2015 est.) |
+| Electricity - exports: | 3.159 billion kWh (2016 est.) |
+| Electricity - imports: | 22.11 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 15.88 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 44.5% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 17.3% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 20.5% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 23.5% of total installed capacity (2015 est.) |
+| Crude oil - production: | 0 bbl/day (2016 est.) |
+| Crude oil - exports: | 0 bbl/day (2016 est.) |
+| Crude oil - imports: | 220,400 bbl/day (2016 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 303,600 bbl/day (2016 est.) |
+| Refined petroleum products - consumption: | 200,700 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 167,200 bbl/day (2016 est.) |
+| Refined petroleum products - imports: | 147,600 bbl/day (2016 est.) |
+| Natural gas - production: | 8 million cu m (2015 est.) |
+| Natural gas - consumption: | 3.243 billion cu m (2015 est.) |
+| Natural gas - exports: | 0 cu m (2016 est.) |
+| Natural gas - imports: | 2.713 billion cu m (2015 est.) |
+| Natural gas - proved reserves: | NA cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 43 million Mt (2016 est.) |

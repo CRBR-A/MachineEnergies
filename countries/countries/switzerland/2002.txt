@@ -1,0 +1,10 @@
+| Energy | Switzerland |
+| --- | --- |
+| Electricity - production: | 64.182 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 4% |
+| Electricity - production by source: | hydro: 57% |
+| Electricity - production by source: | other: 2% (2000) |
+| Electricity - production by source: | nuclear: 37% |
+| Electricity - consumption: | 52.62 billion kWh (2000) |
+| Electricity - exports: | 31.4 billion kWh (2000) |
+| Electricity - imports: | 24.33 billion kWh (2000) |

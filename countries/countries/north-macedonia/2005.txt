@@ -1,0 +1,14 @@
+| Energy | Macedonia |
+| --- | --- |
+| Electricity - production: | 6.273 billion kWh (2003) |
+| Electricity - production by source: | fossil fuel: 83.7% |
+| Electricity - production by source: | hydro: 16.3% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 7.216 billion kWh (2003) |
+| Electricity - exports: | 0 kWh (2003) |
+| Electricity - imports: | 953 million kWh (2003) |
+| Oil - production: | 0 bbl/day (2003 est.) |
+| Oil - consumption: | 22,000 bbl/day (2003 est.) |
+| Oil - exports: | NA |
+| Oil - imports: | NA |

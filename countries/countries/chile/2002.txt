@@ -1,0 +1,10 @@
+| Energy | Chile |
+| --- | --- |
+| Electricity - production: | 39.577 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 51% |
+| Electricity - production by source: | hydro: 46% |
+| Electricity - production by source: | other: 2% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 37.897 billion kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 1.09 billion kWh (2000) |

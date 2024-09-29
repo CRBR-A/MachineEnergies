@@ -1,0 +1,25 @@
+| Energy | AUSTRALIA |
+| --- | --- |
+| Electricity - production: | 239.7 billion kWh (2012 est.) |
+| Electricity - consumption: | 226.9 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 61.94 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 79.7% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 13.2% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 7.1% of total installed capacity (2011 est.) |
+| Crude oil - production: | 410,600 bbl/day (2013 est.) |
+| Crude oil - exports: | 261,300 bbl/day (2012 est.) |
+| Crude oil - imports: | 503,100 bbl/day (2012 est.) |
+| Crude oil - proved reserves: | 1.433 billion bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 659,700 bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 1.083 million bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 70,810 bbl/day (2012 est.) |
+| Refined petroleum products - imports: | 386,000 bbl/day (2010 est.) |
+| Natural gas - production: | 61.7 billion cu m (2013 est.) |
+| Natural gas - consumption: | 35.65 billion cu m (2013 est.) |
+| Natural gas - exports: | 32.56 billion cu m (2013 est.) |
+| Natural gas - imports: | 6.517 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 1.219 trillion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 420.6 million Mt (2012 est.) |

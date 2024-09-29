@@ -1,0 +1,25 @@
+| Energy | BULGARIA |
+| --- | --- |
+| Electricity - production: | 47.21 billion kWh (2014 est.) |
+| Electricity - consumption: | 28.5 billion kWh (2013 est.) |
+| Electricity - exports: | 6.2 billion kWh (2013 est.) |
+| Electricity - imports: | 3.351 billion kWh (2013 est.) |
+| Electricity - installed generating capacity: | 12.9 million kW (2013 est.) |
+| Electricity - from fossil fuels: | 46% of total installed capacity (2013 est.) |
+| Electricity - from nuclear fuels: | 15.5% of total installed capacity (2013 est.) |
+| Electricity - from hydroelectric plants: | 21% of total installed capacity (2013 est.) |
+| Electricity - from other renewable sources: | 17.5% of total installed capacity (2013 est.) |
+| Crude oil - production: | 1,400 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2012 est.) |
+| Crude oil - imports: | 124,700 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 15 million bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 128,500 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 94,000 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 73,740 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 50,130 bbl/day (2010 est.) |
+| Natural gas - production: | 283 million cu m (2013 est.) |
+| Natural gas - consumption: | 2.813 billion cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 2.569 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 5.663 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 44.51 million Mt (2013 est.) |

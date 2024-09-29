@@ -1,0 +1,20 @@
+| Energy | Germany |
+| --- | --- |
+| Electricity - production: | 560 billion kWh (2003) |
+| Electricity - production by source: | fossil fuel: 61.8% |
+| Electricity - production by source: | hydro: 4.2% |
+| Electricity - production by source: | nuclear: 29.9% |
+| Electricity - production by source: | other: 4.1% (2001) |
+| Electricity - consumption: | 519.5 billion kWh (2003) |
+| Electricity - exports: | 53.8 billion kWh (2003) |
+| Electricity - imports: | 45.8 billion kWh (2003) |
+| Oil - production: | 74,100 bbl/day (2003) |
+| Oil - consumption: | 2.891 million bbl/day (2003) |
+| Oil - exports: | 12,990 bbl/day (2003) |
+| Oil - imports: | 2.135 million bbl/day (2003) |
+| Oil - proved reserves: | 395.8 million bbl (1 January 2004) |
+| Natural gas - production: | 21 billion cu m (2003) |
+| Natural gas - consumption: | 99.55 billion cu m (2003) |
+| Natural gas - exports: | 7.731 billion cu m (2003) |
+| Natural gas - imports: | 85.02 billion cu m (2003) |
+| Natural gas - proved reserves: | 293 billion cu m (1 January 2004) |

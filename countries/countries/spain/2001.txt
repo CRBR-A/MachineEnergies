@@ -1,0 +1,10 @@
+| Energy | Spain |
+| --- | --- |
+| Electricity - production: | 197.694 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 57.71% |
+| Electricity - production by source: | hydro: 12.1% |
+| Electricity - production by source: | nuclear: 28.28% |
+| Electricity - production by source: | other: 1.91% (1999) |
+| Electricity - consumption: | 189.57 billion kWh (1999) |
+| Electricity - exports: | 6.23 billion kWh (1999) |
+| Electricity - imports: | 11.945 billion kWh (1999) |

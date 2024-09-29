@@ -1,0 +1,7 @@
+| Energy | South Georgia and the South Sandwich Islands |
+| --- | --- |
+| Electricity - production by source: | fossil fuel: NA% |
+| Electricity - production by source: | hydro: NA% |
+| Electricity - production by source: | nuclear: NA% |
+| Electricity - production by source: | other: NA% |
+| Electricity - consumption: | NA kWh |

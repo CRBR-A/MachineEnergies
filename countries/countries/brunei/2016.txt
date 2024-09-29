@@ -1,0 +1,29 @@
+| Energy | BRUNEI |
+| --- | --- |
+| Electricity access: | population without electricity: 104,788 |
+| Electricity access: | electrification - total population: 76% |
+| Electricity access: | electrification - urban areas: 79% |
+| Electricity access: | electrification - rural areas: 67% (2012) |
+| Electricity - production: | 4.2 billion kWh (2014 est.) |
+| Electricity - consumption: | 3.766 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2014 est.) |
+| Electricity - imports: | 0 kWh (2014 est.) |
+| Electricity - installed generating capacity: | 777,000 kW (2014 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2014 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2014 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2014 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2014 est.) |
+| Crude oil - production: | 115,300 bbl/day (2015 est.) |
+| Crude oil - exports: | 117,600 bbl/day (2014 est.) |
+| Crude oil - imports: | 0 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 1.1 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 10,910 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 18,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 189.1 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 6,099 bbl/day (2013 est.) |
+| Natural gas - production: | 10.7 billion cu m (2014 est.) |
+| Natural gas - consumption: | 2.4 billion cu m (2014 est.) |
+| Natural gas - exports: | 8.3 billion cu m (2014 est.) |
+| Natural gas - imports: | 0 cu m (2014 est.) |
+| Natural gas - proved reserves: | 390.8 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 8.4 million Mt (2013 est.) |

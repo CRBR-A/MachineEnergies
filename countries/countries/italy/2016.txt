@@ -1,0 +1,26 @@
+| Energy | ITALY |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 267 billion kWh (2014 est.) |
+| Electricity - consumption: | 291 billion kWh (2014 est.) |
+| Electricity - exports: | 3 billion kWh (2014 est.) |
+| Electricity - imports: | 47 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 122 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 58.9% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 11.5% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 23.4% of total installed capacity (2012 est.) |
+| Crude oil - production: | 100,200 bbl/day (2015 est.) |
+| Crude oil - exports: | 24,640 bbl/day (2015 est.) |
+| Crude oil - imports: | 1.395 million bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 544.5 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 1.578 million bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 1.266 million bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 533,900 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 261,900 bbl/day (2015 est.) |
+| Natural gas - production: | 7.149 billion cu m (2014 est.) |
+| Natural gas - consumption: | 61.91 billion cu m (2014 est.) |
+| Natural gas - exports: | 237 million cu m (2014 est.) |
+| Natural gas - imports: | 55.76 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 53.72 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 362 million Mt (2013 est.) |

@@ -1,0 +1,10 @@
+| Energy | Albania |
+| --- | --- |
+| Electricity - production: | 4.738 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 3% |
+| Electricity - production by source: | hydro: 97% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 5.378 billion kWh (2000) |
+| Electricity - exports: | 100 million kWh (2000) |
+| Electricity - imports: | 1.072 billion kWh (2000) |

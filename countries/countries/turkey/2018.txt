@@ -1,0 +1,26 @@
+| Energy | Turkey |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 261.9 billion kWh (2016 est.) |
+| Electricity - consumption: | 231.1 billion kWh (2016 est.) |
+| Electricity - exports: | 1.442 billion kWh (2016 est.) |
+| Electricity - imports: | 6.33 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 78.5 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 53% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 33% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 14% of total installed capacity (2017 est.) |
+| Crude oil - production: | 245,000 bbl/day (2017 est.) |
+| Crude oil - exports: | 0 bbl/day (2017 est.) |
+| Crude oil - imports: | 521,500 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 341.6 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 657,900 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 989,900 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 141,600 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 560,000 bbl/day (2017 est.) |
+| Natural gas - production: | 368.1 million cu m (2017 est.) |
+| Natural gas - consumption: | 53.6 billion cu m (2017 est.) |
+| Natural gas - exports: | 622.9 million cu m (2017 est.) |
+| Natural gas - imports: | 55.13 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 5.097 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 379.5 million Mt (2017 est.) |

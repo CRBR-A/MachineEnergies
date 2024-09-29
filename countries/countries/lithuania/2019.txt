@@ -1,0 +1,26 @@
+| Energy | Lithuania |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 3.131 billion kWh (2016 est.) |
+| Electricity - consumption: | 10.5 billion kWh (2016 est.) |
+| Electricity - exports: | 730 million kWh (2015 est.) |
+| Electricity - imports: | 11.11 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 3.71 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 73% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 4% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 23% of total installed capacity (2017 est.) |
+| Crude oil - production: | 2,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 1,002 bbl/day (2015 est.) |
+| Crude oil - imports: | 182,900 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 12 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 196,500 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 58,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 174,800 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 42,490 bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 2.492 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 2.492 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (2016 est.) |
+| Carbon dioxide emissions from consumption of energy: | 13.49 million Mt (2017 est.) |

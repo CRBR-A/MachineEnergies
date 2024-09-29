@@ -1,0 +1,27 @@
+| Energy | Moldova |
+| --- | --- |
+| Electricity - production: | 932 million kWh (2012 est.) |
+| Electricity - consumption: | 4.211 billion kWh (2012 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 3.297 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 439,900 kW |
+| Electricity - installed generating capacity: | note: excludes Transnistria (2013 est.) |
+| Electricity - from fossil fuels: | 96.4% of total installed capacity (2013 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2013 est.) |
+| Electricity - from hydroelectric plants: | 3.6% of total installed capacity (2013 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2013 est.) |
+| Crude oil - production: | 221 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2012 est.) |
+| Crude oil - imports: | 0 bbl/day (2012 est.) |
+| Crude oil - proved reserves: | 7,330 bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 321 bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 15,320 bbl/day (2012 est.) |
+| Refined petroleum products - exports: | 552 bbl/day (2012 est.) |
+| Refined petroleum products - imports: | 15,280 bbl/day (2012 est.) |
+| Natural gas - production: | 0 cu m (2012 est.) |
+| Natural gas - consumption: | 1.095 billion cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 1.095 billion cu m |
+| Natural gas - imports: | note: excludes Transnistria (2012 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 6.467 million Mt (2011 est.) |

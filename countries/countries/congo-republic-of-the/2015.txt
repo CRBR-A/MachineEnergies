@@ -1,0 +1,25 @@
+| Energy | CONGO, REPUBLIC OF THE |
+| --- | --- |
+| Electricity - production: | 1.303 billion kWh (2012 est.) |
+| Electricity - consumption: | 740 million kWh (2012 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 55 million kWh (2012 est.) |
+| Electricity - installed generating capacity: | 238,000 kW (2012 est.) |
+| Electricity - from fossil fuels: | 12.2% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 87.8% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 250,000 bbl/day (2014 est.) |
+| Crude oil - exports: | 278,400 bbl/day (2012 est.) |
+| Crude oil - imports: | 0 bbl/day (2012 est.) |
+| Crude oil - proved reserves: | 1.6 billion bbl (1 January 2015 est.) |
+| Refined petroleum products - production: | 17,740 bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 15,000 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 5,160 bbl/day (2012 est.) |
+| Refined petroleum products - imports: | 2,571 bbl/day (2012 est.) |
+| Natural gas - production: | 1.65 billion cu m (2013 est.) |
+| Natural gas - consumption: | 1.65 billion cu m (2013 est.) |
+| Natural gas - exports: | 39 million cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 90.61 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 6.691 million Mt (2012 est.) |

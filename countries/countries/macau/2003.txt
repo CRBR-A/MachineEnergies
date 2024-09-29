@@ -1,0 +1,14 @@
+| Energy | Macau |
+| --- | --- |
+| Electricity - production: | 1.611 billion kWh (2002) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 1.688 billion kWh (2002) |
+| Electricity - exports: | 1 million kWh (2001) |
+| Electricity - imports: | 193 million kWh (2002) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 11,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |

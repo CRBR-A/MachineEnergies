@@ -1,0 +1,20 @@
+| Energy | Qatar |
+| --- | --- |
+| Electricity - production: | 13.54 billion kWh (2005) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 12.52 billion kWh (2005) |
+| Electricity - exports: | 0 kWh (2005) |
+| Electricity - imports: | 0 kWh (2005) |
+| Oil - production: | 790,500 bbl/day (2005 est.) |
+| Oil - consumption: | 80,000 bbl/day (2004 est.) |
+| Oil - exports: | NA bbl/day |
+| Oil - imports: | NA bbl/day |
+| Oil - proved reserves: | 15.2 billion bbl (1 January 2006) |
+| Natural gas - production: | 43.93 billion cu m (2005 est.) |
+| Natural gas - consumption: | 17.93 billion cu m (2005 est.) |
+| Natural gas - exports: | 25.99 billion cu m (2005 est.) |
+| Natural gas - imports: | 0 cu m (2005) |
+| Natural gas - proved reserves: | 24.73 trillion cu m (1 January 2006 est.) |

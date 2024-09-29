@@ -1,0 +1,25 @@
+| Energy | Romania |
+| --- | --- |
+| Electricity - production: | 62.6 billion kWh (2011 est.) |
+| Electricity - consumption: | 45.61 billion kWh (2009 est.) |
+| Electricity - exports: | 3.03 billion kWh (2010 est.) |
+| Electricity - imports: | 767 million kWh (2010 est.) |
+| Electricity - installed generating capacity: | 21.2 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 62.5% of total installed capacity (2009 est.) |
+| Electricity - from nuclear fuels: | 6.3% of total installed capacity (2009 est.) |
+| Electricity - from hydroelectric plants: | 31.1% of total installed capacity (2009 est.) |
+| Electricity - from other renewable sources: | 0.1% of total installed capacity (2009 est.) |
+| Crude oil - production: | 92,140 bbl/day (2011 est.) |
+| Crude oil - exports: | 0 bbl/day (2009 est.) |
+| Crude oil - imports: | 169,000 bbl/day (2009 est.) |
+| Crude oil - proved reserves: | 600 million bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 298,200 bbl/day (2008 est.) |
+| Refined petroleum products - consumption: | 218,200 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 107,300 bbl/day (2008 est.) |
+| Refined petroleum products - imports: | 34,250 bbl/day (2008 est.) |
+| Natural gas - production: | 10.59 billion cu m (2010 est.) |
+| Natural gas - consumption: | 12.87 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2010 est.) |
+| Natural gas - imports: | 2.28 billion cu m (2010 est.) |
+| Natural gas - proved reserves: | 63 billion cu m (1 January 2012 est.) |
+| Carbon dioxide emissions from consumption of energy: | 78.43 million Mt (2010 est.) |

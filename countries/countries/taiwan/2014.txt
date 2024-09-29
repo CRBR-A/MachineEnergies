@@ -1,0 +1,25 @@
+| Energy | Taiwan |
+| --- | --- |
+| Electricity - production: | 252.2 billion kWh (2011 est.) |
+| Electricity - consumption: | 242.2 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2011 est.) |
+| Electricity - imports: | 0 kWh (2011 est.) |
+| Electricity - installed generating capacity: | 48.75 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 77.2% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 10.6% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 5.3% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 6.9% of total installed capacity (2011 est.) |
+| Crude oil - production: | 21,680 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2011 est.) |
+| Crude oil - imports: | 885,900 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 2.38 million bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 920,200 bbl/day (2011 est.) |
+| Refined petroleum products - consumption: | 786,100 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 255,000 bbl/day (2011 est.) |
+| Refined petroleum products - imports: | 304,700 bbl/day (2011 est.) |
+| Natural gas - production: | 330.2 million cu m (2011 est.) |
+| Natural gas - consumption: | 16.37 billion cu m (2011 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 15.9 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 6.229 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 293.3 million Mt (2011 est.) |

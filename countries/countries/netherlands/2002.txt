@@ -1,0 +1,10 @@
+| Energy | Netherlands |
+| --- | --- |
+| Electricity - production: | 87.953 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 90% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | other: 5% (2000) |
+| Electricity - production by source: | nuclear: 4% |
+| Electricity - consumption: | 100.71 billion kWh (2000) |
+| Electricity - exports: | 4.031 billion kWh (2000) |
+| Electricity - imports: | 22.946 billion kWh (2000) |

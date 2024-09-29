@@ -1,0 +1,20 @@
+| Energy | Austria |
+| --- | --- |
+| Electricity - production: | 63.69 billion kWh (2004) |
+| Electricity - production by source: | fossil fuel: 29.3% |
+| Electricity - production by source: | hydro: 67.2% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 3.5% (2001) |
+| Electricity - consumption: | 64.78 billion kWh (2004) |
+| Electricity - exports: | 13.53 billion kWh (2004) |
+| Electricity - imports: | 16.63 billion kWh (2004) |
+| Oil - production: | 17,810 bbl/day (2004) |
+| Oil - consumption: | 249,000 bbl/day (2004 est.) |
+| Oil - exports: | 30,140 bbl/day (2004) |
+| Oil - imports: | 152,600 bbl/day (2004) |
+| Oil - proved reserves: | 84.3 million bbl (2004) |
+| Natural gas - production: | 1.96 billion cu m (2004) |
+| Natural gas - consumption: | 9.01 billion cu m (2004) |
+| Natural gas - exports: | 0 cu m (2004) |
+| Natural gas - imports: | 7.05 billion cu m (2004) |
+| Natural gas - proved reserves: | 23.2 billion cu m (2004) |

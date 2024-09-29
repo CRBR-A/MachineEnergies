@@ -1,0 +1,10 @@
+| Energy | United Kingdom |
+| --- | --- |
+| Electricity - production: | 355.76 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 73% |
+| Electricity - production by source: | hydro: 1% |
+| Electricity - production by source: | other: 2% (2000) |
+| Electricity - production by source: | nuclear: 23% |
+| Electricity - consumption: | 345.03 billion kWh (2000) |
+| Electricity - exports: | 134 million kWh (2000) |
+| Electricity - imports: | 14.308 billion kWh (2000) |

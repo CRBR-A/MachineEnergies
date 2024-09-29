@@ -1,0 +1,10 @@
+| Energy | New Zealand |
+| --- | --- |
+| Electricity - production: | 37.952 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 30.49% |
+| Electricity - production by source: | hydro: 61.42% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 8.09% (1999) |
+| Electricity - consumption: | 35.295 billion kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

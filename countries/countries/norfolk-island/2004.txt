@@ -1,0 +1,4 @@
+| Energy | Norfolk Island |
+| --- | --- |
+| Electricity - production: | NA kWh |
+| Electricity - consumption: | NA kWh |

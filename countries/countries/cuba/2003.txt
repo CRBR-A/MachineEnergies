@@ -1,0 +1,20 @@
+| Energy | Cuba |
+| --- | --- |
+| Electricity - production: | 14.38 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 93.9% |
+| Electricity - production by source: | hydro: 0.6% |
+| Electricity - production by source: | other: 5.4% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 13.38 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 50,000 bbl/day (2001 est.) |
+| Oil - consumption: | 163,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 532 million bbl (37257) |
+| Natural gas - production: | 600 million cu m (2001 est.) |
+| Natural gas - consumption: | 600 million cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 42.62 billion cu m (37257) |

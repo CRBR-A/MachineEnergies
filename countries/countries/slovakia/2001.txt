@@ -1,0 +1,10 @@
+| Energy | Slovakia |
+| --- | --- |
+| Electricity - production: | 22.582 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 37.56% |
+| Electricity - production by source: | hydro: 18.27% |
+| Electricity - production by source: | nuclear: 44.17% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 21.471 billion kWh (1999) |
+| Electricity - exports: | 930 million kWh (1999) |
+| Electricity - imports: | 1.4 billion kWh (1999) |

@@ -1,0 +1,29 @@
+| Energy | COTE D'IVOIRE |
+| --- | --- |
+| Electricity access: | population without electricity: 15,000,000 |
+| Electricity access: | electrification - total population: 26% |
+| Electricity access: | electrification - urban areas: 42% |
+| Electricity access: | electrification - rural areas: 8% (2013) |
+| Electricity - production: | 8.262 billion kWh (2015 est.) |
+| Electricity - consumption: | 5.669 billion kWh (2015 est.) |
+| Electricity - exports: | 872 million kWh (2015 est.) |
+| Electricity - imports: | 23 million kWh (2015 est.) |
+| Electricity - installed generating capacity: | 1.9 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 66.9% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 33.1% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2015 est.) |
+| Crude oil - production: | 30,000 bbl/day (2016 est.) |
+| Crude oil - exports: | 34,720 bbl/day (2014 est.) |
+| Crude oil - imports: | 65,540 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 100 million bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 67,260 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 43,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 31,550 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 5,975 bbl/day (2014 est.) |
+| Natural gas - production: | 2.063 billion cu m (2015 est.) |
+| Natural gas - consumption: | 2.897 billion cu m (2015 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 28.32 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 8.995 million Mt (2013 est.) |

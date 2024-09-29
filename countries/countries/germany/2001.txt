@@ -1,0 +1,10 @@
+| Energy | Germany |
+| --- | --- |
+| Electricity - production: | 531.377 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 63.29% |
+| Electricity - production by source: | hydro: 3.59% |
+| Electricity - production by source: | nuclear: 30.3% |
+| Electricity - production by source: | other: 2.82% (1999) |
+| Electricity - consumption: | 495.181 billion kWh (1999) |
+| Electricity - exports: | 39.5 billion kWh (1999) |
+| Electricity - imports: | 40.5 billion kWh (1999) |

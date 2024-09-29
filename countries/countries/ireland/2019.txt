@@ -1,0 +1,26 @@
+| Energy | Ireland |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 28.53 billion kWh (2016 est.) |
+| Electricity - consumption: | 25.68 billion kWh (2016 est.) |
+| Electricity - exports: | 1.583 billion kWh (2016 est.) |
+| Electricity - imports: | 871 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 9.945 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 65% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 2% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 33% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2018 est.) |
+| Crude oil - exports: | 5,900 bbl/day (2017 est.) |
+| Crude oil - imports: | 66,210 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 64,970 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 153,700 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 37,040 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 126,600 bbl/day (2017 est.) |
+| Natural gas - production: | 3.511 billion cu m (2017 est.) |
+| Natural gas - consumption: | 5.238 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 1.642 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 9.911 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 36.91 million Mt (2017 est.) |

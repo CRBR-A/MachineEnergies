@@ -1,0 +1,26 @@
+| Energy | Thailand |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 181.5 billion kWh (2016 est.) |
+| Electricity - consumption: | 187.7 billion kWh (2016 est.) |
+| Electricity - exports: | 2.267 billion kWh (2015 est.) |
+| Electricity - imports: | 19.83 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 44.89 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 76% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 8% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 16% of total installed capacity (2017 est.) |
+| Crude oil - production: | 228,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 790 bbl/day (2015 est.) |
+| Crude oil - imports: | 875,400 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 349.4 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 1.328 million bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 1.326 million bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 278,300 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 134,200 bbl/day (2015 est.) |
+| Natural gas - production: | 38.59 billion cu m (2017 est.) |
+| Natural gas - consumption: | 52.64 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 14.41 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 193.4 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 355 million Mt (2017 est.) |

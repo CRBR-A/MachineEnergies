@@ -1,0 +1,29 @@
+| Energy | JORDAN |
+| --- | --- |
+| Electricity access: | population without electricity: 40,926 |
+| Electricity access: | electrification - total population: 99.5% |
+| Electricity access: | electrification - urban areas: 99% |
+| Electricity access: | electrification - rural areas: 99.4% (2012) |
+| Electricity - production: | 17.76 billion kWh (2015 est.) |
+| Electricity - consumption: | 16.13 billion kWh (2015 est.) |
+| Electricity - exports: | 50 million kWh (2015 est.) |
+| Electricity - imports: | 604 million kWh (2015 est.) |
+| Electricity - installed generating capacity: | 4.382 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 96.3% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 0.3% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 9.5% of total installed capacity (2015 est.) |
+| Crude oil - production: | 22 bbl/day (2016 est.) |
+| Crude oil - exports: | 0 bbl/day (2014 est.) |
+| Crude oil - imports: | 63,220 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 1 million bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 65,150 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 160,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 93,860 bbl/day (2014 est.) |
+| Natural gas - production: | 151 million cu m (2015 est.) |
+| Natural gas - consumption: | 3.509 billion cu m (2015 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 2.746 billion cu m (2015 est.) |
+| Natural gas - proved reserves: | 6.031 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 19 million Mt (2013 est.) |

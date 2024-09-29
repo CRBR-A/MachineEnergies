@@ -1,0 +1,25 @@
+| Energy | Iraq |
+| --- | --- |
+| Electricity - production: | 47.4 billion kWh (2010 est.) |
+| Electricity - consumption: | 35.12 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 12.28 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 10.11 million kW (2012 est.) |
+| Electricity - from fossil fuels: | 69% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 31% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 3.3 million bbl/day (2012 est.) |
+| Crude oil - exports: | 2.6 million bbl/day (2012 est.) |
+| Crude oil - imports: | 0 bbl/day (2012 est.) |
+| Crude oil - proved reserves: | 143.1 billion bbl (1 January 2012 est.) |
+| Refined petroleum products - production: | 410,500 bbl/day (2008 est.) |
+| Refined petroleum products - consumption: | 818,000 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2008 est.) |
+| Refined petroleum products - imports: | 144,100 bbl/day (2008 est.) |
+| Natural gas - production: | 1.303 billion cu m (2010 est.) |
+| Natural gas - consumption: | 1.3 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2010 est.) |
+| Natural gas - imports: | 0 cu m (2010 est.) |
+| Natural gas - proved reserves: | 3.171 trillion cu m (1 January 2012 est.) |
+| Carbon dioxide emissions from consumption of energy: | 118.3 million Mt (2010 est.) |

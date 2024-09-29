@@ -1,0 +1,29 @@
+| Energy | CHINA |
+| --- | --- |
+| Electricity access: | population without electricity: 1,200,000 |
+| Electricity access: | electrification - total population: 99.9% |
+| Electricity access: | electrification - urban areas: 100% |
+| Electricity access: | electrification - rural areas: 99.8% (2016) |
+| Electricity - production: | 6.142 trillion kWh (2016 est.) |
+| Electricity - consumption: | 5.92 trillion kWh (2016 est.) |
+| Electricity - exports: | 18.91 billion kWh (2016 est.) |
+| Electricity - imports: | 6.185 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 1.646 billion kW (2016 est.) |
+| Electricity - from fossil fuels: | 64% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 2% of total installed capacity (2016 est.) |
+| Electricity - from hydroelectric plants: | 20.2% of total installed capacity (2016 est.) |
+| Electricity - from other renewable sources: | 13.7% of total installed capacity (2016 est.) |
+| Crude oil - production: | 3.981 million bbl/day (2016 est.) |
+| Crude oil - exports: | 32,000 bbl/day (2014 est.) |
+| Crude oil - imports: | 6.167 million bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 25.62 billion bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 10.85 million bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 11.75 million bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 709,900 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 971,900 bbl/day (2014 est.) |
+| Natural gas - production: | 138.4 billion cu m (2016 est.) |
+| Natural gas - consumption: | 210.3 billion cu m (2016 est.) |
+| Natural gas - exports: | 3.243 billion cu m (2015 est.) |
+| Natural gas - imports: | 75.1 billion cu m (2016 est.) |
+| Natural gas - proved reserves: | 5.194 trillion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 9.135 billion Mt (2014 est.) |

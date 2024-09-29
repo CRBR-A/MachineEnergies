@@ -1,0 +1,10 @@
+| Energy | Italy |
+| --- | --- |
+| Electricity - production: | 247.679 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 79.09% |
+| Electricity - production by source: | hydro: 18.08% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 2.83% (1999) |
+| Electricity - consumption: | 272.35 billion kWh (1999) |
+| Electricity - exports: | 530 million kWh (1999) |
+| Electricity - imports: | 42.539 billion kWh (1999) |

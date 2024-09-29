@@ -1,0 +1,25 @@
+| Energy | Israel |
+| --- | --- |
+| Electricity - production: | 55.77 billion kWh (2011 est.) |
+| Electricity - consumption: | 48.73 billion kWh (2010 est.) |
+| Electricity - exports: | 4.224 billion kWh (2011 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 15.33 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 98.1% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 1.8% of total installed capacity (2010 est.) |
+| Crude oil - production: | 5,839 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 260,600 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 11.5 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 278,400 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 238,400 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 83,700 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 56,420 bbl/day (2010 est.) |
+| Natural gas - production: | 2.6 billion cu m (2011 est.) |
+| Natural gas - consumption: | 3.65 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 720 million cu m (2011 est.) |
+| Natural gas - proved reserves: | 268.5 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 72.1 million Mt (2011 est.) |

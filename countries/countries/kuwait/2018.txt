@@ -1,0 +1,29 @@
+| Energy | Kuwait |
+| --- | --- |
+| Electricity access: | population without electricity: 56,655 (2012) |
+| Electricity access: | electrification - total population: 98% (2012) |
+| Electricity access: | electrification - urban areas: 98% (2012) |
+| Electricity access: | electrification - rural areas: 93% (2012) |
+| Electricity - production: | 65.95 billion kWh (2016 est.) |
+| Electricity - consumption: | 57.78 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 18.89 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2017 est.) |
+| Crude oil - production: | 2.753 million bbl/day (2017 est.) |
+| Crude oil - exports: | 479,700 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 101.5 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 915,800 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 446,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 705,500 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 0 bbl/day (2015 est.) |
+| Natural gas - production: | 17.1 billion cu m (2017 est.) |
+| Natural gas - consumption: | 21.72 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 5.125 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 1.784 trillion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 106.5 million Mt (2017 est.) |

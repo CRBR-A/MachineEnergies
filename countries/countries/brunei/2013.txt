@@ -1,0 +1,25 @@
+| Energy | Brunei |
+| --- | --- |
+| Electricity - production: | 3.723 billion kWh (2011 est.) |
+| Electricity - consumption: | 3.391 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 759,000 kW (2010 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 141,000 bbl/day (2012 est.) |
+| Crude oil - exports: | 147,900 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2011 est.) |
+| Crude oil - proved reserves: | 1.1 billion bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 13,500 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 14,640 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 3,198 bbl/day (2010 est.) |
+| Natural gas - production: | 12.44 billion cu m (2011 est.) |
+| Natural gas - consumption: | 2.97 billion cu m (2010 est.) |
+| Natural gas - exports: | 9.42 billion cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 390.8 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 8.656 million Mt (2011 est.) |

@@ -1,0 +1,20 @@
+| Energy | United Kingdom |
+| --- | --- |
+| Electricity - production: | 360.9 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 73.8% |
+| Electricity - production by source: | hydro: 0.9% |
+| Electricity - production by source: | other: 1.6% (2001) |
+| Electricity - production by source: | nuclear: 23.7% |
+| Electricity - consumption: | 346.1 billion kWh (2001) |
+| Electricity - exports: | 264 million kWh (2001) |
+| Electricity - imports: | 10.66 billion kWh (2001) |
+| Oil - production: | 2.541 million bbl/day (2001 est.) |
+| Oil - consumption: | 1.71 million bbl/day (2001 est.) |
+| Oil - exports: | 2.205 million bbl/day (2001) |
+| Oil - imports: | 1.418 million bbl/day (2001) |
+| Oil - proved reserves: | 4.741 billion bbl (37257) |
+| Natural gas - production: | 105.9 billion cu m (2001 est.) |
+| Natural gas - consumption: | 92.85 billion cu m (2001 est.) |
+| Natural gas - exports: | 15.75 billion cu m (2001 est.) |
+| Natural gas - imports: | 2.7 billion cu m (2001 est.) |
+| Natural gas - proved reserves: | 714.9 billion cu m (37257) |

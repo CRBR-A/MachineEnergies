@@ -1,0 +1,25 @@
+| Energy | YEMEN |
+| --- | --- |
+| Electricity - production: | 5.834 billion kWh (2011 est.) |
+| Electricity - consumption: | 4.137 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 1.533 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2011 est.) |
+| Crude oil - production: | 130,700 bbl/day (2013 est.) |
+| Crude oil - exports: | 43,000 bbl/day (2014 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 3 billion bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 86,330 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 144,400 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 14,330 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 59,050 bbl/day (2010 est.) |
+| Natural gas - production: | 7.652 billion cu m (2012 est.) |
+| Natural gas - consumption: | 968.5 million cu m (2012 est.) |
+| Natural gas - exports: | 6.684 billion cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 478.5 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 21.28 million Mt (2012 est.) |

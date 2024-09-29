@@ -1,0 +1,29 @@
+| Energy | KUWAIT |
+| --- | --- |
+| Electricity access: | population without electricity: 56,655 |
+| Electricity access: | electrification - total population: 98% |
+| Electricity access: | electrification - urban areas: 98% |
+| Electricity access: | electrification - rural areas: 93% (2012) |
+| Electricity - production: | 61 billion kWh (2014 est.) |
+| Electricity - consumption: | 54 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 16 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 2.562 million bbl/day (2015 est.) |
+| Crude oil - exports: | 1.711 million bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 104 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 890,900 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 453,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 678,000 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 11,900 bbl/day (2013 est.) |
+| Natural gas - production: | 15.03 billion cu m (2014 est.) |
+| Natural gas - consumption: | 18.49 billion cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 3.46 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 1.784 trillion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 107 million Mt (2013 est.) |

@@ -1,0 +1,18 @@
+| Energy | Belarus |
+| --- | --- |
+| Electricity - production: | 30 billion kWh (2004) |
+| Electricity - production by source: | fossil fuel: 99.5% |
+| Electricity - production by source: | hydro: 0.1% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0.4% (2001) |
+| Electricity - consumption: | 34.3 billion kWh (2004) |
+| Electricity - exports: | 800 million kWh (2004) |
+| Electricity - imports: | 7 billion kWh (2003) |
+| Oil - production: | 36,000 bbl/day (2004 est.) |
+| Oil - consumption: | 252,000 bbl/day (2003 est.) |
+| Oil - exports: | 14,500 bbl/day (2003 est.) |
+| Oil - imports: | 360,000 bbl/day (2004 est.) |
+| Natural gas - production: | 250 million cu m (2004 est.) |
+| Natural gas - consumption: | 20.5 billion cu m (2005 est.) |
+| Natural gas - exports: | 0 cu m (2004 est.) |
+| Natural gas - imports: | 20.5 billion cu m (2005 est.) |

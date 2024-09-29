@@ -1,0 +1,29 @@
+| Energy | ZIMBABWE |
+| --- | --- |
+| Electricity access: | population without electricity: 8,500,000 |
+| Electricity access: | electrification - total population: 40% |
+| Electricity access: | electrification - urban areas: 80% |
+| Electricity access: | electrification - rural areas: 21% (2013) |
+| Electricity - production: | 9.384 billion kWh (2015 est.) |
+| Electricity - consumption: | 7.63 billion kWh (2015 est.) |
+| Electricity - exports: | 1.239 billion kWh (2015 est.) |
+| Electricity - imports: | 1.139 billion kWh (2015 est.) |
+| Electricity - installed generating capacity: | 2.129 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 58% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 37.1% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 5% of total installed capacity (2015 est.) |
+| Crude oil - production: | 0 bbl/day (2016 est.) |
+| Crude oil - exports: | 0 bbl/day (2014 est.) |
+| Crude oil - imports: | 0 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 0 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 29,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 26,390 bbl/day (2014 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 0 cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 11 million Mt (2013 est.) |

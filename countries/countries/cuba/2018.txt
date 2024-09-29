@@ -1,0 +1,29 @@
+| Energy | Cuba |
+| --- | --- |
+| Electricity access: | population without electricity: 200,000 (2013) |
+| Electricity access: | electrification - total population: 99.9% (2013) |
+| Electricity access: | electrification - urban areas: 100% (2013) |
+| Electricity access: | electrification - rural areas: 95% (2013) |
+| Electricity - production: | 19.28 billion kWh (2016 est.) |
+| Electricity - consumption: | 16.16 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 6.998 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 91% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 1% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 8% of total installed capacity (2017 est.) |
+| Crude oil - production: | 50,000 bbl/day (2017 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 112,400 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 124 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 104,100 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 175,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 24,190 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 52,750 bbl/day (2015 est.) |
+| Natural gas - production: | 1.189 billion cu m (2017 est.) |
+| Natural gas - consumption: | 1.189 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 70.79 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 26.94 million Mt (2017 est.) |

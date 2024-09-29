@@ -1,0 +1,16 @@
+| Energy | Ghana |
+| --- | --- |
+| Electricity - production: | 8.801 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 5% |
+| Electricity - production by source: | hydro: 95% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 8.835 billion kWh (2001) |
+| Electricity - exports: | 300 million kWh (2001) |
+| Electricity - imports: | 950 million kWh (2001) |
+| Oil - production: | 7,000 bbl/day (2001 est.) |
+| Oil - consumption: | 38,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 8.255 million bbl (37257) |
+| Natural gas - proved reserves: | 11.89 billion cu m (37257) |

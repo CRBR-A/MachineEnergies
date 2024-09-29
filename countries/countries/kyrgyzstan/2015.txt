@@ -1,0 +1,25 @@
+| Energy | KYRGYZSTAN |
+| --- | --- |
+| Electricity - production: | 14.96 billion kWh (2011 est.) |
+| Electricity - consumption: | 8.851 billion kWh (2011 est.) |
+| Electricity - exports: | 2.795 billion kWh (2011 est.) |
+| Electricity - imports: | 0 kWh (2011 est.) |
+| Electricity - installed generating capacity: | 3.766 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 21.1% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 78.9% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2011 est.) |
+| Crude oil - production: | 1,000 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 40 million bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 35,090 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 2,433 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 35,040 bbl/day (2010 est.) |
+| Natural gas - production: | 8.666 million cu m (2012 est.) |
+| Natural gas - consumption: | 428.7 million cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 420 million cu m (2012 est.) |
+| Natural gas - proved reserves: | 5.663 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 9.278 million Mt (2012 est.) |

@@ -1,0 +1,25 @@
+| Energy | CHILE |
+| --- | --- |
+| Electricity - production: | 61.85 billion kWh (2011 est.) |
+| Electricity - consumption: | 57.89 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 700 million kWh (2013 est.) |
+| Electricity - installed generating capacity: | 17.95 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 60.6% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 33.1% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 6.3% of total installed capacity (2011 est.) |
+| Crude oil - production: | 10,640 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2012 est.) |
+| Crude oil - imports: | 163,200 bbl/day (2012 est.) |
+| Crude oil - proved reserves: | 150 million bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 198,000 bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 341,200 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 13,040 bbl/day (2012 est.) |
+| Refined petroleum products - imports: | 138,900 bbl/day (2010 est.) |
+| Natural gas - production: | 947 million cu m (2013 est.) |
+| Natural gas - consumption: | 4.705 billion cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 3.779 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 97.97 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 81.51 million Mt (2012 est.) |

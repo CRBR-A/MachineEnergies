@@ -1,0 +1,26 @@
+| Energy | GERMANY |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 591 billion kWh (2014 est.) |
+| Electricity - consumption: | 533 billion kWh (2014 est.) |
+| Electricity - exports: | 74 billion kWh (2014 est.) |
+| Electricity - imports: | 40 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 198 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 45.7% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 6.8% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 2.5% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 41.2% of total installed capacity (2012 est.) |
+| Crude oil - production: | 48,060 bbl/day (2015 est.) |
+| Crude oil - exports: | 6,569 bbl/day (2015 est.) |
+| Crude oil - imports: | 1.844 million bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 100 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 2.175 million bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 2.372 million bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 462,700 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 785,700 bbl/day (2015 est.) |
+| Natural gas - production: | 9.469 billion cu m (2014 est.) |
+| Natural gas - consumption: | 79.21 billion cu m (2014 est.) |
+| Natural gas - exports: | 22.27 billion cu m (2014 est.) |
+| Natural gas - imports: | 89.89 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 47.4 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 805 million Mt (2013 est.) |

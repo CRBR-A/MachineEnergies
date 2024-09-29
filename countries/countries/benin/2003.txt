@@ -1,0 +1,16 @@
+| Energy | Benin |
+| --- | --- |
+| Electricity - production: | 274.3 million kWh (2001) |
+| Electricity - production by source: | fossil fuel: 14.2% |
+| Electricity - production by source: | hydro: 85.8% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 631.1 million kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 376 million kWh (2001) |
+| Oil - production: | 700 bbl/day (2001 est.) |
+| Oil - consumption: | 11,500 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 4.105 million bbl (37257) |
+| Natural gas - proved reserves: | 608.8 million cu m (37257) |

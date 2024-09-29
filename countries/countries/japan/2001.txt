@@ -1,0 +1,10 @@
+| Energy | Japan |
+| --- | --- |
+| Electricity - production: | 1.018 trillion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 58.91% |
+| Electricity - production by source: | hydro: 8.35% |
+| Electricity - production by source: | nuclear: 30.31% |
+| Electricity - production by source: | other: 2.43% (1999) |
+| Electricity - consumption: | 947.038 billion kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

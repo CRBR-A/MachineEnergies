@@ -1,0 +1,14 @@
+| Energy | Costa Rica |
+| --- | --- |
+| Electricity - production: | 6.614 billion kWh (2002) |
+| Electricity - production by source: | fossil fuel: 1.5% |
+| Electricity - production by source: | hydro: 81.9% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 16.6% (2001) |
+| Electricity - consumption: | 5.733 billion kWh (2002) |
+| Electricity - exports: | 477 million kWh (2002) |
+| Electricity - imports: | 59 million kWh (2002) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 37,000 bbl/day (2001 est.) |
+| Oil - exports: | NA |
+| Oil - imports: | NA |

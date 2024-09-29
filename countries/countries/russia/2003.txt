@@ -1,0 +1,20 @@
+| Energy | Russia |
+| --- | --- |
+| Electricity - production: | 846.5 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 64.3% |
+| Electricity - production by source: | hydro: 20.5% |
+| Electricity - production by source: | other: 0.4% (2001) |
+| Electricity - production by source: | nuclear: 14.8% |
+| Electricity - consumption: | 773 billion kWh (2001) |
+| Electricity - exports: | 21.16 billion kWh (2001) |
+| Electricity - imports: | 7 billion kWh (2001) |
+| Oil - production: | 7.286 million bbl/day (2001 est.) |
+| Oil - consumption: | 2.595 million bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 51.22 billion bbl (37257) |
+| Natural gas - production: | 580.8 billion cu m (2001 est.) |
+| Natural gas - consumption: | 408.1 billion cu m (2001 est.) |
+| Natural gas - exports: | 205.4 billion cu m (2001 est.) |
+| Natural gas - imports: | 32.7 billion cu m (2001 est.) |
+| Natural gas - proved reserves: | 47.86 trillion cu m (37257) |

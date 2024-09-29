@@ -1,0 +1,10 @@
+| Energy | Nepal |
+| --- | --- |
+| Electricity - production: | 1.255 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 9.56% |
+| Electricity - production by source: | hydro: 90.44% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 1.309 billion kWh (1999) |
+| Electricity - exports: | 68 million kWh (1999) |
+| Electricity - imports: | 210 million kWh (1999) |

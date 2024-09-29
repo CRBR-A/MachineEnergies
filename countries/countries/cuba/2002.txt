@@ -1,0 +1,10 @@
+| Energy | Cuba |
+| --- | --- |
+| Electricity - production: | 14.87 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 95% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | other: 5% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 13.829 billion kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 0 kWh (2000) |

@@ -1,0 +1,20 @@
+| Energy | Libya |
+| --- | --- |
+| Electricity - production: | 14.4 billion kWh (2003) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 13.39 billion kWh (2003) |
+| Electricity - exports: | 0 kWh (2003) |
+| Electricity - imports: | 0 kWh (2003) |
+| Oil - production: | 1.643 million bbl/day (2005 est.) |
+| Oil - consumption: | 237,000 bbl/day (2004 est.) |
+| Oil - exports: | 1.34 million bbl/day NA bbl/day |
+| Oil - imports: | 0 bbl/day NA bbl/day |
+| Oil - proved reserves: | 40 billion bbl (2005 est.) |
+| Natural gas - production: | 7 billion cu m (2003 est.) |
+| Natural gas - consumption: | 6.25 billion cu m (2003 est.) |
+| Natural gas - exports: | 770 million cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 1.321 trillion cu m (2005) |

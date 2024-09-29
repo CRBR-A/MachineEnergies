@@ -1,0 +1,10 @@
+| Energy | Denmark |
+| --- | --- |
+| Electricity - production: | 37.885 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 88.4% |
+| Electricity - production by source: | hydro: 0.07% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 11.53% (1999) |
+| Electricity - consumption: | 32.916 billion kWh (1999) |
+| Electricity - exports: | 7.28 billion kWh (1999) |
+| Electricity - imports: | 4.963 billion kWh (1999) |

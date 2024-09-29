@@ -1,0 +1,10 @@
+| Energy | Mozambique |
+| --- | --- |
+| Electricity - production: | 2.3 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 13.04% |
+| Electricity - production by source: | hydro: 86.96% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 307 million kWh (1999) |
+| Electricity - exports: | 1.9 billion kWh (1999) |
+| Electricity - imports: | 68 million kWh (1999) |

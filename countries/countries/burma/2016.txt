@@ -1,0 +1,29 @@
+| Energy | BURMA |
+| --- | --- |
+| Electricity access: | population without electricity: 36,300,000 |
+| Electricity access: | electrification - total population: 52% |
+| Electricity access: | electrification - urban areas: 95% |
+| Electricity access: | electrification - rural areas: 31% (2013) |
+| Electricity - production: | 14 billion kWh (2014 est.) |
+| Electricity - consumption: | 11 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 4.3 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 24.8% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 75.2% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 15,000 bbl/day (2015 est.) |
+| Crude oil - exports: | 2,775 bbl/day (2013 est.) |
+| Crude oil - imports: | 57 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 50 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 15,700 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 61,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 43,880 bbl/day (2013 est.) |
+| Natural gas - production: | 16.8 billion cu m (2014 est.) |
+| Natural gas - consumption: | 4.1 billion cu m (2014 est.) |
+| Natural gas - exports: | 12.7 billion cu m (2014 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 283.2 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 15 million Mt (2013 est.) |

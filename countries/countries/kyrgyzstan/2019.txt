@@ -1,0 +1,26 @@
+| Energy | Kyrgyzstan |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 13.04 billion kWh (2016 est.) |
+| Electricity - consumption: | 10.52 billion kWh (2016 est.) |
+| Electricity - exports: | 184 million kWh (2015 est.) |
+| Electricity - imports: | 331 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 4.046 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 24% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 76% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2017 est.) |
+| Crude oil - production: | 1,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 4,480 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 40 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 6,996 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 37,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 2,290 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 34,280 bbl/day (2015 est.) |
+| Natural gas - production: | 28.32 million cu m (2017 est.) |
+| Natural gas - consumption: | 186.9 million cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 169.9 million cu m (2017 est.) |
+| Natural gas - proved reserves: | 5.663 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 10.02 million Mt (2017 est.) |

@@ -1,0 +1,25 @@
+| Energy | BRAZIL |
+| --- | --- |
+| Electricity - production: | 530.4 billion kWh (2011 est.) |
+| Electricity - consumption: | 478.8 billion kWh (2011 est.) |
+| Electricity - exports: | 467 million kWh (2013 est.) |
+| Electricity - imports: | 40.33 billion kWh (2013 est.) |
+| Electricity - installed generating capacity: | 119.1 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 18.8% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 1.6% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 69.3% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 10.4% of total installed capacity (2011 est.) |
+| Crude oil - production: | 2.641 million bbl/day (2013 est.) |
+| Crude oil - exports: | 619,100 bbl/day (2010 est.) |
+| Crude oil - imports: | 343,600 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 13.22 billion bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 2.108 million bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 3.097 million bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 158,400 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 457,400 bbl/day (2010 est.) |
+| Natural gas - production: | 21.3 billion cu m (2013 est.) |
+| Natural gas - consumption: | 37.6 billion cu m (2013 est.) |
+| Natural gas - exports: | 460 million cu m (2012 est.) |
+| Natural gas - imports: | 13.85 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 388.7 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 500.2 million Mt (2012 est.) |

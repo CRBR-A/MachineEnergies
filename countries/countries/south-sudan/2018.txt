@@ -1,0 +1,29 @@
+| Energy | South Sudan |
+| --- | --- |
+| Electricity access: | population without electricity: 11.2 million (2013) |
+| Electricity access: | electrification - total population: 1% (2013) |
+| Electricity access: | electrification - urban areas: 4% (2013) |
+| Electricity access: | electrification - rural areas: 0% (2013) |
+| Electricity - production: | 412.8 million kWh (2016 est.) |
+| Electricity - consumption: | 391.8 million kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 80,400 kW (2016 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 1% of total installed capacity (2017 est.) |
+| Crude oil - production: | 150,200 bbl/day (2017 est.) |
+| Crude oil - exports: | 147,300 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 3.75 billion bbl (1 January 2017 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 8,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 7,160 bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 0 cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 63.71 billion cu m (1 January 2016 est.) |
+| Carbon dioxide emissions from consumption of energy: | 1.224 million Mt (2017 est.) |

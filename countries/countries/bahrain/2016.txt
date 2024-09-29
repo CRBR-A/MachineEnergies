@@ -1,0 +1,29 @@
+| Energy | BAHRAIN |
+| --- | --- |
+| Electricity access: | population without electricity: 41,317 |
+| Electricity access: | electrification - total population: 98% |
+| Electricity access: | electrification - urban areas: 98% |
+| Electricity access: | electrification - rural areas: 93% (2012) |
+| Electricity - production: | 26 billion kWh (2014 est.) |
+| Electricity - consumption: | 25 billion kWh (2014 est.) |
+| Electricity - exports: | 200 million kWh (2014 est.) |
+| Electricity - imports: | 200 million kWh (2014 est.) |
+| Electricity - installed generating capacity: | 3.9 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 99.9% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0.1% of total installed capacity (2012 est.) |
+| Crude oil - production: | 50,000 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 219,100 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 100 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 272,900 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 55,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 243,000 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 15,960 bbl/day (2013 est.) |
+| Natural gas - production: | 16.9 billion cu m (2014 est.) |
+| Natural gas - consumption: | 16.9 billion cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 92.03 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 37 million Mt (2013 est.) |

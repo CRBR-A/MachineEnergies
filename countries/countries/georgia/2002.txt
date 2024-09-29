@@ -1,0 +1,10 @@
+| Energy | Georgia |
+| --- | --- |
+| Electricity - production: | 7.404 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 21% |
+| Electricity - production by source: | hydro: 79% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 7.886 billion kWh (2000) |
+| Electricity - exports: | 200 million kWh (2000) |
+| Electricity - imports: | 1.2 billion kWh (2000) |

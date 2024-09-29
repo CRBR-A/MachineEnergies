@@ -1,0 +1,25 @@
+| Energy | Armenia |
+| --- | --- |
+| Electricity - production: | 7.432 billion kWh (2011 est.) |
+| Electricity - consumption: | 5.8 billion kWh (2011 est.) |
+| Electricity - exports: | 1.36 billion kWh (2011 est.) |
+| Electricity - imports: | 246 million kWh (2010 est.) |
+| Electricity - installed generating capacity: | 3.472 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 55.6% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 10.8% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 33.5% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0.1% of total installed capacity (2010 est.) |
+| Crude oil - production: | 0 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 45,300 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 32 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 46,550 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 2.1 billion cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 2.1 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 11.74 million Mt (2011 est.) |

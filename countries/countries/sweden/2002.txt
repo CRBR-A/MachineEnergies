@@ -1,0 +1,10 @@
+| Energy | Sweden |
+| --- | --- |
+| Electricity - production: | 144.62 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 6% |
+| Electricity - production by source: | hydro: 54% |
+| Electricity - production by source: | other: 3% (2000) |
+| Electricity - production by source: | nuclear: 37% |
+| Electricity - consumption: | 139.18 billion kWh (2000) |
+| Electricity - exports: | 13.628 billion kWh (2000) |
+| Electricity - imports: | 18.306 billion kWh (2000) |

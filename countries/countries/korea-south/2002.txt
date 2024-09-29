@@ -1,0 +1,10 @@
+| Energy | Korea, South |
+| --- | --- |
+| Electricity - production: | 273.2 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 61% |
+| Electricity - production by source: | hydro: 1% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 38% |
+| Electricity - consumption: | 254.08 billion kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 0 kWh (2000) |

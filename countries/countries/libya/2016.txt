@@ -1,0 +1,31 @@
+| Energy | LIBYA |
+| --- | --- |
+| Electricity access: | population without electricity: 13,083 |
+| Electricity access: | electrification - total population: 99.8% |
+| Electricity access: | electrification - urban areas: 100% |
+| Electricity access: | electrification - rural areas: 99.1% (2013) |
+| Electricity - production: | 35 billion kWh |
+| Electricity - production: | note: persistent electricity shortages have contributed to the ongoing instability throughout the country (2014 est.) |
+| Electricity - consumption: | 9.3 billion kWh (2014 est.) |
+| Electricity - exports: | 1 million kWh (2013 est.) |
+| Electricity - imports: | 88 million kWh (2014 est.) |
+| Electricity - installed generating capacity: | 8.9 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 99.2% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0.8% of total installed capacity (2012 est.) |
+| Crude oil - production: | 404,000 bbl/day (2015 est.) |
+| Crude oil - exports: | 834,100 bbl/day |
+| Crude oil - exports: | note: Libyan crude oil export values are highly volatile because of continuing protests and other disruptions across the country (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 48.36 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 158,300 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 255,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 50,890 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 144,000 bbl/day (2013 est.) |
+| Natural gas - production: | 11.8 billion cu m (2014 est.) |
+| Natural gas - consumption: | 5.804 billion cu m (2014 est.) |
+| Natural gas - exports: | 6 billion cu m (2014 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 1.505 trillion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 57 million Mt (2013 est.) |

@@ -1,0 +1,10 @@
+| Energy | Costa Rica |
+| --- | --- |
+| Electricity - production: | 6.887 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 1% |
+| Electricity - production by source: | hydro: 83% |
+| Electricity - production by source: | other: 16% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 5.895 billion kWh (2000) |
+| Electricity - exports: | 532 million kWh (2000) |
+| Electricity - imports: | 22 million kWh (2000) |

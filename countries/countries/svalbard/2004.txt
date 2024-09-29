@@ -1,0 +1,4 @@
+| Energy | Svalbard |
+| --- | --- |
+| Electricity - production: | NA kWh |
+| Electricity - consumption: | NA kWh |

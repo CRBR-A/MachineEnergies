@@ -1,0 +1,29 @@
+| Energy | Yemen |
+| --- | --- |
+| Electricity access: | population without electricity: 13.3 million (2013) |
+| Electricity access: | electrification - total population: 48% (2013) |
+| Electricity access: | electrification - urban areas: 79% (2013) |
+| Electricity access: | electrification - rural areas: 33% (2013) |
+| Electricity - production: | 4.784 billion kWh (2016 est.) |
+| Electricity - consumption: | 3.681 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 1.819 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 79% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 21% of total installed capacity (2017 est.) |
+| Crude oil - production: | 12,260 bbl/day (2017 est.) |
+| Crude oil - exports: | 8,990 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 3 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 20,180 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 104,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 12,670 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 75,940 bbl/day (2015 est.) |
+| Natural gas - production: | 481.4 million cu m (2017 est.) |
+| Natural gas - consumption: | 481.4 million cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 478.5 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 13.68 million Mt (2017 est.) |

@@ -1,0 +1,25 @@
+| Energy | Barbados |
+| --- | --- |
+| Electricity - production: | 1.002 billion kWh (2011 est.) |
+| Electricity - consumption: | 986 million kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 239,000 kW (2010 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 1,001 bbl/day (2012 est.) |
+| Crude oil - exports: | 764.5 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 2.26 million bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 31 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 8,339 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 8,736 bbl/day (2010 est.) |
+| Natural gas - production: | 20 million cu m (2010 est.) |
+| Natural gas - consumption: | 20 million cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 113.3 million cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 1.442 million Mt (2011 est.) |

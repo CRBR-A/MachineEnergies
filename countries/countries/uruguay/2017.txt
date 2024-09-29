@@ -1,0 +1,29 @@
+| Energy | URUGUAY |
+| --- | --- |
+| Electricity access: | population without electricity: 20,106 |
+| Electricity access: | electrification - total population: 99.4% |
+| Electricity access: | electrification - urban areas: 99.7% |
+| Electricity access: | electrification - rural areas: 93.8% (2012) |
+| Electricity - production: | 12.23 billion kWh (2015 est.) |
+| Electricity - consumption: | 9.42 billion kWh (2015 est.) |
+| Electricity - exports: | 1.321 billion kWh (2015 est.) |
+| Electricity - imports: | 2 million kWh (2015 est.) |
+| Electricity - installed generating capacity: | 4.408 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 34.7% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 34.9% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 39% of total installed capacity (2015 est.) |
+| Crude oil - production: | 0 bbl/day (2016 est.) |
+| Crude oil - exports: | 0 bbl/day (2014 est.) |
+| Crude oil - imports: | 37,900 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 42,440 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 54,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 537.5 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 10,870 bbl/day (2014 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 378 million cu m (2015 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 40 million cu m (2015 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 7.4 million Mt (2013 est.) |

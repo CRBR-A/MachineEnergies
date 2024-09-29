@@ -1,0 +1,18 @@
+| Energy | Hong Kong |
+| --- | --- |
+| Electricity - production: | 30.48 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 37.12 billion kWh (2001) |
+| Electricity - exports: | 1.581 billion kWh (2001) |
+| Electricity - imports: | 10.36 billion kWh (2001) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 257,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Natural gas - production: | 0 cu m (2001 est.) |
+| Natural gas - consumption: | 680.9 million cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 680.9 million cu m (2001 est.) |

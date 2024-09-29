@@ -1,0 +1,25 @@
+| Energy | Kuwait |
+| --- | --- |
+| Electricity - production: | 55.55 billion kWh (2011 est.) |
+| Electricity - consumption: | 46.71 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 12.68 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 2.797 million bbl/day (2012 est.) |
+| Crude oil - exports: | 1.395 million bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 104 billion bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 915,900 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 339,000 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 656,100 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 0 bbl/day (2010 est.) |
+| Natural gas - production: | 13.53 billion cu m (2011 est.) |
+| Natural gas - consumption: | 12.62 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 688 million cu m (2011 est.) |
+| Natural gas - proved reserves: | 1.798 trillion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 82.37 million Mt (2011 est.) |

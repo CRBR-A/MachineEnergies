@@ -1,0 +1,10 @@
+| Energy | Burkina Faso |
+| --- | --- |
+| Electricity - production: | 285 million kWh (1999) |
+| Electricity - production by source: | fossil fuel: 71.93% |
+| Electricity - production by source: | hydro: 28.07% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 265.1 million kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

@@ -1,0 +1,8 @@
+| Energy | Anguilla |
+| --- | --- |
+| Electricity - production: | NA kWh |
+| Electricity - production by source: | fossil fuel: NA |
+| Electricity - production by source: | hydro: NA |
+| Electricity - production by source: | nuclear: NA |
+| Electricity - production by source: | other: NA |
+| Electricity - consumption: | 42.6 million kWh |

@@ -1,0 +1,20 @@
+| Energy | Czech Republic |
+| --- | --- |
+| Electricity - production: | 70.04 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 76.1% |
+| Electricity - production by source: | hydro: 2.9% |
+| Electricity - production by source: | other: 1% (2001) |
+| Electricity - production by source: | nuclear: 20% |
+| Electricity - consumption: | 55.6 billion kWh (2001) |
+| Electricity - exports: | 18.92 billion kWh (2001) |
+| Electricity - imports: | 9.38 billion kWh (2001) |
+| Oil - production: | 7,419 bbl/day (2001 est.) |
+| Oil - consumption: | 175,700 bbl/day (2001 est.) |
+| Oil - exports: | 26,670 bbl/day (2001) |
+| Oil - imports: | 192,300 bbl/day (2001) |
+| Oil - proved reserves: | 17.25 million bbl (37257) |
+| Natural gas - production: | 160 million cu m (2001 est.) |
+| Natural gas - consumption: | 9.892 billion cu m (2001 est.) |
+| Natural gas - exports: | 1 million cu m (2001 est.) |
+| Natural gas - imports: | 9.521 billion cu m (2001 est.) |
+| Natural gas - proved reserves: | 3.057 billion cu m (37257) |

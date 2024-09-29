@@ -1,0 +1,25 @@
+| Energy | NIGERIA |
+| --- | --- |
+| Electricity - production: | 25.7 billion kWh (2011 est.) |
+| Electricity - consumption: | 23.11 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 5.9 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 67.1% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 32.8% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2011 est.) |
+| Crude oil - production: | 2.367 million bbl/day (2013 est.) |
+| Crude oil - exports: | 2.341 million bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 37.14 billion bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 101,300 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 302,000 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 18,750 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 151,700 bbl/day (2010 est.) |
+| Natural gas - production: | 33.71 billion cu m (2012 est.) |
+| Natural gas - consumption: | 6.916 billion cu m (2012 est.) |
+| Natural gas - exports: | 26.79 billion cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 5.118 trillion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 86.4 million Mt (2012 est.) |

@@ -1,0 +1,29 @@
+| Energy | JAMAICA |
+| --- | --- |
+| Electricity access: | population without electricity: 200,000 |
+| Electricity access: | electrification - total population: 93% |
+| Electricity access: | electrification - urban areas: 98% |
+| Electricity access: | electrification - rural areas: 87% (2013) |
+| Electricity - production: | 3.9 billion kWh (2014 est.) |
+| Electricity - consumption: | 2.8 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 1 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 91.7% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 2.5% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 5.9% of total installed capacity (2012 est.) |
+| Crude oil - production: | 0 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 23,360 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 23,630 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 53,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 4,526 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 33,970 bbl/day (2013 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 0 cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 13 million Mt (2013 est.) |

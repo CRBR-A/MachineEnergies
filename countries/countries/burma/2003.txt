@@ -1,0 +1,20 @@
+| Energy | Burma |
+| --- | --- |
+| Electricity - production: | 6.139 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 44.4% |
+| Electricity - production by source: | hydro: 55.6% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 5.709 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 14,170 bbl/day (2001 est.) |
+| Oil - consumption: | 38,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 142.5 million bbl (37257) |
+| Natural gas - production: | 7.35 billion cu m (2001 est.) |
+| Natural gas - consumption: | 2.15 billion cu m (2001 est.) |
+| Natural gas - exports: | 5.2 billion cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 314.4 billion cu m (37257) |

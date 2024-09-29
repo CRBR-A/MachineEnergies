@@ -1,0 +1,20 @@
+| Energy | Venezuela |
+| --- | --- |
+| Electricity - production: | 87.44 billion kWh (2003) |
+| Electricity - production by source: | fossil fuel: 31.7% |
+| Electricity - production by source: | hydro: 68.3% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 81.32 billion kWh (2003) |
+| Electricity - exports: | 0 kWh (2003) |
+| Electricity - imports: | 0 kWh (2003) |
+| Oil - production: | 3.081 million bbl/day (2005 est.) |
+| Oil - consumption: | 530,000 bbl/day (2003 est.) |
+| Oil - exports: | 2.1 million bbl/day (2004 est.) |
+| Oil - imports: | NA bbl/day |
+| Oil - proved reserves: | 75.59 billion bbl (2005 est.) |
+| Natural gas - production: | 29.7 billion cu m (2003 est.) |
+| Natural gas - consumption: | 29.7 billion cu m (2003 est.) |
+| Natural gas - exports: | 0 cu m (2004 est.) |
+| Natural gas - imports: | 0 cu m (2004 est.) |
+| Natural gas - proved reserves: | 4.191 trillion cu m (2005) |

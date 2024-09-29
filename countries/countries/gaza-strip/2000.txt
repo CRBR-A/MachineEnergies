@@ -1,0 +1,5 @@
+| Energy |   |
+| --- | --- |
+| Electricity - production: | 0 kWh (1998) |
+| Electricity - consumption: | NA kWh |
+| Electricity - imports: | NA kWh; note - electricity supplied by Israel |

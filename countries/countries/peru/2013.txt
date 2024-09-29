@@ -1,0 +1,25 @@
+| Energy | Peru |
+| --- | --- |
+| Electricity - production: | 38.4 billion kWh (2012 est.) |
+| Electricity - consumption: | 34.25 billion kWh (2011 est.) |
+| Electricity - exports: | 112 million kWh (2010 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 8.613 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 60.1% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 39.9% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 160,400 bbl/day (2012 est.) |
+| Crude oil - exports: | 15,610 bbl/day (2012 est.) |
+| Crude oil - imports: | 99,590 bbl/day (2012 est.) |
+| Crude oil - proved reserves: | 579.2 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 159,500 bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 206,900 bbl/day (2012 est.) |
+| Refined petroleum products - exports: | 82,080 bbl/day (2012 est.) |
+| Refined petroleum products - imports: | 43,480 bbl/day (2012 est.) |
+| Natural gas - production: | 32.4 billion cu m (2012) |
+| Natural gas - consumption: | 5.49 billion cu m (2010 est.) |
+| Natural gas - exports: | 8.73 billion cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012) |
+| Natural gas - proved reserves: | 359.6 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 37.71 million Mt (2011 est.) |

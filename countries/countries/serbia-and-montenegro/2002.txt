@@ -1,0 +1,10 @@
+| Energy | Serbia and Montenegro |
+| --- | --- |
+| Electricity - production: | 32.984 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 59% |
+| Electricity - production by source: | hydro: 41% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 31.546 billion kWh (2000) |
+| Electricity - exports: | 43 million kWh (2000) |
+| Electricity - imports: | 914 million kWh (2000) |

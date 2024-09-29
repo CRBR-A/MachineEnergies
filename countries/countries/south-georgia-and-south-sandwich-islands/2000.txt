@@ -1,0 +1,5 @@
+| Energy |   |
+| --- | --- |
+| Electricity - production: | 2 million kWh |
+| Electricity - production by source: | NA |
+| Electricity - consumption: | NA |

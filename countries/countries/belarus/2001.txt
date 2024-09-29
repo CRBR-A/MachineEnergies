@@ -1,0 +1,10 @@
+| Energy | Belarus |
+| --- | --- |
+| Electricity - production: | 24.911 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 99.9% |
+| Electricity - production by source: | hydro: 0.1% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 27.647 billion kWh (1999) |
+| Electricity - exports: | 2.62 billion kWh (1999) |
+| Electricity - imports: | 7.1 billion kWh (1999) |

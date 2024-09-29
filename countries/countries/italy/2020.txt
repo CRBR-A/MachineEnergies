@@ -1,0 +1,26 @@
+| Energy | Italy |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 275.3 billion kWh (2016 est.) |
+| Electricity - consumption: | 293.5 billion kWh (2016 est.) |
+| Electricity - exports: | 6.155 billion kWh (2016 est.) |
+| Electricity - imports: | 43.18 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 114.2 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 54% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 14% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 32% of total installed capacity (2017 est.) |
+| Crude oil - production: | 90,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 13,790 bbl/day (2017 est.) |
+| Crude oil - imports: | 1.341 million bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 487.8 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 1.607 million bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 1.236 million bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 615,900 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 422,500 bbl/day (2017 est.) |
+| Natural gas - production: | 5.55 billion cu m (2017 est.) |
+| Natural gas - consumption: | 75.15 billion cu m (2017 est.) |
+| Natural gas - exports: | 271.8 million cu m (2017 est.) |
+| Natural gas - imports: | 69.66 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 38.11 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 351 million Mt (2017 est.) |

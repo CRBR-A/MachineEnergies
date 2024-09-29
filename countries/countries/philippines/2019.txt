@@ -1,0 +1,29 @@
+| Energy | Philippines |
+| --- | --- |
+| Electricity access: | population without electricity: 12 million (2017) |
+| Electricity access: | electrification - total population: 88% (2017) |
+| Electricity access: | electrification - urban areas: 98% (2017) |
+| Electricity access: | electrification - rural areas: 80% (2017) |
+| Electricity - production: | 86.59 billion kWh (2016 est.) |
+| Electricity - consumption: | 78.3 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2017 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 22.13 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 67% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 17% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 16% of total installed capacity (2017 est.) |
+| Crude oil - production: | 13,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 16,450 bbl/day (2015 est.) |
+| Crude oil - imports: | 211,400 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 138.5 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 215,500 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 424,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 26,710 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 211,400 bbl/day (2015 est.) |
+| Natural gas - production: | 3.058 billion cu m (2017 est.) |
+| Natural gas - consumption: | 3.143 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 98.54 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 117.2 million Mt (2017 est.) |

@@ -1,0 +1,10 @@
+| Energy | Bulgaria |
+| --- | --- |
+| Electricity - production: | 36.217 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 51.52% |
+| Electricity - production by source: | hydro: 8.35% |
+| Electricity - production by source: | nuclear: 40.12% |
+| Electricity - production by source: | other: 0.01% (1999) |
+| Electricity - consumption: | 33.182 billion kWh (1999) |
+| Electricity - exports: | 2.2 billion kWh (1999) |
+| Electricity - imports: | 1.7 billion kWh (1999) |

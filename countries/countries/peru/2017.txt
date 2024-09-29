@@ -1,0 +1,29 @@
+| Energy | PERU |
+| --- | --- |
+| Electricity access: | population without electricity: 2,900,000 |
+| Electricity access: | electrification - total population: 91% |
+| Electricity access: | electrification - urban areas: 98% |
+| Electricity access: | electrification - rural areas: 73% (2013) |
+| Electricity - production: | 46.31 billion kWh (2015 est.) |
+| Electricity - consumption: | 40.93 billion kWh (2015 est.) |
+| Electricity - exports: | 55 million kWh (2015 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 12.26 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 62.6% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 33.9% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 4.3% of total installed capacity (2015 est.) |
+| Crude oil - production: | 40,270 bbl/day (2016 est.) |
+| Crude oil - exports: | 15,560 bbl/day (2014 est.) |
+| Crude oil - imports: | 83,660 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 473 million bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 187,200 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 240,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 66,650 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 52,880 bbl/day (2014 est.) |
+| Natural gas - production: | 12.62 billion cu m (2015 est.) |
+| Natural gas - consumption: | 10.88 billion cu m (2015 est.) |
+| Natural gas - exports: | 4.83 billion cu m (2015 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 399 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 41 million Mt (2013 est.) |

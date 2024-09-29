@@ -1,0 +1,25 @@
+| Energy | Belarus |
+| --- | --- |
+| Electricity - production: | 32.82 billion kWh (2010 est.) |
+| Electricity - consumption: | 31.74 billion kWh (2010 est.) |
+| Electricity - exports: | 5.067 billion kWh (2010 est.) |
+| Electricity - imports: | 7.767 billion kWh (2010 est.) |
+| Electricity - installed generating capacity: | 8.032 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 99.7% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0.2% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0.1% of total installed capacity (2010 est.) |
+| Crude oil - production: | 32,070 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 294,800 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 198 million bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 346,000 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 188,800 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 224,200 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 43,240 bbl/day (2010 est.) |
+| Natural gas - production: | 220 million cu m (2011 est.) |
+| Natural gas - consumption: | 21.82 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 21.02 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 2.832 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 67.16 million Mt (2011 est.) |

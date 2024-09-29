@@ -1,0 +1,20 @@
+| Energy | China |
+| --- | --- |
+| Electricity - production: | 2.19 trillion kWh (2004) |
+| Electricity - production by source: | fossil fuel: 80.2% |
+| Electricity - production by source: | hydro: 18.5% |
+| Electricity - production by source: | nuclear: 1.2% |
+| Electricity - production by source: | other: 0.1% (2001) |
+| Electricity - consumption: | 2.17 trillion kWh (2004) |
+| Electricity - exports: | 10.6 billion kWh (2003) |
+| Electricity - imports: | 1.546 billion kWh (2003) |
+| Oil - production: | 3.504 million bbl/day (2004) |
+| Oil - consumption: | 6.391 million bbl/day (2004) |
+| Oil - exports: | 340,300 bbl/day (2004) |
+| Oil - imports: | 3.226 million bbl/day (2004) |
+| Oil - proved reserves: | 18.26 billion bbl (2004) |
+| Natural gas - production: | 35.02 billion cu m (2003) |
+| Natural gas - consumption: | 33.44 billion cu m (2003 est.) |
+| Natural gas - exports: | 2.79 billion cu m (2004) |
+| Natural gas - imports: | 0 cu m (2004) |
+| Natural gas - proved reserves: | 2.53 trillion cu m (2004) |

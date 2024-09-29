@@ -1,0 +1,14 @@
+| Energy | Macedonia, The Former Yugoslav Republic of |
+| --- | --- |
+| Electricity - production: | 6.465 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 83.7% |
+| Electricity - production by source: | hydro: 16.3% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 6.112 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 100 million kWh (2001) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 20,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |

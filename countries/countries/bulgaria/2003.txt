@@ -1,0 +1,20 @@
+| Energy | Bulgaria |
+| --- | --- |
+| Electricity - production: | 41.38 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 47.8% |
+| Electricity - production by source: | hydro: 8.1% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 44.1% |
+| Electricity - consumption: | 32.52 billion kWh (2001) |
+| Electricity - exports: | 6.79 billion kWh (2001) |
+| Electricity - imports: | 830 million kWh (2001) |
+| Oil - production: | 603 bbl/day (2001 est.) |
+| Oil - consumption: | 94,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 8.1 million bbl (37257) |
+| Natural gas - production: | 4 million cu m (2001 est.) |
+| Natural gas - consumption: | 5.804 billion cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 5.8 billion cu m (2001 est.) |
+| Natural gas - proved reserves: | 3.724 billion cu m (37257) |

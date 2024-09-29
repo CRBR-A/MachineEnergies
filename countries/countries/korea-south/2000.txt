@@ -1,0 +1,10 @@
+| Energy |   |
+| --- | --- |
+| Electricity - production: | 221.258 billion kWh (1998) |
+| Electricity - production by source: | fossil fuel: 59.56% |
+| Electricity - production by source: | hydro: 1.91% |
+| Electricity - production by source: | nuclear: 38.51% |
+| Electricity - production by source: | other: 0.02% (1998) |
+| Electricity - consumption: | 205.77 billion kWh (1998) |
+| Electricity - exports: | 0 kWh (1998) |
+| Electricity - imports: | 0 kWh (1998) |

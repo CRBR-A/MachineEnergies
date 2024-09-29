@@ -1,0 +1,14 @@
+| Energy | Chad |
+| --- | --- |
+| Electricity - production: | 96.13 million kWh (2002) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 89.4 million kWh (2002) |
+| Electricity - exports: | 0 kWh (2002) |
+| Electricity - imports: | 0 kWh (2002) |
+| Oil - production: | 200,000 bbl/day (2004 est.) |
+| Oil - consumption: | 1,500 bbl/day (2001 est.) |
+| Oil - exports: | NA |
+| Oil - imports: | NA |

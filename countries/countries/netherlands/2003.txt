@@ -1,0 +1,20 @@
+| Energy | Netherlands |
+| --- | --- |
+| Electricity - production: | 88.32 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 89.9% |
+| Electricity - production by source: | hydro: 0.1% |
+| Electricity - production by source: | other: 5.7% (2001) |
+| Electricity - production by source: | nuclear: 4.3% |
+| Electricity - consumption: | 99.42 billion kWh (2001) |
+| Electricity - exports: | 4.209 billion kWh (2001) |
+| Electricity - imports: | 21.49 billion kWh (2001) |
+| Oil - production: | 46,200 bbl/day (2001 est.) |
+| Oil - consumption: | 895,300 bbl/day (2001 est.) |
+| Oil - exports: | 1.418 million bbl/day (2001) |
+| Oil - imports: | 2.284 million bbl/day (2001) |
+| Oil - proved reserves: | 88.06 million bbl (37257) |
+| Natural gas - production: | 77.75 billion cu m (2001 est.) |
+| Natural gas - consumption: | 49.72 billion cu m (2001 est.) |
+| Natural gas - exports: | 49.28 billion cu m (2001 est.) |
+| Natural gas - imports: | 20.78 billion cu m (2001 est.) |
+| Natural gas - proved reserves: | 1.693 trillion cu m (37257) |

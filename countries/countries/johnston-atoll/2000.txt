@@ -1,0 +1,5 @@
+| Energy |   |
+| --- | --- |
+| Electricity - production: | NA kWh |
+| note: | there are six 25,000 kWh generators supplied by the base operating support contractor |
+| Electricity - consumption: | NA kWh |

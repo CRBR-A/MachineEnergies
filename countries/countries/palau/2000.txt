@@ -1,0 +1,10 @@
+| Energy |   |
+| --- | --- |
+| Electricity - production: | 200 million kWh (1996) |
+| Electricity - production by source: | fossil fuel: 85% |
+| Electricity - production by source: | hydro: 15% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1996) |
+| Electricity - consumption: | 200 million kWh (1996) |
+| Electricity - exports: | 0 kWh (1996) |
+| Electricity - imports: | 0 kWh (1996) |

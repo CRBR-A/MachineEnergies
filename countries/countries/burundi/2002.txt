@@ -1,0 +1,11 @@
+| Energy | Burundi |
+| --- | --- |
+| Electricity - production: | 148 million kWh (2000) |
+| Electricity - production by source: | fossil fuel: 1% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | hydro: 99% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 166.64 million kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 29 million kWh |
+| Electricity - imports: | note: supplied by the Democratic Republic of the Congo (2000) |

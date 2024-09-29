@@ -1,0 +1,25 @@
+| Energy | Croatia |
+| --- | --- |
+| Electricity - production: | 14.24 billion kWh (2013 est.) |
+| Electricity - consumption: | 16.7 billion kWh (2012 est.) |
+| Electricity - exports: | 3.294 billion kWh (2013 est.) |
+| Electricity - imports: | 6.844 billion kWh (2013 est.) |
+| Electricity - installed generating capacity: | 4.132 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 45.9% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 44.7% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 2.3% of total installed capacity (2010 est.) |
+| Crude oil - production: | 11,930 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 51,470 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 71 million bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 65,410 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 74,410 bbl/day (2012 est.) |
+| Refined petroleum products - exports: | 30,120 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 26,670 bbl/day (2013 est.) |
+| Natural gas - production: | 1.863 billion cu m (2013 est.) |
+| Natural gas - consumption: | 2.755 billion cu m (2012 est.) |
+| Natural gas - exports: | 392 million cu m (2013 est.) |
+| Natural gas - imports: | 1.137 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 24.92 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 22.35 million Mt (2011 est.) |

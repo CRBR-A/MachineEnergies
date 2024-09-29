@@ -1,0 +1,26 @@
+| Energy | Albania |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 7.138 billion kWh (2016 est.) |
+| Electricity - consumption: | 5.11 billion kWh (2016 est.) |
+| Electricity - exports: | 1.869 billion kWh (2016 est.) |
+| Electricity - imports: | 1.827 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 2.109 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 5% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 95% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2017 est.) |
+| Crude oil - production: | 16,000 bbl/day (2017 est.) |
+| Crude oil - exports: | 17,290 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 168.3 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 5,638 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 29,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 3,250 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 26,660 bbl/day (2015 est.) |
+| Natural gas - production: | 50.97 million cu m (2017 est.) |
+| Natural gas - consumption: | 50.97 million cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 821.2 million cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 4.5 million Mt (2017 est.) |

@@ -1,0 +1,30 @@
+| Energy | Libya |
+| --- | --- |
+| Electricity access: | electrification - total population: 98.5% (2016) |
+| Electricity access: | electrification - urban areas: 99.1% (2016) |
+| Electricity access: | electrification - rural areas: 96.4% (2016) |
+| Electricity - production: | 34.24 billion kWh (2016 est.) |
+| Electricity - production: | note: persistent electricity shortages have contributed to the ongoing instability throughout the country |
+| Electricity - consumption: | 27.3 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2015 est.) |
+| Electricity - imports: | 376 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 9.46 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2017 est.) |
+| Crude oil - production: | 1.039 million bbl/day (2018 est.) |
+| Crude oil - exports: | 337,800 bbl/day (2015 est.) |
+| Crude oil - exports: | note: Libyan crude oil export values are highly volatile because of continuing protests and other disruptions across the country |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 48.36 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 89,620 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 260,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 16,880 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 168,200 bbl/day (2015 est.) |
+| Natural gas - production: | 9.089 billion cu m (2017 est.) |
+| Natural gas - consumption: | 4.446 billion cu m (2017 est.) |
+| Natural gas - exports: | 4.644 billion cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 1.505 trillion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 46.48 million Mt (2017 est.) |

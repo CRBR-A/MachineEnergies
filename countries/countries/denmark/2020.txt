@@ -1,0 +1,26 @@
+| Energy | Denmark |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 29.84 billion kWh (2016 est.) |
+| Electricity - consumption: | 33.02 billion kWh (2016 est.) |
+| Electricity - exports: | 9.919 billion kWh (2016 est.) |
+| Electricity - imports: | 14.98 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 14.34 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 46% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 54% of total installed capacity (2017 est.) |
+| Crude oil - production: | 115,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 82,980 bbl/day (2017 est.) |
+| Crude oil - imports: | 98,240 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 439 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 183,900 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 158,500 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 133,700 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 109,700 bbl/day (2017 est.) |
+| Natural gas - production: | 4.842 billion cu m (2017 est.) |
+| Natural gas - consumption: | 3.115 billion cu m (2017 est.) |
+| Natural gas - exports: | 2.237 billion cu m (2017 est.) |
+| Natural gas - imports: | 509.7 million cu m (2017 est.) |
+| Natural gas - proved reserves: | 12.86 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 37.45 million Mt (2017 est.) |

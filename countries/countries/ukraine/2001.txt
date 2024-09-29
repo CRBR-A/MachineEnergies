@@ -1,0 +1,10 @@
+| Energy | Ukraine |
+| --- | --- |
+| Electricity - production: | 157.823 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 47.67% |
+| Electricity - production by source: | hydro: 9.65% |
+| Electricity - production by source: | nuclear: 42.67% |
+| Electricity - production by source: | other: 0.01% (1999) |
+| Electricity - consumption: | 146.675 billion kWh (1999) |
+| Electricity - exports: | 2.3 billion kWh (1999) |
+| Electricity - imports: | 2.2 billion kWh (1999) |

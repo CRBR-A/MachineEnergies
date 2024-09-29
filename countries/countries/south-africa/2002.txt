@@ -1,0 +1,10 @@
+| Energy | South Africa |
+| --- | --- |
+| Electricity - production: | 194.38 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 93% |
+| Electricity - production by source: | hydro: 1% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 7% |
+| Electricity - consumption: | 181.52 billion kWh (2000) |
+| Electricity - exports: | 4.549 billion kWh (2000) |
+| Electricity - imports: | 5.294 billion kWh (2000) |

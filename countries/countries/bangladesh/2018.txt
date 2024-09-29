@@ -1,0 +1,29 @@
+| Energy | Bangladesh |
+| --- | --- |
+| Electricity access: | population without electricity: 60.3 million (2013) |
+| Electricity access: | electrification - total population: 60% (2013) |
+| Electricity access: | electrification - urban areas: 90% (2013) |
+| Electricity access: | electrification - rural areas: 49% (2013) |
+| Electricity - production: | 60.51 billion kWh (2016 est.) |
+| Electricity - consumption: | 53.65 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 11.9 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 97% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 2% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 2% of total installed capacity (2017 est.) |
+| Crude oil - production: | 3,666 bbl/day (2017 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 21,860 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 28 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 26,280 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 106,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 901 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 81,570 bbl/day (2015 est.) |
+| Natural gas - production: | 29.53 billion cu m (2017 est.) |
+| Natural gas - consumption: | 29.53 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 185.8 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 79.97 million Mt (2017 est.) |

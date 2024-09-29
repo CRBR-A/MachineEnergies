@@ -1,0 +1,25 @@
+| Energy | Austria |
+| --- | --- |
+| Electricity - production: | 59.47 billion kWh (2011 est.) |
+| Electricity - consumption: | 63.8 billion kWh (2011 est.) |
+| Electricity - exports: | 16.75 billion kWh (2011 est.) |
+| Electricity - imports: | 24.98 billion kWh (2011 est.) |
+| Electricity - installed generating capacity: | 21.11 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 19.6% of total installed capacity (2009 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2009 est.) |
+| Electricity - from hydroelectric plants: | 38.7% of total installed capacity (2009 est.) |
+| Electricity - from other renewable sources: | 20.4% of total installed capacity (2009 est.) |
+| Crude oil - production: | 25,750 bbl/day (2011 est.) |
+| Crude oil - exports: | 0 bbl/day (2009 est.) |
+| Crude oil - imports: | 137,100 bbl/day (2011 est.) |
+| Crude oil - proved reserves: | 50 million bbl (1 January 2012 est.) |
+| Refined petroleum products - production: | 188,500 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 262,900 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 46,680 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 158,300 bbl/day (2010 est.) |
+| Natural gas - production: | 1.776 billion cu m (2011 est.) |
+| Natural gas - consumption: | 9.015 billion cu m (2011 est.) |
+| Natural gas - exports: | 4.96 billion cu m (2011 est.) |
+| Natural gas - imports: | 14.28 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 16.14 billion cu m (1 January 2011 est.) |
+| Carbon dioxide emissions from consumption of energy: | 69.46 million Mt (2010 est.) |

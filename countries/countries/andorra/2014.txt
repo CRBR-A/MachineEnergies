@@ -1,0 +1,10 @@
+| Energy | Andorra |
+| --- | --- |
+| Electricity - production: | 91.24 million kWh (2011) |
+| Electricity - consumption: | 562.4 million kWh (2012) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 520,000 kW |
+| Electricity - from fossil fuels: | 61.3% of total installed capacity |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010) |
+| Electricity - from hydroelectric plants: | 23.3% of total installed capacity |

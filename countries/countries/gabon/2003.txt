@@ -1,0 +1,20 @@
+| Energy | Gabon |
+| --- | --- |
+| Electricity - production: | 798.4 million kWh (2001) |
+| Electricity - production by source: | fossil fuel: 34.5% |
+| Electricity - production by source: | hydro: 65.5% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 742.5 million kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 301,300 bbl/day (2001 est.) |
+| Oil - consumption: | 13,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 2.45 billion bbl (37257) |
+| Natural gas - production: | 80 million cu m (2001 est.) |
+| Natural gas - consumption: | 80 million cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 66.47 billion cu m (37257) |

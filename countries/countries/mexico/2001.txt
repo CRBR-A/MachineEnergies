@@ -1,0 +1,10 @@
+| Energy | Mexico |
+| --- | --- |
+| Electricity - production: | 182.492 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 74.12% |
+| Electricity - production by source: | hydro: 17.75% |
+| Electricity - production by source: | nuclear: 5.21% |
+| Electricity - production by source: | other: 2.92% (1999) |
+| Electricity - consumption: | 170.754 billion kWh (1999) |
+| Electricity - exports: | 11 million kWh (1999) |
+| Electricity - imports: | 1.047 billion kWh (1999) |

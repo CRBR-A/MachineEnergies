@@ -1,0 +1,25 @@
+| Energy | Rwanda |
+| --- | --- |
+| Electricity - production: | 280.2 million kWh (2010 est.) |
+| Electricity - consumption: | 319.6 million kWh (2010 est.) |
+| Electricity - exports: | 3 million kWh (2010 est.) |
+| Electricity - imports: | 62 million kWh (2010 est.) |
+| Electricity - installed generating capacity: | 57,250 kW (2010 est.) |
+| Electricity - from fossil fuels: | 52.4% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 47.2% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0.4% of total installed capacity (2010 est.) |
+| Crude oil - production: | 10 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 5,245 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 5,302 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2011 est.) |
+| Natural gas - consumption: | 0 cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 56.63 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 865,100 Mt (2011 est.) |

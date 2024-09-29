@@ -1,0 +1,26 @@
+| Energy | BOSNIA AND HERZEGOVINA |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 14.97 billion kWh (2015 est.) |
+| Electricity - consumption: | 11.44 billion kWh (2015 est.) |
+| Electricity - exports: | 6.007 billion kWh (2015 est.) |
+| Electricity - imports: | 3.872 billion kWh (2015 est.) |
+| Electricity - installed generating capacity: | 4.243 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 41.6% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 48.3% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 0.3% of total installed capacity (2015 est.) |
+| Crude oil - production: | 0 bbl/day (2016 est.) |
+| Crude oil - exports: | 0 bbl/day (2014 est.) |
+| Crude oil - imports: | 18,940 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 20,700 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 31,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 5,910 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 15,700 bbl/day (2014 est.) |
+| Natural gas - production: | 0 cu m (2014 est.) |
+| Natural gas - consumption: | 881 million cu m (2015 est.) |
+| Natural gas - exports: | 0 cu m (2014 est.) |
+| Natural gas - imports: | 200 million cu m (2015 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 17 million Mt (2013 est.) |

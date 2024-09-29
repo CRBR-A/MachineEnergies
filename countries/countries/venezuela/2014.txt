@@ -1,0 +1,25 @@
+| Energy | Venezuela |
+| --- | --- |
+| Electricity - production: | 127.6 billion kWh (2012 est.) |
+| Electricity - consumption: | 85.05 billion kWh (2011 est.) |
+| Electricity - exports: | 626 million kWh (2010 est.) |
+| Electricity - imports: | 0 kWh (2010 est.) |
+| Electricity - installed generating capacity: | 27.5 million kW (2012 est.) |
+| Electricity - from fossil fuels: | 35.7% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 64.3% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 2.489 million bbl/day (2012 est.) |
+| Crude oil - exports: | 1.645 million bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 297.6 billion bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 1.11 million bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 571,000 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 638,000 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 16,660 bbl/day (2011 est.) |
+| Natural gas - production: | 25.28 billion cu m (2012 est.) |
+| Natural gas - consumption: | 27.11 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 2.11 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 5.524 trillion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 182.7 million Mt (2011 est.) |

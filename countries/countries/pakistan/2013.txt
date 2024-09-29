@@ -1,0 +1,25 @@
+| Energy | Pakistan |
+| --- | --- |
+| Electricity - production: | 94.65 billion kWh (2011 est.) |
+| Electricity - consumption: | 70.1 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 22.27 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 68.3% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 2.1% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 29.6% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 61,660 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 151,200 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 247.5 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 210,100 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 426,700 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 34,660 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 227,100 bbl/day (2010 est.) |
+| Natural gas - production: | 39.15 billion cu m (2011 est.) |
+| Natural gas - consumption: | 42.9 billion cu m (2011 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 679.6 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 139.7 million Mt (2011 est.) |

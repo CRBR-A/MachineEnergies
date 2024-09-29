@@ -1,0 +1,10 @@
+| Energy | Dominica |
+| --- | --- |
+| Electricity - production: | 62 million kWh (1999) |
+| Electricity - production by source: | fossil fuel: 48.39% |
+| Electricity - production by source: | hydro: 51.61% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 57.7 million kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

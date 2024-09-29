@@ -1,0 +1,26 @@
+| Energy | Brazil |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 567.9 billion kWh (2016 est.) |
+| Electricity - consumption: | 509.1 billion kWh (2016 est.) |
+| Electricity - exports: | 219 million kWh (2015 est.) |
+| Electricity - imports: | 41.31 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 150.8 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 17% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 1% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 64% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 18% of total installed capacity (2017 est.) |
+| Crude oil - production: | 2.587 million bbl/day (2018 est.) |
+| Crude oil - exports: | 736,600 bbl/day (2015 est.) |
+| Crude oil - imports: | 297,700 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 12.63 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 2.811 million bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 2.956 million bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 279,000 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 490,400 bbl/day (2015 est.) |
+| Natural gas - production: | 23.96 billion cu m (2017 est.) |
+| Natural gas - consumption: | 34.35 billion cu m (2017 est.) |
+| Natural gas - exports: | 134.5 million cu m (2017 est.) |
+| Natural gas - imports: | 10.51 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 377.4 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 513.8 million Mt (2017 est.) |

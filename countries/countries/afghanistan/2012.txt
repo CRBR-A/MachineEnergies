@@ -1,0 +1,25 @@
+| Energy | Afghanistan |
+| --- | --- |
+| Electricity - production: | 913.1 million kWh (2009 est.) |
+| Electricity - consumption: | 2.226 billion kWh (2009 est.) |
+| Electricity - exports: | 0 kWh (2010 est.) |
+| Electricity - imports: | 1.377 billion kWh (2009 est.) |
+| Electricity - installed generating capacity: | 489,100 kW (2009 est.) |
+| Electricity - from fossil fuels: | 23.5% of total installed capacity (2009 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2009 est.) |
+| Electricity - from hydroelectric plants: | 76.5% of total installed capacity (2009 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2009 est.) |
+| Crude oil - production: | 1,950 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2009 est.) |
+| Crude oil - imports: | 0 bbl/day (2009 est.) |
+| Crude oil - proved reserves: | 87 million bbl (1 January 2012 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2008 est.) |
+| Refined petroleum products - consumption: | 4,229 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2008 est.) |
+| Refined petroleum products - imports: | 5,193 bbl/day (2008 est.) |
+| Natural gas - production: | 30 million cu m (2010 est.) |
+| Natural gas - consumption: | 30 million cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2010 est.) |
+| Natural gas - imports: | 0 cu m (2010 est.) |
+| Natural gas - proved reserves: | 49.55 billion cu m (1 January 2012 est.) |
+| Carbon dioxide emissions from consumption of energy: | 790,200 Mt (2010 est.) |

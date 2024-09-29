@@ -1,0 +1,25 @@
+| Energy | MEXICO |
+| --- | --- |
+| Electricity - production: | 277.6 billion kWh (2012 est.) |
+| Electricity - consumption: | 232.3 billion kWh (2011 est.) |
+| Electricity - exports: | 1.288 billion kWh (2013 est.) |
+| Electricity - imports: | 607 million kWh (2013 est.) |
+| Electricity - installed generating capacity: | 61.51 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 75.7% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 2.1% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 18.9% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 3.2% of total installed capacity (2011 est.) |
+| Crude oil - production: | 2.882 million bbl/day (2013 est.) |
+| Crude oil - exports: | 1.333 million bbl/day (2012 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 10.07 billion bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 1.361 million bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 2.044 million bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 189,100 bbl/day (2012 est.) |
+| Refined petroleum products - imports: | 653,200 bbl/day (2010 est.) |
+| Natural gas - production: | 46.43 billion cu m (2013 est.) |
+| Natural gas - consumption: | 64.58 billion cu m (2013 est.) |
+| Natural gas - exports: | 32 million cu m (2013 est.) |
+| Natural gas - imports: | 18.53 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 483.5 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 453.8 million Mt (2012 est.) |

@@ -1,0 +1,29 @@
+| Energy | Papua New Guinea |
+| --- | --- |
+| Electricity access: | population without electricity: 5,568,879 (2012) |
+| Electricity access: | electrification - total population: 18% (2012) |
+| Electricity access: | electrification - urban areas: 72% (2012) |
+| Electricity access: | electrification - rural areas: 10% (2012) |
+| Electricity - production: | 3.481 billion kWh (2016 est.) |
+| Electricity - consumption: | 3.237 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2017 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 900,900 kW (2016 est.) |
+| Electricity - from fossil fuels: | 63% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 30% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 7% of total installed capacity (2017 est.) |
+| Crude oil - production: | 50,000 bbl/day (2017 est.) |
+| Crude oil - exports: | 55,600 bbl/day (2015 est.) |
+| Crude oil - imports: | 22,220 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 183.8 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 22,170 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 37,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 17,110 bbl/day (2015 est.) |
+| Natural gas - production: | 11.18 billion cu m (2017 est.) |
+| Natural gas - consumption: | 99.11 million cu m (2017 est.) |
+| Natural gas - exports: | 11.1 billion cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 210.5 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 6.082 million Mt (2017 est.) |

@@ -1,0 +1,10 @@
+| Energy | Estonia |
+| --- | --- |
+| Electricity - production: | 7.782 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 99.72% |
+| Electricity - production by source: | hydro: 0.09% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0.19% (1999) |
+| Electricity - consumption: | 6.807 billion kWh (1999) |
+| Electricity - exports: | 530 million kWh (1999) |
+| Electricity - imports: | 100 million kWh (1999) |

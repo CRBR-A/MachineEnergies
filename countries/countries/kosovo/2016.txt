@@ -1,0 +1,24 @@
+| Energy | KOSOVO |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 5.324 billion kWh (2014 est.) |
+| Electricity - consumption: | 2.887 billion kWh (2014 est.) |
+| Electricity - exports: | 474.8 million kWh (2014 est.) |
+| Electricity - imports: | 875 million kWh (2014 est.) |
+| Electricity - installed generating capacity: | 1.6 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 97.1% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 2.9% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | NA bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | NA bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | NA bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 16.6 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 12,160 bbl/day (2013 est.) |
+| Natural gas - production: | 0 cu m (2007) |
+| Natural gas - consumption: | 0 cu m (2007) |
+| Natural gas - proved reserves: | NA cu m |
+| Carbon dioxide emissions from consumption of energy: | 7.576 million Mt (2012 est.) |

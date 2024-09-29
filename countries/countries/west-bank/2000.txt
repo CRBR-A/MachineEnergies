@@ -1,0 +1,10 @@
+| Energy |   |
+| --- | --- |
+| Electricity - production: | NA kWh; note - most electricity imported from Israel; East Jerusalem Electric Company buys and distributes electricity to Palestinians in East Jerusalem and its concession in the West Bank; the Israel Electric Company directly supplies electricity to most Jewish residents and military facilities; at the same time, some Palestinian municipalities, such as Nabulus and Janin, generate their own electricity from small power plants |
+| Electricity - production by source: | fossil fuel: NA% |
+| Electricity - production by source: | hydro: NA% |
+| Electricity - production by source: | nuclear: NA% |
+| Electricity - production by source: | other: NA% |
+| Electricity - consumption: | NA kWh |
+| Electricity - exports: | NA kWh |
+| Electricity - imports: | NA kWh |

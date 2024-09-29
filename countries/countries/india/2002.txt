@@ -1,0 +1,10 @@
+| Energy | India |
+| --- | --- |
+| Electricity - production: | 547.12 billion kWh (FY 2000-01, utilities only) (2000) |
+| Electricity - production by source: | fossil fuel: 83% |
+| Electricity - production by source: | hydro: 14% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 3% |
+| Electricity - consumption: | 509.89 billion kWh (2000) |
+| Electricity - exports: | 321 million kWh (2000) |
+| Electricity - imports: | 1.385 billion kWh (2000) |

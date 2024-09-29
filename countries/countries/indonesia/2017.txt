@@ -1,0 +1,29 @@
+| Energy | INDONESIA |
+| --- | --- |
+| Electricity access: | population without electricity: 48,700,000 |
+| Electricity access: | electrification - total population: 81% |
+| Electricity access: | electrification - urban areas: 94% |
+| Electricity access: | electrification - rural areas: 66% (2013) |
+| Electricity - production: | 221.3 billion kWh (2015 est.) |
+| Electricity - consumption: | 199.3 billion kWh (2015 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 13 million kWh (2015 est.) |
+| Electricity - installed generating capacity: | 57.35 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 85.1% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 9.4% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 5.9% of total installed capacity (2015 est.) |
+| Crude oil - production: | 831,100 bbl/day (2016 est.) |
+| Crude oil - exports: | 289,300 bbl/day (2014 est.) |
+| Crude oil - imports: | 507,900 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 3.23 billion bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 990,700 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 1.708 million bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 98,780 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 668,500 bbl/day (2014 est.) |
+| Natural gas - production: | 72.8 billion cu m (2015 est.) |
+| Natural gas - consumption: | 53.15 billion cu m (2015 est.) |
+| Natural gas - exports: | 30.29 billion cu m (2015 est.) |
+| Natural gas - imports: | 1.8 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 2.775 trillion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 442 million Mt (2013 est.) |

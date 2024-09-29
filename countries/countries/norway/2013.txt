@@ -1,0 +1,25 @@
+| Energy | Norway |
+| --- | --- |
+| Electricity - production: | 125.2 billion kWh (2011 est.) |
+| Electricity - consumption: | 120.9 billion kWh (2010 est.) |
+| Electricity - exports: | 22.17 billion kWh (2012 est.) |
+| Electricity - imports: | 4.168 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 30.18 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 2% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 91.7% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 1.9% of total installed capacity (2010 est.) |
+| Crude oil - production: | 1.902 million bbl/day (2012 est.) |
+| Crude oil - exports: | 1.602 million bbl/day (2010 est.) |
+| Crude oil - imports: | 11,320 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 5.366 billion bbl (1 January 2010 es) |
+| Refined petroleum products - production: | 307,700 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 255,200 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 349,600 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 100,000 bbl/day (2010 est.) |
+| Natural gas - production: | 114.7 billion cu m (2012 est.) |
+| Natural gas - consumption: | 5.506 billion cu m (2010 est.) |
+| Natural gas - exports: | 107.3 billion cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 2.07 trillion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 45.87 million Mt (2011 est.) |

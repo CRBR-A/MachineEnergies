@@ -1,0 +1,28 @@
+| Energy | Timor-Leste |
+| --- | --- |
+| Electricity access: | electrification - total population: 85.6% (2018) |
+| Electricity access: | electrification - urban areas: 100% (2018) |
+| Electricity access: | electrification - rural areas: 79.2% (2018) |
+| Electricity - production: | 0 kWh NA (2016 est.) |
+| Electricity - consumption: | 0 kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2017 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 600 kW NA (2016 est.) |
+| Electricity - from fossil fuels: | 0% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 100% of total installed capacity (2017 est.) |
+| Crude oil - production: | 33,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 62,060 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 3,500 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 3,481 bbl/day (2015 est.) |
+| Natural gas - production: | 5.776 billion cu m (2017 est.) |
+| Natural gas - consumption: | 0 cu m (2017 est.) |
+| Natural gas - exports: | 5.776 billion cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 200 billion cu m (1 January 2006 est.) |
+| Carbon dioxide emissions from consumption of energy: | 533,400 Mt (2017 est.) |

@@ -1,0 +1,25 @@
+| Energy | SINGAPORE |
+| --- | --- |
+| Electricity - production: | 49.31 billion kWh (2014 est.) |
+| Electricity - consumption: | 47.18 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2014 est.) |
+| Electricity - imports: | 0 kWh (2014 est.) |
+| Electricity - installed generating capacity: | 10.49 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 95.3% of total installed capacity (2014 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2014 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2014 est.) |
+| Electricity - from other renewable sources: | 3.9% of total installed capacity (2014 est.) |
+| Crude oil - production: | 500 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 1.137 million bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 1.357 million bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 1.292 million bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2012 est.) |
+| Refined petroleum products - imports: | 1.36 million bbl/day (2012 est.) |
+| Natural gas - production: | 0 cu m (2012 est.) |
+| Natural gas - consumption: | 9.38 billion cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 9.38 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 208 million Mt (2012 est.) |

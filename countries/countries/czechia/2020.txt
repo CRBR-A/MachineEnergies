@@ -1,0 +1,26 @@
+| Energy | Czechia |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 77.39 billion kWh (2016 est.) |
+| Electricity - consumption: | 62.34 billion kWh (2016 est.) |
+| Electricity - exports: | 24.79 billion kWh (2016 est.) |
+| Electricity - imports: | 13.82 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 21.63 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 60% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 19% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 5% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 16% of total installed capacity (2017 est.) |
+| Crude oil - production: | 2,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 446 bbl/day (2017 est.) |
+| Crude oil - imports: | 155,900 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 15 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 177,500 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 213,700 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 52,200 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 83,860 bbl/day (2017 est.) |
+| Natural gas - production: | 229.4 million cu m (2017 est.) |
+| Natural gas - consumption: | 8.721 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 8.891 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 3.964 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 115.8 million Mt (2017 est.) |

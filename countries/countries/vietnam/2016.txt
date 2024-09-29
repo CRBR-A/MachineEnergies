@@ -1,0 +1,29 @@
+| Energy | VIETNAM |
+| --- | --- |
+| Electricity access: | population without electricity: 2,600,000 |
+| Electricity access: | electrification - total population: 99% |
+| Electricity access: | electrification - urban areas: 100% |
+| Electricity access: | electrification - rural areas: 98% (2013) |
+| Electricity - production: | 135 billion kWh (2014 est.) |
+| Electricity - consumption: | 125 billion kWh (2014 est.) |
+| Electricity - exports: | 1.5 billion kWh (2014 est.) |
+| Electricity - imports: | 4.1 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 39 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 48.9% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 50.9% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0.2% of total installed capacity (2012 est.) |
+| Crude oil - production: | 333,400 bbl/day (2015 est.) |
+| Crude oil - exports: | 163,100 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 4.4 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 141,000 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 392,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 27,740 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 211,000 bbl/day (2013 est.) |
+| Natural gas - production: | 8.99 billion cu m (2014 est.) |
+| Natural gas - consumption: | 8.99 billion cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 699.4 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 142 million Mt (2013 est.) |

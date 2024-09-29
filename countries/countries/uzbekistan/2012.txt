@@ -1,0 +1,25 @@
+| Energy | Uzbekistan |
+| --- | --- |
+| Electricity - production: | 47.37 billion kWh (2009 est.) |
+| Electricity - consumption: | 42.9 billion kWh (2009 est.) |
+| Electricity - exports: | 11.66 billion kWh (2009 est.) |
+| Electricity - imports: | 11.58 billion kWh (2009 est.) |
+| Electricity - installed generating capacity: | 11.58 million kW (2009 est.) |
+| Electricity - from fossil fuels: | 85.2% of total installed capacity (2009 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2009 est.) |
+| Electricity - from hydroelectric plants: | 14.8% of total installed capacity (2009 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2009 est.) |
+| Crude oil - production: | 104,400 bbl/day (2011 est.) |
+| Crude oil - exports: | 0 bbl/day (2009 est.) |
+| Crude oil - imports: | 0 bbl/day (2009 est.) |
+| Crude oil - proved reserves: | 594 million bbl (1 January 2012 est.) |
+| Refined petroleum products - production: | 90,690 bbl/day (2008 est.) |
+| Refined petroleum products - consumption: | 137,100 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 5,488 bbl/day (2008 est.) |
+| Refined petroleum products - imports: | 0 bbl/day (2008 est.) |
+| Natural gas - production: | 60.11 billion cu m (2010 est.) |
+| Natural gas - consumption: | 45.71 billion cu m (2010 est.) |
+| Natural gas - exports: | 14.4 billion cu m (2010 est.) |
+| Natural gas - imports: | 0 cu m (2010 est.) |
+| Natural gas - proved reserves: | 1.841 trillion cu m (1 January 2012 est.) |
+| Carbon dioxide emissions from consumption of energy: | 114.3 million Mt (2010 est.) |

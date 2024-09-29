@@ -1,0 +1,25 @@
+| Energy | South Africa |
+| --- | --- |
+| Electricity - production: | 257.9 billion kWh (2012 est.) |
+| Electricity - consumption: | 234.2 billion kWh (2012 est.) |
+| Electricity - exports: | 15.04 billion kWh (2012 est.) |
+| Electricity - imports: | 11.89 billion kWh (2011 est.) |
+| Electricity - installed generating capacity: | 44.26 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 90.8% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 4.1% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 1.5% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0.5% of total installed capacity (2010 est.) |
+| Crude oil - production: | 181,000 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 385,100 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 15 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 437,600 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 590,900 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 80,460 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 79,010 bbl/day (2010 est.) |
+| Natural gas - production: | 1.28 billion cu m (2011 est.) |
+| Natural gas - consumption: | 4.01 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 3.3 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 16 billion cu m (1 January 2012 es) |
+| Carbon dioxide emissions from consumption of energy: | 461.6 million Mt (2011 est.) |

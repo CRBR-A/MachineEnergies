@@ -1,0 +1,10 @@
+| Energy | Kenya |
+| --- | --- |
+| Electricity - production: | 4.616 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 22% |
+| Electricity - production by source: | hydro: 70% |
+| Electricity - production by source: | other: 8% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 4.433 billion kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 140 million kWh (2000) |

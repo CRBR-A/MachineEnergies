@@ -1,0 +1,20 @@
+| Energy | United Arab Emirates |
+| --- | --- |
+| Electricity - production: | 37.74 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 35.1 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 2.566 million bbl/day (2001 est.) |
+| Oil - consumption: | 310,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 80.31 billion bbl (37257) |
+| Natural gas - production: | 44.94 billion cu m (2001 est.) |
+| Natural gas - consumption: | 37.86 billion cu m (2001 est.) |
+| Natural gas - exports: | 7.08 billion cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 5.892 trillion cu m (37257) |

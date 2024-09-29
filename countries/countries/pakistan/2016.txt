@@ -1,0 +1,29 @@
+| Energy | PAKISTAN |
+| --- | --- |
+| Electricity access: | population without electricity: 49,500,000 |
+| Electricity access: | electrification - total population: 73% |
+| Electricity access: | electrification - urban areas: 91% |
+| Electricity access: | electrification - rural areas: 62% (2013) |
+| Electricity - production: | 100 billion kWh (2014 est.) |
+| Electricity - consumption: | 82 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 400 million kWh (2014 est.) |
+| Electricity - installed generating capacity: | 24 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 67.1% of total installed capacity (FY2014 est.) |
+| Electricity - from nuclear fuels: | 3.2% of total installed capacity (FY2014 est.) |
+| Electricity - from hydroelectric plants: | 29.2% of total installed capacity (FY2014 est.) |
+| Electricity - from other renewable sources: | 0.4% of total installed capacity (FY2014 est.) |
+| Crude oil - production: | 90,210 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 150,800 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 400 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 235,300 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 450,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 17,120 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 228,000 bbl/day (2013 est.) |
+| Natural gas - production: | 39.07 billion cu m (2014 est.) |
+| Natural gas - consumption: | 39.97 billion cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 669.4 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 145 million Mt (2013 est.) |

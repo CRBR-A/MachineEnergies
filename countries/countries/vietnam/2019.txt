@@ -1,0 +1,29 @@
+| Energy | Vietnam |
+| --- | --- |
+| Electricity access: | population without electricity: 1 million (2017) |
+| Electricity access: | electrification - total population: 99% (2017) |
+| Electricity access: | electrification - urban areas: 100% (2017) |
+| Electricity access: | electrification - rural areas: 98% (2017) |
+| Electricity - production: | 158.2 billion kWh (2016 est.) |
+| Electricity - consumption: | 143.2 billion kWh (2016 est.) |
+| Electricity - exports: | 713 million kWh (2017 est.) |
+| Electricity - imports: | 2.733 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 40.77 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 56% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 43% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 1% of total installed capacity (2017 est.) |
+| Crude oil - production: | 242,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 324,600 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 4.4 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 153,800 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 438,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 25,620 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 282,800 bbl/day (2015 est.) |
+| Natural gas - production: | 8.098 billion cu m (2017 est.) |
+| Natural gas - consumption: | 8.098 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 699.4 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 235.3 million Mt (2017 est.) |

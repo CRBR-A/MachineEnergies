@@ -1,0 +1,10 @@
+| Energy | Austria |
+| --- | --- |
+| Electricity - production: | 60.285 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 28% |
+| Electricity - production by source: | hydro: 69% |
+| Electricity - production by source: | other: 3% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 54.764 billion kWh (2000) |
+| Electricity - exports: | 15.11 billion kWh (2000) |
+| Electricity - imports: | 13.809 billion kWh (2000) |

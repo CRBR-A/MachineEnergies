@@ -1,0 +1,26 @@
+| Energy | Switzerland |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 59.01 billion kWh (2016 est.) |
+| Electricity - consumption: | 58.46 billion kWh (2016 est.) |
+| Electricity - exports: | 30.17 billion kWh (2016 est.) |
+| Electricity - imports: | 34.1 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 20.84 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 3% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 18% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 67% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 13% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2017 est.) |
+| Crude oil - imports: | 57,400 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 61,550 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 223,900 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 7,345 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 165,100 bbl/day (2017 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 3.709 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 3.681 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | NA cu m (1 January 2011 est.) |
+| Carbon dioxide emissions from consumption of energy: | 38.95 million Mt (2017 est.) |

@@ -1,0 +1,20 @@
+| Energy | Kazakhstan |
+| --- | --- |
+| Electricity - production: | 52.43 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 84.3% |
+| Electricity - production by source: | hydro: 15.7% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 48.36 billion kWh (2001) |
+| Electricity - exports: | 3.6 billion kWh (2001) |
+| Electricity - imports: | 3.2 billion kWh (2001) |
+| Oil - production: | 798,200 bbl/day (2001 est.) |
+| Oil - consumption: | 195,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 2.709 billion bbl (37257) |
+| Natural gas - production: | 10.08 billion cu m (2001 est.) |
+| Natural gas - consumption: | 14.3 billion cu m (2001 est.) |
+| Natural gas - exports: | 4.1 billion cu m (2001 est.) |
+| Natural gas - imports: | 8.3 billion cu m (2001 est.) |
+| Natural gas - proved reserves: | 920.3 billion cu m (37257) |

@@ -1,0 +1,10 @@
+| Energy | Benin |
+| --- | --- |
+| Electricity - production: | 226 million kWh (1999) |
+| Electricity - production by source: | fossil fuel: 24.78% |
+| Electricity - production by source: | hydro: 75.22% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 510.2 million kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 300 million kWh (1999) |

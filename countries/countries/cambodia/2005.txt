@@ -1,0 +1,14 @@
+| Energy | Cambodia |
+| --- | --- |
+| Electricity - production: | 122 million kWh (2003) |
+| Electricity - production by source: | fossil fuel: 65% |
+| Electricity - production by source: | hydro: 35% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 100.6 million kWh (2002) |
+| Electricity - exports: | 0 kWh (2002) |
+| Electricity - imports: | 0 kWh (2002) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 7,200 bbl/day (2002 est.) |
+| Oil - exports: | NA |
+| Oil - imports: | NA |

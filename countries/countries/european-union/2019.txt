@@ -1,0 +1,23 @@
+| Energy | European Union |
+| --- | --- |
+| Electricity - production: | 3.043 trillion kWh (2015 est.) |
+| Electricity - consumption: | 2.845 trillion kWh (2015 est.) |
+| Electricity - exports: | 390 billion kWh (2015 est.) |
+| Electricity - imports: | 397 billion kWh (2015 est.) |
+| Electricity - installed generating capacity: | 975 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 44% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 12% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 11% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 44% of total installed capacity (2015 est.) |
+| Crude oil - production: | 1.488 million bbl/day (2016 est.) |
+| Crude oil - proved reserves: | 5.1 billion bbl (2016 est.) |
+| Refined petroleum products - production: | 11.66 million bbl/day (2016 est.) |
+| Refined petroleum products - consumption: | 12.89 million bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 2.196 million bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 8.613 million bbl/day (2017 est.) |
+| Natural gas - production: | 118.2 billion cu m (2016 est.) |
+| Natural gas - consumption: | 428.8 billion cu m (2016 est.) |
+| Natural gas - exports: | 93.75 billion cu m (2010 est.) |
+| Natural gas - imports: | 420.6 billion cu m (2010 est.) |
+| Natural gas - proved reserves: | 1.3 trillion cu m (1 January 2017 est.) |
+| Carbon dioxide emissions from consumption of energy: | 3.475 billion Mt (2015 est.) |

@@ -1,0 +1,26 @@
+| Energy | Turkmenistan |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 21.18 billion kWh (2016 est.) |
+| Electricity - consumption: | 15.09 billion kWh (2016 est.) |
+| Electricity - exports: | 3.201 billion kWh (2015 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 4.001 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2017 est.) |
+| Crude oil - production: | 244,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 67,790 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 600 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 191,100 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 160,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 53,780 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 0 bbl/day (2015 est.) |
+| Natural gas - production: | 77.45 billion cu m (2017 est.) |
+| Natural gas - consumption: | 39.31 billion cu m (2017 est.) |
+| Natural gas - exports: | 38.14 billion cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 7.504 trillion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 100.5 million Mt (2017 est.) |

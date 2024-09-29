@@ -1,0 +1,10 @@
+| Energy | Tajikistan |
+| --- | --- |
+| Electricity - production: | 14.245 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 2% |
+| Electricity - production by source: | hydro: 98% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 12.539 billion kWh (2000) |
+| Electricity - exports: | 3.909 billion kWh (2000) |
+| Electricity - imports: | 3.2 billion kWh (2000) |

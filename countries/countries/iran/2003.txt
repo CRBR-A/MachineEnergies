@@ -1,0 +1,20 @@
+| Energy | Iran |
+| --- | --- |
+| Electricity - production: | 124.6 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 97.1% |
+| Electricity - production by source: | hydro: 2.9% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 115.9 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 3.804 million bbl/day (2001 est.) |
+| Oil - consumption: | 1.277 million bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 94.39 billion bbl (37257) |
+| Natural gas - production: | 61.5 billion cu m (2001 est.) |
+| Natural gas - consumption: | 65.59 billion cu m (2001 est.) |
+| Natural gas - exports: | 110 million cu m (2001 est.) |
+| Natural gas - imports: | 4.2 billion cu m (2001 est.) |
+| Natural gas - proved reserves: | 24.8 trillion cu m (37257) |

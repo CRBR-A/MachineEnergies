@@ -1,0 +1,26 @@
+| Energy | SURINAME |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 2.1 billion kWh (2014 est.) |
+| Electricity - consumption: | 1.9 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 400,000 kW (2014 est.) |
+| Electricity - from fossil fuels: | 54.1% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 45.9% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 17,000 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 88.97 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 19,120 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 17,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 12,980 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 10,260 bbl/day (2013 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 0 cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2011 es) |
+| Carbon dioxide emissions from consumption of energy: | 2.4 million Mt (2013 est.) |

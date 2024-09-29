@@ -1,0 +1,26 @@
+| Energy | United States |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 4.095 trillion kWh (2016 est.) |
+| Electricity - consumption: | 3.902 trillion kWh (2016 est.) |
+| Electricity - exports: | 9.695 billion kWh (2016 est.) |
+| Electricity - imports: | 72.72 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 1.087 billion kW (2016 est.) |
+| Electricity - from fossil fuels: | 70% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 9% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 7% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 14% of total installed capacity (2017 est.) |
+| Crude oil - production: | 10.962 million bbl/day (2018 est.) |
+| Crude oil - exports: | 1.158 million bbl/day (2017 est.) |
+| Crude oil - imports: | 7.969 million bbl/day (2017 est.) |
+| Crude oil - proved reserves: | NA bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 20.3 million bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 19.96 million bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 5.218 million bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 2.175 million bbl/day (2017 est.) |
+| Natural gas - production: | 772.8 billion cu m (2017 est.) |
+| Natural gas - consumption: | 767.6 billion cu m (2017 est.) |
+| Natural gas - exports: | 89.7 billion cu m (2017 est.) |
+| Natural gas - imports: | 86.15 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2017 est.) |
+| Carbon dioxide emissions from consumption of energy: | 5.242 billion Mt (2017 est.) |

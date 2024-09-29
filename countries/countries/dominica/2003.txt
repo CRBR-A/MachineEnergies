@@ -1,0 +1,14 @@
+| Energy | Dominica |
+| --- | --- |
+| Electricity - production: | 72.41 million kWh (2001) |
+| Electricity - production by source: | fossil fuel: 47.1% |
+| Electricity - production by source: | hydro: 52.9% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 67.35 million kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 600 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |

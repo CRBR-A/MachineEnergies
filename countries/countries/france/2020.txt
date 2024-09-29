@@ -1,0 +1,26 @@
+| Energy | France |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 529.1 billion kWh (2016 est.) |
+| Electricity - consumption: | 450.8 billion kWh (2016 est.) |
+| Electricity - exports: | 61.41 billion kWh (2016 est.) |
+| Electricity - imports: | 19.9 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 130.8 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 17% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 50% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 15% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 19% of total installed capacity (2017 est.) |
+| Crude oil - production: | 16,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 1.147 million bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 65.97 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 1.311 million bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 1.705 million bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 440,600 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 886,800 bbl/day (2017 est.) |
+| Natural gas - production: | 16.99 million cu m (2017 est.) |
+| Natural gas - consumption: | 41.88 billion cu m (2017 est.) |
+| Natural gas - exports: | 6.031 billion cu m (2017 est.) |
+| Natural gas - imports: | 48.59 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 8.41 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 341.2 million Mt (2017 est.) |

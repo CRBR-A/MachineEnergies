@@ -1,0 +1,25 @@
+| Energy | Netherlands |
+| --- | --- |
+| Electricity - production: | 106.7 billion kWh (2011 est.) |
+| Electricity - consumption: | 110 billion kWh (2010 est.) |
+| Electricity - exports: | 15.05 billion kWh (2012 est.) |
+| Electricity - imports: | 32.16 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 26.62 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 83.6% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 1.9% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0.1% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 14.3% of total installed capacity (2010 est.) |
+| Crude oil - production: | 71,720 bbl/day (2012 est.) |
+| Crude oil - exports: | 10,220 bbl/day (2010 est.) |
+| Crude oil - imports: | 1.027 million bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 243.9 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 1.248 million bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 1.01 million bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 2.138 million bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 2.079 million bbl/day (2010 est.) |
+| Natural gas - production: | 80.78 billion cu m (2012 est.) |
+| Natural gas - consumption: | 54.85 billion cu m (2010 est.) |
+| Natural gas - exports: | 74.06 billion cu m (2012 est.) |
+| Natural gas - imports: | 35.74 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 1.23 trillion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 253 million Mt (2011 est.) |

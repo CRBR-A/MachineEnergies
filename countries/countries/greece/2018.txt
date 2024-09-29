@@ -1,0 +1,26 @@
+| Energy | Greece |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 52.05 billion kWh (2016 est.) |
+| Electricity - consumption: | 56.89 billion kWh (2016 est.) |
+| Electricity - exports: | 1.037 billion kWh (2016 est.) |
+| Electricity - imports: | 9.833 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 19.17 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 57% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 14% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 29% of total installed capacity (2017 est.) |
+| Crude oil - production: | 2,753 bbl/day (2017 est.) |
+| Crude oil - exports: | 3,229 bbl/day (2017 est.) |
+| Crude oil - imports: | 484,300 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 10 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 655,400 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 304,100 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 371,900 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 192,200 bbl/day (2017 est.) |
+| Natural gas - production: | 8 million cu m (2017 est.) |
+| Natural gas - consumption: | 4.927 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 4.984 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 991.1 million cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 69.37 million Mt (2017 est.) |

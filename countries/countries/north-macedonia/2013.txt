@@ -1,0 +1,25 @@
+| Energy | Macedonia |
+| --- | --- |
+| Electricity - production: | 5.81 billion kWh (2012 est.) |
+| Electricity - consumption: | 7.25 billion kWh (2012 est.) |
+| Electricity - exports: | 12.82 million kWh (2012 est.) |
+| Electricity - imports: | 2.692 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 1.94 million kW (2012 est.) |
+| Electricity - from fossil fuels: | 64.1% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 35.9% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 40.87 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2012) |
+| Crude oil - imports: | 18,800 bbl/day (2012) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 17,030 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 17,490 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 6,750 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 21,530 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2012) |
+| Natural gas - consumption: | 136.6 million cu m (2011) |
+| Natural gas - exports: | 0 cu m (2012) |
+| Natural gas - imports: | 136.6 million cu m (2012) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 6.947 million Mt (2011 est.) |

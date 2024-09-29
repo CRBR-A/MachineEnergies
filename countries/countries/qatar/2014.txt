@@ -1,0 +1,25 @@
+| Energy | Qatar |
+| --- | --- |
+| Electricity - production: | 32.34 billion kWh (2011 est.) |
+| Electricity - consumption: | 20.51 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 7.83 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 1.579 million bbl/day (2012 est.) |
+| Crude oil - exports: | 1.389 million bbl/day (2012 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 25.38 billion bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 287,500 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 189,700 bbl/day (2012 est.) |
+| Refined petroleum products - exports: | 210,000 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 0 bbl/day (2010 est.) |
+| Natural gas - production: | 133.2 billion cu m (2011 est.) |
+| Natural gas - consumption: | 19.53 billion cu m (2012 est.) |
+| Natural gas - exports: | 113.7 billion cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 25.2 trillion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 64.46 million Mt (2011 est.) |

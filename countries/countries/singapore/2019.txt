@@ -1,0 +1,26 @@
+| Energy | Singapore |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 48.66 billion kWh (2016 est.) |
+| Electricity - consumption: | 47.69 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 13.35 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 98% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 2% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2018 est.) |
+| Crude oil - exports: | 14,780 bbl/day (2015 est.) |
+| Crude oil - imports: | 783,300 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 755,000 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 1.322 million bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 1.82 million bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 2.335 million bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 12.97 billion cu m (2017 est.) |
+| Natural gas - exports: | 622.9 million cu m (2017 est.) |
+| Natural gas - imports: | 13.48 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2017 est.) |
+| Carbon dioxide emissions from consumption of energy: | 249.5 million Mt (2017 est.) |

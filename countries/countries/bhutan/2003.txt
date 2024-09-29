@@ -1,0 +1,14 @@
+| Energy | Bhutan |
+| --- | --- |
+| Electricity - production: | 1.896 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 0.1% |
+| Electricity - production by source: | hydro: 99.9% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 379.5 million kWh (2001) |
+| Electricity - exports: | 1.4 billion kWh (2001) |
+| Electricity - imports: | 16 million kWh (2001) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 1,020 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |

@@ -1,0 +1,10 @@
+| Energy | Guatemala |
+| --- | --- |
+| Electricity - production: | 5.929 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 50% |
+| Electricity - production by source: | hydro: 45% |
+| Electricity - production by source: | other: 5% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 4.797 billion kWh (2000) |
+| Electricity - exports: | 840 million kWh (2000) |
+| Electricity - imports: | 123 million kWh (2000) |

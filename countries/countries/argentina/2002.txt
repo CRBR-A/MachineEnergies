@@ -1,0 +1,10 @@
+| Energy | Argentina |
+| --- | --- |
+| Electricity - production: | 82.802 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 52% |
+| Electricity - production by source: | hydro: 41% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 7% |
+| Electricity - consumption: | 80.806 billion kWh (2000) |
+| Electricity - exports: | 3.7 billion kWh (2000) |
+| Electricity - imports: | 7.5 billion kWh (2000) |

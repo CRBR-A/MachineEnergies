@@ -1,0 +1,10 @@
+| Energy | Guernsey |
+| --- | --- |
+| Electricity - production: | NA kWh |
+| Electricity - consumption: | NA kWh |
+| Electricity - exports: | 0 kWh (2002) |
+| Electricity - imports: | 0 kWh (2002) |
+| Electricity - production by source: | fossil fuel: NA |
+| Electricity - production by source: | hydro: NA |
+| Electricity - production by source: | nuclear: NA |
+| Electricity - production by source: | other: NA |

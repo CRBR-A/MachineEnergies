@@ -1,0 +1,29 @@
+| Energy | Guatemala |
+| --- | --- |
+| Electricity access: | population without electricity: 1 million (2017) |
+| Electricity access: | electrification - total population: 91.8% (2016) |
+| Electricity access: | electrification - urban areas: 96.8% (2016) |
+| Electricity access: | electrification - rural areas: 86.4% (2016) |
+| Electricity - production: | 12.12 billion kWh (2016 est.) |
+| Electricity - consumption: | 10.1 billion kWh (2016 est.) |
+| Electricity - exports: | 1.858 billion kWh (2017 est.) |
+| Electricity - imports: | 747 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 4.605 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 41% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 31% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 28% of total installed capacity (2017 est.) |
+| Crude oil - production: | 9,600 bbl/day (2018 est.) |
+| Crude oil - exports: | 9,383 bbl/day (2017 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 83.07 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 1,162 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 89,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 10,810 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 97,900 bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 0 cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 2.96 billion cu m (1 January 2006 est.) |
+| Carbon dioxide emissions from consumption of energy: | 17.15 million Mt (2017 est.) |

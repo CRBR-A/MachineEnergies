@@ -1,0 +1,9 @@
+| Energy | Liechtenstein |
+| --- | --- |
+| Electricity - production by source: | fossil fuel: NA% |
+| Electricity - production by source: | other: NA% 2% (2001) |
+| Electricity - production by source: | hydro: NA% 98% |
+| Electricity - production by source: | nuclear: NA% |
+| Electricity - consumption: | 313.45 million kWh NA kWh (2001) |
+| Electricity - exports: | NA kWh (2001) |
+| Electricity - imports: | 232.847 million kWh NA kWh (2001) |

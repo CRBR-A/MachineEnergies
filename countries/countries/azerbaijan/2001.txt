@@ -1,0 +1,10 @@
+| Energy | Azerbaijan |
+| --- | --- |
+| Electricity - production: | 16.378 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 86.46% |
+| Electricity - production by source: | hydro: 13.54% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 15.432 billion kWh (1999) |
+| Electricity - exports: | 600 million kWh (1999) |
+| Electricity - imports: | 800 million kWh (1999) |

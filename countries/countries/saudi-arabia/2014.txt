@@ -1,0 +1,25 @@
+| Energy | Saudi Arabia |
+| --- | --- |
+| Electricity - production: | 239.2 billion kWh (2011 est.) |
+| Electricity - consumption: | 190.9 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 49.05 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 11.73 million bbl/day (2012 est.) |
+| Crude oil - exports: | 6.88 million bbl/day (2011 est.) |
+| Crude oil - imports: | 0 bbl/day (2011 est.) |
+| Crude oil - proved reserves: | 267.9 billion bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 1.935 million bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 2.817 million bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 1.471 million bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 196,700 bbl/day (2010 est.) |
+| Natural gas - production: | 103.2 billion cu m (2012 est.) |
+| Natural gas - consumption: | 99.23 billion cu m (2011 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 8.15 trillion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 513.5 million Mt (2011 est.) |

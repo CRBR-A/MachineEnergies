@@ -1,0 +1,29 @@
+| Energy | South Africa |
+| --- | --- |
+| Electricity access: | population without electricity: 7.7 million (2013) |
+| Electricity access: | electrification - total population: 85% (2013) |
+| Electricity access: | electrification - urban areas: 90% (2013) |
+| Electricity access: | electrification - rural areas: 77% (2013) |
+| Electricity - production: | 234.5 billion kWh (2016 est.) |
+| Electricity - consumption: | 207.1 billion kWh (2016 est.) |
+| Electricity - exports: | 16.55 billion kWh (2016 est.) |
+| Electricity - imports: | 10.56 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 50.02 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 85% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 4% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 1% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 10% of total installed capacity (2017 est.) |
+| Crude oil - production: | 2,000 bbl/day (2017 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 404,000 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 15 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 487,100 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 621,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 105,600 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 195,200 bbl/day (2015 est.) |
+| Natural gas - production: | 906.1 million cu m (2017 est.) |
+| Natural gas - consumption: | 5.069 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 4.162 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2012 est.) |
+| Carbon dioxide emissions from consumption of energy: | 572.3 million Mt (2017 est.) |

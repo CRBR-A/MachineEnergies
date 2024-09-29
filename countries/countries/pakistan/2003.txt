@@ -1,0 +1,20 @@
+| Energy | Pakistan |
+| --- | --- |
+| Electricity - production: | 66.96 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 68.8% |
+| Electricity - production by source: | hydro: 28.2% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 3% |
+| Electricity - consumption: | 62.27 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 62,870 bbl/day (2001 est.) |
+| Oil - consumption: | 365,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 297.1 million bbl (37257) |
+| Natural gas - production: | 23.4 billion cu m (2001 est.) |
+| Natural gas - consumption: | 23.4 billion cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 695.6 billion cu m (37257) |

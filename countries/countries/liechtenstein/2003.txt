@@ -1,0 +1,9 @@
+| Energy | Liechtenstein |
+| --- | --- |
+| Electricity - production by source: | fossil fuel: 0% |
+| Electricity - production by source: | other: 0% (2002) |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | NA kWh |
+| Electricity - exports: | 0 kWh (2002) |
+| Electricity - imports: | 0 kWh (2002) |

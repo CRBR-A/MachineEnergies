@@ -1,0 +1,26 @@
+| Energy | Slovenia |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 15.46 billion kWh (2016 est.) |
+| Electricity - consumption: | 13.4 billion kWh (2016 est.) |
+| Electricity - exports: | 7.972 billion kWh (2017 est.) |
+| Electricity - imports: | 8.359 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 3.536 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 37% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 20% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 34% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 9% of total installed capacity (2017 est.) |
+| Crude oil - production: | 5 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2017 est.) |
+| Crude oil - imports: | 0 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 52,140 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 29,350 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 93,060 bbl/day (2017 est.) |
+| Natural gas - production: | 8 million cu m (2017 est.) |
+| Natural gas - consumption: | 906.1 million cu m (2017 est.) |
+| Natural gas - exports: | 2.832 million cu m (2017 est.) |
+| Natural gas - imports: | 906.1 million cu m (2017 est.) |
+| Natural gas - proved reserves: | NA cu m (2017 est.) |
+| Carbon dioxide emissions from consumption of energy: | 14.37 million Mt (2017 est.) |

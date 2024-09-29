@@ -1,0 +1,8 @@
+| Energy | Mayotte |
+| --- | --- |
+| Electricity - production: | NA kWh |
+| Electricity - production by source: | fossil fuel: NA% |
+| Electricity - production by source: | hydro: NA% |
+| Electricity - production by source: | nuclear: NA% |
+| Electricity - production by source: | other: NA% |
+| Electricity - consumption: | NA kWh |

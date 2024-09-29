@@ -1,0 +1,29 @@
+| Energy | Niger |
+| --- | --- |
+| Electricity access: | population without electricity: 20 million (2019) |
+| Electricity access: | electrification - total population: 14% (2019) |
+| Electricity access: | electrification - urban areas: 71% (2019) |
+| Electricity access: | electrification - rural areas: 2% (2019) |
+| Electricity - production: | 494.7 million kWh (2016 est.) |
+| Electricity - consumption: | 1.065 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 779 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 184,000 kW (2016 est.) |
+| Electricity - from fossil fuels: | 95% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 5% of total installed capacity (2017 est.) |
+| Crude oil - production: | 9,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 150 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 15,280 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 14,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 5,422 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 3,799 bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 0 cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2016 est.) |
+| Carbon dioxide emissions from consumption of energy: | 2.534 million Mt (2017 est.) |

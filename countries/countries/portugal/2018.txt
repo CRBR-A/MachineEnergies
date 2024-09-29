@@ -1,0 +1,26 @@
+| Energy | Portugal |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 56.9 billion kWh (2016 est.) |
+| Electricity - consumption: | 46.94 billion kWh (2016 est.) |
+| Electricity - exports: | 9.701 billion kWh (2016 est.) |
+| Electricity - imports: | 4.616 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 20.56 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 41% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 25% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 35% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2017 est.) |
+| Crude oil - exports: | 0 bbl/day (2017 est.) |
+| Crude oil - imports: | 285,200 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 323,000 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 247,200 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 143,500 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 78,700 bbl/day (2017 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 6.258 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 6.541 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 54.97 million Mt (2017 est.) |

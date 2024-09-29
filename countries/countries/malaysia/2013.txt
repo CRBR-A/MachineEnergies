@@ -1,0 +1,25 @@
+| Energy | Malaysia |
+| --- | --- |
+| Electricity - production: | 118 billion kWh (2012 est.) |
+| Electricity - consumption: | 112 billion kWh (2012 est.) |
+| Electricity - exports: | 151 million kWh (2010 est.) |
+| Electricity - imports: | 33 million kWh (2010 est.) |
+| Electricity - installed generating capacity: | 25.39 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 91.7% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 8.3% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 642,700 bbl/day (2012 est.) |
+| Crude oil - exports: | 269,000 bbl/day (2012 est.) |
+| Crude oil - imports: | 160,500 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 4 billion bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 568,800 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 542,900 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 176,500 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 175,100 bbl/day (2010 est.) |
+| Natural gas - production: | 61.73 billion cu m (2011 est.) |
+| Natural gas - consumption: | 32.62 billion cu m (2010 est.) |
+| Natural gas - exports: | 33.1 billion cu m (2011 est.) |
+| Natural gas - imports: | 1.99 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 2.35 trillion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 191.4 million Mt (2011 est.) |

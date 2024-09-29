@@ -1,0 +1,10 @@
+| Energy | Ireland |
+| --- | --- |
+| Electricity - production: | 22.285 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 95% |
+| Electricity - production by source: | hydro: 4% |
+| Electricity - production by source: | other: 1% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 20.823 billion kWh (2000) |
+| Electricity - exports: | 71 million kWh (2000) |
+| Electricity - imports: | 169 million kWh (2000) |

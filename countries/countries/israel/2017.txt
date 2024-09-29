@@ -1,0 +1,26 @@
+| Energy | ISRAEL |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 60.44 billion kWh (2015 est.) |
+| Electricity - consumption: | 52.78 billion kWh (2015 est.) |
+| Electricity - exports: | 5.2 billion kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 17.22 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 95.5% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 4.9% of total installed capacity (2015 est.) |
+| Crude oil - production: | 390 bbl/day (2016 est.) |
+| Crude oil - exports: | 0 bbl/day (2016 est.) |
+| Crude oil - imports: | 215,600 bbl/day (2016 est.) |
+| Crude oil - proved reserves: | 12.73 million bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 278,300 bbl/day (2016 est.) |
+| Refined petroleum products - consumption: | 199,900 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 115,700 bbl/day (2016 est.) |
+| Refined petroleum products - imports: | 98,020 bbl/day (2016 est.) |
+| Natural gas - production: | 8.5 billion cu m (2015 est.) |
+| Natural gas - consumption: | 13.61 billion cu m (2015 est.) |
+| Natural gas - exports: | 2.605 billion cu m (2011 est.) |
+| Natural gas - imports: | 160 million cu m (2015 est.) |
+| Natural gas - proved reserves: | 176 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 62.5 million Mt (2014 est.) |

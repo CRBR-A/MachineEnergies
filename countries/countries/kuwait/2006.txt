@@ -1,0 +1,20 @@
+| Energy | Kuwait |
+| --- | --- |
+| Electricity - production: | 38.19 billion kWh (2003) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 35.52 billion kWh (2003) |
+| Electricity - exports: | 0 kWh (2003) |
+| Electricity - imports: | 0 kWh (2003) |
+| Oil - production: | 2.418 million bbl/day (2005 est.) |
+| Oil - consumption: | 305,000 bbl/day (2003 est.) |
+| Oil - exports: | 1.97 million bbl/day (2003) |
+| Oil - imports: | NA bbl/day |
+| Oil - proved reserves: | 96.5 billion bbl (2005 est.) |
+| Natural gas - production: | 8.3 billion cu m (2003 est.) |
+| Natural gas - consumption: | 8.3 billion cu m (2003 est.) |
+| Natural gas - exports: | 0 cu m (2002 est.) |
+| Natural gas - imports: | 0 cu m (2002 est.) |
+| Natural gas - proved reserves: | 1.572 trillion cu m (2005) |

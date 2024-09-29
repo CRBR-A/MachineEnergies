@@ -1,0 +1,26 @@
+| Energy | SPAIN |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 267.1 billion kWh (2015 est.) |
+| Electricity - consumption: | 240.4 billion kWh (2015 est.) |
+| Electricity - exports: | 14.18 billion kWh (2016 est.) |
+| Electricity - imports: | 21.85 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 106.7 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 45.1% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 6.7% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 13.2% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 29.5% of total installed capacity (2015 est.) |
+| Crude oil - production: | 2,667 bbl/day (2016 est.) |
+| Crude oil - exports: | 0 bbl/day (2016 est.) |
+| Crude oil - imports: | 1.285 million bbl/day (2016 est.) |
+| Crude oil - proved reserves: | 150 million bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 1.342 million bbl/day (2016 est.) |
+| Refined petroleum products - consumption: | 1.287 million bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 501,100 bbl/day (2016 est.) |
+| Refined petroleum products - imports: | 421,000 bbl/day (2016 est.) |
+| Natural gas - production: | 62 million cu m (2015 est.) |
+| Natural gas - consumption: | 39.84 billion cu m (2015 est.) |
+| Natural gas - exports: | 5.065 billion cu m (2015 est.) |
+| Natural gas - imports: | 32.39 billion cu m (2015 est.) |
+| Natural gas - proved reserves: | 2.548 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 276 million Mt (2013 est.) |

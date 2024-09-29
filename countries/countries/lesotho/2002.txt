@@ -1,0 +1,7 @@
+| Energy | Lesotho |
+| --- | --- |
+| Electricity - production: | 0 kWh; note - electricity supplied by South Africa (2000) |
+| Electricity - consumption: | 100 million kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 100 million kWh |
+| Electricity - imports: | note: electricity supplied by South Africa (2000) |

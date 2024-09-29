@@ -1,0 +1,10 @@
+| Energy | Nicaragua |
+| --- | --- |
+| Electricity - production: | 2.349 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 67.26% |
+| Electricity - production by source: | hydro: 17.71% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 15.03% (1999) |
+| Electricity - consumption: | 2.265 billion kWh (1999) |
+| Electricity - exports: | 20 million kWh (1999) |
+| Electricity - imports: | 100 million kWh (1999) |

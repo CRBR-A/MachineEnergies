@@ -1,0 +1,10 @@
+| Energy | Hungary |
+| --- | --- |
+| Electricity - production: | 36.75 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 61.09% |
+| Electricity - production by source: | hydro: 0.51% |
+| Electricity - production by source: | nuclear: 38.4% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 35.234 billion kWh (1999) |
+| Electricity - exports: | 2.35 billion kWh (1999) |
+| Electricity - imports: | 3.406 billion kWh (1999) |

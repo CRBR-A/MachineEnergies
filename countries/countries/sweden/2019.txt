@@ -1,0 +1,26 @@
+| Energy | Sweden |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 152.9 billion kWh (2016 est.) |
+| Electricity - consumption: | 133.5 billion kWh (2016 est.) |
+| Electricity - exports: | 26.02 billion kWh (2016 est.) |
+| Electricity - imports: | 14.29 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 40.29 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 5% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 22% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 42% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 32% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2018 est.) |
+| Crude oil - exports: | 14,570 bbl/day (2017 est.) |
+| Crude oil - imports: | 400,200 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 413,200 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 323,100 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 371,100 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 229,600 bbl/day (2017 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 764.5 million cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 764.5 million cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 52.31 million Mt (2017 est.) |

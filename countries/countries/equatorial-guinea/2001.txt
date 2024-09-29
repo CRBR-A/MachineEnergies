@@ -1,0 +1,10 @@
+| Energy | Equatorial Guinea |
+| --- | --- |
+| Electricity - production: | 21 million kWh (1999) |
+| Electricity - production by source: | fossil fuel: 85.71% |
+| Electricity - production by source: | hydro: 14.29% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 19.5 million kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

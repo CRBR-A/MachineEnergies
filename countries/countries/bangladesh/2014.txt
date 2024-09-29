@@ -1,0 +1,25 @@
+| Energy | Bangladesh |
+| --- | --- |
+| Electricity - production: | 40.08 billion kWh (2011 est.) |
+| Electricity - consumption: | 38.89 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 500,000 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 10.26 million kW (2013 est.) |
+| Electricity - from fossil fuels: | 97.7% of total installed capacity (2013 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2013 est.) |
+| Electricity - from hydroelectric plants: | 2.3% of total installed capacity (2013 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2013 est.) |
+| Crude oil - production: | 5,452 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 23,620 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 28 million bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 22,710 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 108,900 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 3,288 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 84,490 bbl/day (2010 est.) |
+| Natural gas - production: | 20.11 billion cu m (2011 est.) |
+| Natural gas - consumption: | 19.91 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 183.7 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 58.81 million Mt (2011 est.) |

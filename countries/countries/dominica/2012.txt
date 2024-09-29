@@ -1,0 +1,25 @@
+| Energy | Dominica |
+| --- | --- |
+| Electricity - production: | 85.5 million kWh (2009 est.) |
+| Electricity - consumption: | 79.52 million kWh (2009 est.) |
+| Electricity - exports: | 0 kWh (2010 est.) |
+| Electricity - imports: | 0 kWh (2010 est.) |
+| Electricity - installed generating capacity: | 22,200 kW (2009 est.) |
+| Electricity - from fossil fuels: | 72.1% of total installed capacity (2009 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2009 est.) |
+| Electricity - from hydroelectric plants: | 27% of total installed capacity (2009 est.) |
+| Electricity - from other renewable sources: | 0.9% of total installed capacity (2009 est.) |
+| Crude oil - production: | 0 bbl/day (2011 est.) |
+| Crude oil - exports: | 0 bbl/day (2009 est.) |
+| Crude oil - imports: | 0 bbl/day (2009 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2012 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2008 est.) |
+| Refined petroleum products - consumption: | 918 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2008 est.) |
+| Refined petroleum products - imports: | 911.8 bbl/day (2008 est.) |
+| Natural gas - production: | 0 cu m (2010 est.) |
+| Natural gas - consumption: | 0 cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2010 est.) |
+| Natural gas - imports: | 0 cu m (2010 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2012 est.) |
+| Carbon dioxide emissions from consumption of energy: | 141,200 Mt (2010 est.) |

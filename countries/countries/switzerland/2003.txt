@@ -1,0 +1,18 @@
+| Energy | Switzerland |
+| --- | --- |
+| Electricity - production: | 68.68 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 1.3% |
+| Electricity - production by source: | hydro: 59.5% |
+| Electricity - production by source: | other: 2% (2001) |
+| Electricity - production by source: | nuclear: 37.1% |
+| Electricity - consumption: | 53.43 billion kWh (2001) |
+| Electricity - exports: | 34.54 billion kWh (2001) |
+| Electricity - imports: | 24.1 billion kWh (2001) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 290,400 bbl/day (2001 est.) |
+| Oil - exports: | 10,420 bbl/day (2001) |
+| Oil - imports: | 289,500 bbl/day (2001) |
+| Natural gas - production: | 0 cu m (2001 est.) |
+| Natural gas - consumption: | 3.093 billion cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 3.093 billion cu m (2001 est.) |

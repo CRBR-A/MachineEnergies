@@ -1,0 +1,10 @@
+| Energy | Turkmenistan |
+| --- | --- |
+| Electricity - production: | 8.371 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 99.94% |
+| Electricity - production by source: | hydro: 0.06% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 4.785 billion kWh (1999) |
+| Electricity - exports: | 4.1 billion kWh (1999) |
+| Electricity - imports: | 1.1 billion kWh (1999) |

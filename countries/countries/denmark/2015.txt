@@ -1,0 +1,25 @@
+| Energy | DENMARK |
+| --- | --- |
+| Electricity - production: | 29.85 billion kWh (2012 est.) |
+| Electricity - consumption: | 32.62 billion kWh (2011 est.) |
+| Electricity - exports: | 10.38 billion kWh (2013 est.) |
+| Electricity - imports: | 11.46 billion kWh (2013 est.) |
+| Electricity - installed generating capacity: | 13.51 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 61.5% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 0.1% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 38.4% of total installed capacity (2011 est.) |
+| Crude oil - production: | 178,200 bbl/day (2013 est.) |
+| Crude oil - exports: | 128,400 bbl/day (2012 est.) |
+| Crude oil - imports: | 74,680 bbl/day (2012 est.) |
+| Crude oil - proved reserves: | 805.1 million bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 155,700 bbl/day (2012 est.) |
+| Refined petroleum products - consumption: | 154,700 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 104,400 bbl/day (2012 est.) |
+| Refined petroleum products - imports: | 120,400 bbl/day (2010 est.) |
+| Natural gas - production: | 4.845 billion cu m (2013 est.) |
+| Natural gas - consumption: | 3.721 billion cu m (2013 est.) |
+| Natural gas - exports: | 2.236 billion cu m (2013 est.) |
+| Natural gas - imports: | 1.363 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 43.01 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 40.51 million Mt (2012 est.) |

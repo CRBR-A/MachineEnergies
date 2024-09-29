@@ -1,0 +1,25 @@
+| Energy | China |
+| --- | --- |
+| Electricity - production: | 4.94 trillion kWh (2012) |
+| Electricity - consumption: | 4.693 trillion kWh (2011) |
+| Electricity - exports: | 17.65 billion kWh (2012) |
+| Electricity - imports: | 6.874 billion kWh (2012) |
+| Electricity - installed generating capacity: | 1.146 billion kW (2012 est.) |
+| Electricity - from fossil fuels: | 69.5% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 1.1% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 21.8% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 7.6% of total installed capacity (2012 est.) |
+| Crude oil - production: | 4.416 million bbl/day (2012 est.) |
+| Crude oil - exports: | 60,600 bbl/day (2010 est.) |
+| Crude oil - imports: | 4.754 million bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 25.58 billion bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 8.992 million bbl/day (2011 est.) |
+| Refined petroleum products - consumption: | 9.79 million bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 623,000 bbl/day (2011 est.) |
+| Refined petroleum products - imports: | 1.571 million bbl/day (2011 est.) |
+| Natural gas - production: | 108.4 billion cu m (2012 est.) |
+| Natural gas - consumption: | 147.1 billion cu m (2011 est.) |
+| Natural gas - exports: | 3.195 billion cu m (2011 est.) |
+| Natural gas - imports: | 42.5 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 3.517 trillion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 8.715 billion Mt (2011 est.) |

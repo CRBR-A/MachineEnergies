@@ -1,0 +1,26 @@
+| Energy | TURKMENISTAN |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 22.3 billion kWh (2014 est.) |
+| Electricity - consumption: | 13 billion kWh (2014 est.) |
+| Electricity - exports: | 3.2 billion kWh (2014 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 4.275 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2014 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2014 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2014 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2014 est.) |
+| Crude oil - production: | 243,100 bbl/day (2015 est.) |
+| Crude oil - exports: | 70,740 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 600 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 173,200 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 145,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 47,830 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 0 bbl/day (2013 est.) |
+| Natural gas - production: | 76 billion cu m (2014 est.) |
+| Natural gas - consumption: | 30.2 billion cu m (2014 est.) |
+| Natural gas - exports: | 45.79 billion cu m (2014 est.) |
+| Natural gas - imports: | 0 cu m (2014 est.) |
+| Natural gas - proved reserves: | 7.504 trillion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 67 million Mt (2013 est.) |

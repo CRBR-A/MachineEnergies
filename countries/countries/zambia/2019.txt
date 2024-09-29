@@ -1,0 +1,29 @@
+| Energy | Zambia |
+| --- | --- |
+| Electricity access: | population without electricity: 12 million (2017) |
+| Electricity access: | electrification - total population: 33% (2017) |
+| Electricity access: | electrification - urban areas: 67% (2017) |
+| Electricity access: | electrification - rural areas: 6% (2017) |
+| Electricity - production: | 11.55 billion kWh (2016 est.) |
+| Electricity - consumption: | 11.04 billion kWh (2016 est.) |
+| Electricity - exports: | 1.176 billion kWh (2015 est.) |
+| Electricity - imports: | 2.185 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 2.573 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 5% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 93% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 2% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 12,860 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 13,120 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 23,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 371 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 10,150 bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 0 cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 3.777 million Mt (2017 est.) |

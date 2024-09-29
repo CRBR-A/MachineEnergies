@@ -1,0 +1,26 @@
+| Energy | CANADA |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 633 billion kWh (2014 est.) |
+| Electricity - consumption: | 528 billion kWh (2014 est.) |
+| Electricity - exports: | 58.4 billion kWh (2014 est.) |
+| Electricity - imports: | 13 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 137 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 25.7% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 10% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 55.8% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 8.3% of total installed capacity (2012 est.) |
+| Crude oil - production: | 3.677 million bbl/day (2015 est.) |
+| Crude oil - exports: | 3.21 million bbl/day (2015 est.) |
+| Crude oil - imports: | 581,300 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 171 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 1.868 million bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 2.406 million bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 491,900 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 251,900 bbl/day (2015 est.) |
+| Natural gas - production: | 151.5 billion cu m (2014 est.) |
+| Natural gas - consumption: | 116.5 billion cu m (2014 est.) |
+| Natural gas - exports: | 77.96 billion cu m (2014 est.) |
+| Natural gas - imports: | 21.89 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 1.996 trillion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 564 million Mt (2013 est.) |

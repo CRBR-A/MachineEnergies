@@ -1,0 +1,27 @@
+| Energy | Netherlands |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 109.3 billion kWh (2016 est.) |
+| Electricity - consumption: | 108.8 billion kWh (2016 est.) |
+| Electricity - exports: | 19.34 billion kWh (2016 est.) |
+| Electricity - imports: | 24.26 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 34.17 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 75% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 1% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 23% of total installed capacity (2017 est.) |
+| Crude oil - production: | 18,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 7,984 bbl/day (2017 est.) |
+| Crude oil - imports: | 1.094 million bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 81.13 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 1.282 million bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 954,500 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 2.406 million bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 2.148 million bbl/day (2017 est.) |
+| Natural gas - production: | 45.33 billion cu m (2017 est.) |
+| Natural gas - production: | note: the Netherlands has curbed gas production due to seismic activity in the province of Groningen, largest source of gas reserves |
+| Natural gas - consumption: | 43.38 billion cu m (2017 est.) |
+| Natural gas - exports: | 51.25 billion cu m (2017 est.) |
+| Natural gas - imports: | 51 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 801.4 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 250.2 million Mt (2017 est.) |

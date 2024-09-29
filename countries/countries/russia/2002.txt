@@ -1,0 +1,10 @@
+| Energy | Russia |
+| --- | --- |
+| Electricity - production: | 835.57 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 66% |
+| Electricity - production by source: | hydro: 19% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 15% |
+| Electricity - consumption: | 767.08 billion kWh (2000) |
+| Electricity - exports: | 18 billion kWh (2000) |
+| Electricity - imports: | 8 billion kWh (2000) |

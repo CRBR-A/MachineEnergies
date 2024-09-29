@@ -1,0 +1,25 @@
+| Energy | Slovenia |
+| --- | --- |
+| Electricity - production: | 15.17 billion kWh (2011 est.) |
+| Electricity - consumption: | 12.6 billion kWh (2010 est.) |
+| Electricity - exports: | 5.915 billion kWh (2012 est.) |
+| Electricity - imports: | 5.002 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 3.193 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 38% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 20.9% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 33.6% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 1.9% of total installed capacity (2010 est.) |
+| Crude oil - production: | 305 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | NA bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 52,930 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 14,210 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 68,320 bbl/day (2010 est.) |
+| Natural gas - production: | 2 million cu m (2011 est.) |
+| Natural gas - consumption: | 1.06 billion cu m (2010 est.) |
+| Natural gas - exports: | 1.181 billion cu m (2012 est.) |
+| Natural gas - imports: | 2.07 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | NA cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 15.83 million Mt (2011 est.) |

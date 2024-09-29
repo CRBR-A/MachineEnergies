@@ -1,0 +1,10 @@
+| Energy | Belgium |
+| --- | --- |
+| Electricity - production: | 79.348 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 40% |
+| Electricity - production by source: | hydro: 1% |
+| Electricity - production by source: | other: 1% (2000) |
+| Electricity - production by source: | nuclear: 58% |
+| Electricity - consumption: | 78.13 billion kWh (2000) |
+| Electricity - exports: | 7.309 billion kWh (2000) |
+| Electricity - imports: | 11.645 billion kWh (2000) |

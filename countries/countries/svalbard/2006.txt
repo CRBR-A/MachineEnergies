@@ -1,0 +1,6 @@
+| Energy | Svalbard |
+| --- | --- |
+| Electricity - production by source: | fossil fuel: 57.9984% |
+| Electricity - production by source: | hydro: 42.0016% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% |

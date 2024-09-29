@@ -1,0 +1,14 @@
+| Energy | French Polynesia |
+| --- | --- |
+| Electricity - production: | 380 million kWh (2002) |
+| Electricity - production by source: | fossil fuel: 60.7% |
+| Electricity - production by source: | hydro: 39.3% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 353.4 million kWh (2002) |
+| Electricity - exports: | 0 kWh (2002) |
+| Electricity - imports: | 0 kWh (2002) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 4,750 bbl/day (2001 est.) |
+| Oil - exports: | NA |
+| Oil - imports: | NA |

@@ -1,0 +1,11 @@
+| Energy | Togo |
+| --- | --- |
+| Electricity - production: | 97 million kWh (2000) |
+| Electricity - production by source: | fossil fuel: 98% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | hydro: 2% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 525.21 million kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 435 million kWh |
+| Electricity - imports: | note: electricity supplied by Ghana (2000) |

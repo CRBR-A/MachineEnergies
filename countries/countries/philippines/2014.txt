@@ -1,0 +1,25 @@
+| Energy | Philippines |
+| --- | --- |
+| Electricity - production: | 67.45 billion kWh (2011 est.) |
+| Electricity - consumption: | 56.84 billion kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 16.36 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 66.9% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 20.8% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 12.3% of total installed capacity (2010 est.) |
+| Crude oil - production: | 25,240 bbl/day (2012 est.) |
+| Crude oil - exports: | 20,090 bbl/day (2010 est.) |
+| Crude oil - imports: | 182,000 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 138.5 million bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 181,300 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 315,600 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 17,810 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 147,900 bbl/day (2010 est.) |
+| Natural gas - production: | 3.91 billion cu m (2012 est.) |
+| Natural gas - consumption: | 2.86 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 98.54 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 81.15 million Mt (2011 est.) |

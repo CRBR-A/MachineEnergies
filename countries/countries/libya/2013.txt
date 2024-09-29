@@ -1,0 +1,25 @@
+| Energy | Libya |
+| --- | --- |
+| Electricity - production: | 29.72 billion kWh (2010 est.) |
+| Electricity - consumption: | 25.24 billion kWh (2010 est.) |
+| Electricity - exports: | 129 million kWh (2010 est.) |
+| Electricity - imports: | 76 million kWh (2010 est.) |
+| Electricity - installed generating capacity: | 6.766 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 1.483 million bbl/day (2012 est.) |
+| Crude oil - exports: | 1.378 million bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 48.01 billion bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 388,300 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 314,000 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 119,000 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 575.3 bbl/day (2010 est.) |
+| Natural gas - production: | 7.855 billion cu m (2011 est.) |
+| Natural gas - consumption: | 6.844 billion cu m (2010 est.) |
+| Natural gas - exports: | 3.666 billion cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 1.547 trillion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 49.67 million Mt (2011 est.) |

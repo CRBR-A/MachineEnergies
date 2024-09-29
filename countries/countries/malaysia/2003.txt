@@ -1,0 +1,20 @@
+| Energy | Malaysia |
+| --- | --- |
+| Electricity - production: | 68.34 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 89.5% |
+| Electricity - production by source: | hydro: 10.5% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 63.48 billion kWh (2001) |
+| Electricity - exports: | 75 million kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 729,200 bbl/day (2001 est.) |
+| Oil - consumption: | 472,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 3.729 billion bbl (37257) |
+| Natural gas - production: | 53.66 billion cu m (2001 est.) |
+| Natural gas - consumption: | 31.25 billion cu m (2001 est.) |
+| Natural gas - exports: | 22.41 billion cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 2.23 trillion cu m (37257) |

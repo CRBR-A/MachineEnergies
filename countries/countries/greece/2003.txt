@@ -1,0 +1,20 @@
+| Energy | Greece |
+| --- | --- |
+| Electricity - production: | 49.79 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 94.5% |
+| Electricity - production by source: | hydro: 3.8% |
+| Electricity - production by source: | other: 1.7% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 48.8 billion kWh (2001) |
+| Electricity - exports: | 1.062 billion kWh (2001) |
+| Electricity - imports: | 3.562 billion kWh (2001) |
+| Oil - production: | 5,992 bbl/day (2001 est.) |
+| Oil - consumption: | 405,700 bbl/day (2001 est.) |
+| Oil - exports: | 84,720 bbl/day (2001) |
+| Oil - imports: | 468,300 bbl/day (2001) |
+| Oil - proved reserves: | 4.5 million bbl (37257) |
+| Natural gas - production: | 35 million cu m (2001 est.) |
+| Natural gas - consumption: | 2.021 billion cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 2.018 billion cu m (2001 est.) |
+| Natural gas - proved reserves: | 254.9 million cu m (37257) |

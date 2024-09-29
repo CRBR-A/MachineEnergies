@@ -1,0 +1,10 @@
+| Energy | Turkey |
+| --- | --- |
+| Electricity - production: | 125.3 billion kWh (2000 est.) |
+| Electricity - production by source: | fossil fuel: 71% |
+| Electricity - production by source: | hydro: 29% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2000 est.) |
+| Electricity - consumption: | 119.5 billion kWh (2000 est.) |
+| Electricity - exports: | 350 million kWh (2000 est.) |
+| Electricity - imports: | 3.35 billion kWh (2000 est.) |

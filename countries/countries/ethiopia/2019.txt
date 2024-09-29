@@ -1,0 +1,29 @@
+| Energy | Ethiopia |
+| --- | --- |
+| Electricity access: | population without electricity: 58 million (2017) |
+| Electricity access: | electrification - total population: 42.9% (2016) |
+| Electricity access: | electrification - urban areas: 85.4% (2016) |
+| Electricity access: | electrification - rural areas: 26.5% (2016) |
+| Electricity - production: | 11.15 billion kWh (2016 est.) |
+| Electricity - consumption: | 9.062 billion kWh (2016 est.) |
+| Electricity - exports: | 166 million kWh (2015 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 2.784 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 3% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 86% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 11% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 428,000 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 74,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 69,970 bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 0 cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 24.92 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 12.18 million Mt (2017 est.) |

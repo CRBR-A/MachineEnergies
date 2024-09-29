@@ -1,0 +1,8 @@
+| Energy |   |
+| --- | --- |
+| Electricity - production: | 12,342.7 billion kWh (1994) |
+| Electricity - production by source: | fossil fuel: NA% |
+| Electricity - production by source: | hydro: NA% |
+| Electricity - production by source: | nuclear: NA% |
+| Electricity - production by source: | other: NA% |
+| Electricity - consumption: | 12,342.7 billion kWh (1994) |

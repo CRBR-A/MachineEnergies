@@ -1,0 +1,18 @@
+| Energy | Latvia |
+| --- | --- |
+| Electricity - production: | 4.365 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 29.1% |
+| Electricity - production by source: | hydro: 70.9% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 6.046 billion kWh (2001) |
+| Electricity - exports: | 703 million kWh (2001) |
+| Electricity - imports: | 2.69 billion kWh (2001) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 44,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Natural gas - production: | 0 cu m (2001 est.) |
+| Natural gas - consumption: | 1.7 billion cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 1.7 billion cu m (2001 est.) |

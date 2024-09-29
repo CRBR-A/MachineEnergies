@@ -1,0 +1,12 @@
+| Energy | Armenia |
+| --- | --- |
+| Electricity - production: | 5.69 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 36% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 32% |
+| Electricity - production by source: | hydro: 31% |
+| Electricity - consumption: | 4.89 billion kWh (2000) |
+| Electricity - exports: | 704 million kWh |
+| Electricity - exports: | note: exports an unknown quantity to Georgia; includes exports to Nagorno-Karabakh region in Azerbaijan (2000) |
+| Electricity - imports: | 300 million kWh |
+| Electricity - imports: | note: imports an unknown quantity from Iran (2000) |

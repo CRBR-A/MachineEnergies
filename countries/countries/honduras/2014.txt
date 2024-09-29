@@ -1,0 +1,25 @@
+| Energy | Honduras |
+| --- | --- |
+| Electricity - production: | 6.486 billion kWh (2010 est.) |
+| Electricity - consumption: | 4.85 billion kWh (2010 est.) |
+| Electricity - exports: | 22 million kWh (2010 est.) |
+| Electricity - imports: | 22 million kWh (2010 est.) |
+| Electricity - installed generating capacity: | 1.701 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 63.7% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 30.9% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 5.4% of total installed capacity (2010 est.) |
+| Crude oil - production: | 20 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 58,150 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 46,370 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2011 est.) |
+| Natural gas - consumption: | 0 cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 7.975 million Mt (2011 est.) |

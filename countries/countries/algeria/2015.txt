@@ -1,0 +1,25 @@
+| Energy | ALGERIA |
+| --- | --- |
+| Electricity - production: | 48.05 billion kWh (2011 est.) |
+| Electricity - consumption: | 44 billion kWh (2012 est.) |
+| Electricity - exports: | 985 million kWh (2012 est.) |
+| Electricity - imports: | 936 million kWh (2012 est.) |
+| Electricity - installed generating capacity: | 15.2 million kW (2013 est.) |
+| Electricity - from fossil fuels: | 98% of total installed capacity (2013 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 2.2% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2011 est.) |
+| Crude oil - production: | 1.762 million bbl/day (2013 est.) |
+| Crude oil - exports: | 1.097 million bbl/day (2010 est.) |
+| Crude oil - imports: | 6,400 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 12.2 billion bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 571,400 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 380,000 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 471,900 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 17,270 bbl/day (2010 est.) |
+| Natural gas - production: | 78.6 billion cu m (2013 est.) |
+| Natural gas - consumption: | 32.3 billion cu m (2013 est.) |
+| Natural gas - exports: | 49 billion cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 4.505 trillion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 133.9 million Mt (2012 est.) |

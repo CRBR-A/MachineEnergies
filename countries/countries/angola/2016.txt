@@ -1,0 +1,29 @@
+| Energy | ANGOLA |
+| --- | --- |
+| Electricity access: | population without electricity: 15,000,000 |
+| Electricity access: | electrification - total population: 30% |
+| Electricity access: | electrification - urban areas: 46% |
+| Electricity access: | electrification - rural areas: 18% (2013) |
+| Electricity - production: | 9.2 billion kWh (2014 est.) |
+| Electricity - consumption: | 8.1 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 1.7 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 50.3% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 49.7% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 1.842 million bbl/day (2015 est.) |
+| Crude oil - exports: | 1.745 million bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 8.4 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 46,050 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 132,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 33,600 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 97,760 bbl/day (2013 est.) |
+| Natural gas - production: | 731 million cu m (2014 est.) |
+| Natural gas - consumption: | 231 million cu m (2014 est.) |
+| Natural gas - exports: | 500 million cu m (2014 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 308 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 33 million Mt (2013 est.) |

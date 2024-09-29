@@ -1,0 +1,10 @@
+| Energy | Kyrgyzstan |
+| --- | --- |
+| Electricity - production: | 14.677 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 8% |
+| Electricity - production by source: | hydro: 92% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 9.818 billion kWh (2000) |
+| Electricity - exports: | 4.153 billion kWh (2000) |
+| Electricity - imports: | 321 million kWh (2000) |

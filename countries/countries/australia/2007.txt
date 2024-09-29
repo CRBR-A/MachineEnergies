@@ -1,0 +1,20 @@
+| Energy | Australia |
+| --- | --- |
+| Electricity - production: | 236.7 billion kWh (2005) |
+| Electricity - production by source: | fossil fuel: 90.8% |
+| Electricity - production by source: | hydro: 8.3% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0.9% (2001) |
+| Electricity - consumption: | 219.8 billion kWh (2005) |
+| Electricity - exports: | 0 kWh (2005) |
+| Electricity - imports: | 0 kWh (2005) |
+| Oil - production: | 530,000 bbl/day (2005 est.) |
+| Oil - consumption: | 877,300 bbl/day (2004 est.) |
+| Oil - exports: | 333,200 bbl/day (2004) |
+| Oil - imports: | 611,400 bbl/day (2004) |
+| Oil - proved reserves: | 1.491 billion bbl (1 January 2006) |
+| Natural gas - production: | 38.62 billion cu m (2005 est.) |
+| Natural gas - consumption: | 25.72 billion cu m (2005 est.) |
+| Natural gas - exports: | 12.9 billion cu m (2005 est.) |
+| Natural gas - imports: | 0 cu m (2005) |
+| Natural gas - proved reserves: | 750.6 billion cu m (1 January 2006 est.) |

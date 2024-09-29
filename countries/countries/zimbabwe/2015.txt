@@ -1,0 +1,25 @@
+| Energy | ZIMBABWE |
+| --- | --- |
+| Electricity - production: | 7.297 billion kWh (2011 est.) |
+| Electricity - consumption: | 8.49 billion kWh (2011 est.) |
+| Electricity - exports: | 1.085 billion kWh (2011 est.) |
+| Electricity - imports: | 2.616 billion kWh (2011 est.) |
+| Electricity - installed generating capacity: | 1.966 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 62.1% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 37.9% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2011 est.) |
+| Crude oil - production: | 120 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 19,010 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 13,290 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2012 est.) |
+| Natural gas - consumption: | 0 cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 10.12 million Mt (2012 est.) |

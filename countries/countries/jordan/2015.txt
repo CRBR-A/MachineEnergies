@@ -1,0 +1,25 @@
+| Energy | JORDAN |
+| --- | --- |
+| Electricity - production: | 17.26 billion kWh (2013 est.) |
+| Electricity - consumption: | 14.56 billion kWh (2013 est.) |
+| Electricity - exports: | 59 million kWh (2013 est.) |
+| Electricity - imports: | 381 million kWh (2013 est.) |
+| Electricity - installed generating capacity: | 3.193 million kW (2013 est.) |
+| Electricity - from fossil fuels: | 99.6% of total installed capacity (2013) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2013 est.) |
+| Electricity - from hydroelectric plants: | 0.3% of total installed capacity (2013 est.) |
+| Electricity - from other renewable sources: | 0.1% of total installed capacity (2013 est.) |
+| Crude oil - production: | 19 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 59,440 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 1 million bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 57,790 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 122,700 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 68,040 bbl/day (2013 est.) |
+| Natural gas - production: | 225 million cu m (2013 est.) |
+| Natural gas - consumption: | 709 million cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 484 million cu m (2013 est.) |
+| Natural gas - proved reserves: | 6.031 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 16.86 million Mt (2012 est.) |

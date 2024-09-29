@@ -1,0 +1,28 @@
+| Energy | Mongolia |
+| --- | --- |
+| Electricity access: | electrification - total population: 91% (2019) |
+| Electricity access: | electrification - urban areas: 99% (2019) |
+| Electricity access: | electrification - rural areas: 73% (2019) |
+| Electricity - production: | 5.339 billion kWh (2016 est.) |
+| Electricity - consumption: | 5.932 billion kWh (2016 est.) |
+| Electricity - exports: | 51 million kWh (2015 est.) |
+| Electricity - imports: | 1.446 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 1.134 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 87% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 2% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 11% of total installed capacity (2017 est.) |
+| Crude oil - production: | 20,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 14,360 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | NA bbl (1 January 2017) |
+| Refined petroleum products - production: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 27,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 24,190 bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 0 cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 19.86 million Mt (2017 est.) |

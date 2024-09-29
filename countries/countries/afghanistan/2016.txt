@@ -1,0 +1,29 @@
+| Energy | AFGHANISTAN |
+| --- | --- |
+| Electricity access: | population without electricity: 18,999,254 |
+| Electricity access: | electrification - total population: 43% |
+| Electricity access: | electrification - urban areas: 83% |
+| Electricity access: | electrification - rural areas: 32% (2012) |
+| Electricity - production: | 1 billion kWh (2014 est.) |
+| Electricity - consumption: | 4.7 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 3.7 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 600,000 kW (2014 est.) |
+| Electricity - from fossil fuels: | 35.4% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 64.4% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0.2% of total installed capacity (2012 est.) |
+| Crude oil - production: | 0 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | NA bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 130,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 127,200 bbl/day (2013 est.) |
+| Natural gas - production: | 159.6 million cu m (2014 est.) |
+| Natural gas - consumption: | 159.6 million cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 49.55 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 7.4 million Mt (2013 est.) |

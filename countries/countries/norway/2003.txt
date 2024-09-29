@@ -1,0 +1,20 @@
+| Energy | Norway |
+| --- | --- |
+| Electricity - production: | 120.1 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 0.4% |
+| Electricity - production by source: | hydro: 99.3% |
+| Electricity - production by source: | other: 0.4% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 115.3 billion kWh (2001) |
+| Electricity - exports: | 7.162 billion kWh (2001) |
+| Electricity - imports: | 10.76 billion kWh (2001) |
+| Oil - production: | 3.408 million bbl/day (2001 est.) |
+| Oil - consumption: | 171,100 bbl/day (2001 est.) |
+| Oil - exports: | 3.466 million bbl/day (2001) |
+| Oil - imports: | 88,870 bbl/day (2001) |
+| Oil - proved reserves: | 9.859 billion bbl (37257) |
+| Natural gas - production: | 54.6 billion cu m (2001 est.) |
+| Natural gas - consumption: | 4.1 billion cu m (2001 est.) |
+| Natural gas - exports: | 50.5 billion cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 1.716 trillion cu m (37257) |

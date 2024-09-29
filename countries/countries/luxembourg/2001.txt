@@ -1,0 +1,10 @@
+| Energy | Luxembourg |
+| --- | --- |
+| Electricity - production: | 648 million kWh (1999) |
+| Electricity - production by source: | fossil fuel: 36.88% |
+| Electricity - production by source: | hydro: 53.09% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 10.03% (1999) |
+| Electricity - consumption: | 6.149 billion kWh (1999) |
+| Electricity - exports: | 655 million kWh (1999) |
+| Electricity - imports: | 6.201 billion kWh (1999) |

@@ -1,0 +1,10 @@
+| Energy | Sudan |
+| --- | --- |
+| Electricity - production: | 1.76 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 42.05% |
+| Electricity - production by source: | hydro: 57.95% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 1.637 billion kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

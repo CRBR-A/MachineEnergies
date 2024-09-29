@@ -1,0 +1,25 @@
+| Energy | NEPAL |
+| --- | --- |
+| Electricity - production: | 3.431 billion kWh (2012 est.) |
+| Electricity - consumption: | 2.832 billion kWh (2011 est.) |
+| Electricity - exports: | 31 million kWh (2011 est.) |
+| Electricity - imports: | 721 million kWh (2011 est.) |
+| Electricity - installed generating capacity: | 746,000 kW (2011 est.) |
+| Electricity - from fossil fuels: | 7.6% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 92.4% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2011 est.) |
+| Crude oil - production: | 0 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 19,260 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 21,960 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2012 est.) |
+| Natural gas - consumption: | 0 cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 3.638 million Mt (2012 est.) |

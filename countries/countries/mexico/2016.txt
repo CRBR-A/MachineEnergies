@@ -1,0 +1,29 @@
+| Energy | MEXICO |
+| --- | --- |
+| Electricity access: | population without electricity: 1,231,667 |
+| Electricity access: | electrification - total population: 99% |
+| Electricity access: | electrification - urban areas: 100% |
+| Electricity access: | electrification - rural areas: 97% (2012) |
+| Electricity - production: | 286 billion kWh (2014 est.) |
+| Electricity - consumption: | 238 billion kWh (2014 est.) |
+| Electricity - exports: | 7.1 billion kWh (2014 est.) |
+| Electricity - imports: | 400 million kWh (2014 est.) |
+| Electricity - installed generating capacity: | 66 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 74.2% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 2.5% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 18.7% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 4.7% of total installed capacity (2012 est.) |
+| Crude oil - production: | 2.302 million bbl/day (2015 est.) |
+| Crude oil - exports: | 1.199 million bbl/day (2015 est.) |
+| Crude oil - imports: | 11,110 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 9.7 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 1.258 million bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 2.007 million bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 190,900 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 713,500 bbl/day (2015 est.) |
+| Natural gas - production: | 44.37 billion cu m (2014 est.) |
+| Natural gas - consumption: | 72.77 billion cu m (2014 est.) |
+| Natural gas - exports: | 52 million cu m (2014 est.) |
+| Natural gas - imports: | 28.84 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 432.9 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 455 million Mt (2013 est.) |

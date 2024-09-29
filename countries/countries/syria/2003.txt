@@ -1,0 +1,20 @@
+| Energy | Syria |
+| --- | --- |
+| Electricity - production: | 23.26 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 57.6% |
+| Electricity - production by source: | hydro: 42.4% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 21.63 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 522,700 bbl/day (2001 est.) |
+| Oil - consumption: | 265,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 2.4 billion bbl (37257) |
+| Natural gas - production: | 5.84 billion cu m (2001 est.) |
+| Natural gas - consumption: | 5.84 billion cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 240.7 billion cu m (37257) |

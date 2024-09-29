@@ -1,0 +1,10 @@
+| Energy | Sao Tome and Principe |
+| --- | --- |
+| Electricity - production: | 17 million kWh (2000) |
+| Electricity - production by source: | fossil fuel: 41% |
+| Electricity - production by source: | hydro: 59% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 15.81 million kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 0 kWh (2000) |

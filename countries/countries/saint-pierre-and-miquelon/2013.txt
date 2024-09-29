@@ -1,0 +1,25 @@
+| Energy | Saint Pierre and Miquelon |
+| --- | --- |
+| Electricity - production: | 53 million kWh (2010 est.) |
+| Electricity - consumption: | 49.29 million kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 26,600 kW (2010 est.) |
+| Electricity - from fossil fuels: | 97.7% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 2.3% of total installed capacity (2010 est.) |
+| Crude oil - production: | 0 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 974.1 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 584 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2011 est.) |
+| Natural gas - consumption: | 0 cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 91,430 Mt (2011 est.) |

@@ -1,0 +1,10 @@
+| Energy | Moldova |
+| --- | --- |
+| Electricity - production: | 3.317 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 90% |
+| Electricity - production by source: | hydro: 10% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 3.655 billion kWh (2000) |
+| Electricity - exports: | 630 million kWh (2000) |
+| Electricity - imports: | 1.2 billion kWh (2000) |

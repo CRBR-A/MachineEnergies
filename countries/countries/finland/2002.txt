@@ -1,0 +1,10 @@
+| Energy | Finland |
+| --- | --- |
+| Electricity - production: | 75.356 billion kWh (2000) |
+| Electricity - production by source: | fossil fuel: 41% |
+| Electricity - production by source: | hydro: 19% |
+| Electricity - production by source: | other: 12% (2000) |
+| Electricity - production by source: | nuclear: 28% |
+| Electricity - consumption: | 81.961 billion kWh (2000) |
+| Electricity - exports: | 326 million kWh (2000) |
+| Electricity - imports: | 12.206 billion kWh (2000) |

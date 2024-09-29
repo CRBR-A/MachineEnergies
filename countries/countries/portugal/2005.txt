@@ -1,0 +1,18 @@
+| Energy | Portugal |
+| --- | --- |
+| Electricity - production: | 43.28 billion kWh (2002) |
+| Electricity - production by source: | fossil fuel: 64.5% |
+| Electricity - production by source: | hydro: 31.3% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 4.1% (2001) |
+| Electricity - consumption: | 42.15 billion kWh (2002) |
+| Electricity - exports: | 3.4 billion kWh (2002) |
+| Electricity - imports: | 5.3 billion kWh (2002) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 339,800 bbl/day (2001 est.) |
+| Oil - exports: | 28,830 bbl/day (2001) |
+| Oil - imports: | 357,300 bbl/day (2001) |
+| Natural gas - production: | 0 cu m (2001 est.) |
+| Natural gas - consumption: | 2.542 billion cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 2.553 billion cu m (2001 est.) |

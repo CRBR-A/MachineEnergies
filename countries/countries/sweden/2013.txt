@@ -1,0 +1,25 @@
+| Energy | Sweden |
+| --- | --- |
+| Electricity - production: | 148.7 billion kWh (2011 est.) |
+| Electricity - consumption: | 136 billion kWh (2010 est.) |
+| Electricity - exports: | 31.28 billion kWh (2012 est.) |
+| Electricity - imports: | 11.68 billion kWh (2012 est.) |
+| Electricity - installed generating capacity: | 36.51 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 13% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 24.6% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 45.5% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 16.6% of total installed capacity (2010 est.) |
+| Crude oil - production: | 11,270 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 398,100 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 419,400 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 316,000 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 261,700 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 187,300 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2011 est.) |
+| Natural gas - consumption: | 1.53 billion cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 1.129 billion cu m (2012 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 53.15 million Mt (2011 est.) |

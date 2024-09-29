@@ -1,0 +1,25 @@
+| Energy | Mauritania |
+| --- | --- |
+| Electricity - production: | 701 million kWh (2010 est.) |
+| Electricity - consumption: | 651.9 million kWh (2010 est.) |
+| Electricity - exports: | 0 kWh (2012 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 263,000 kW (2010 est.) |
+| Electricity - from fossil fuels: | 63.1% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 36.9% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 6,577 bbl/day (2012 est.) |
+| Crude oil - exports: | 7,337 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 20 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 18,120 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 12,810 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2011 est.) |
+| Natural gas - consumption: | 0 cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 28.32 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 1.774 million Mt (2011 est.) |

@@ -1,0 +1,29 @@
+| Energy | Uganda |
+| --- | --- |
+| Electricity access: | population without electricity: 34 million (2017) |
+| Electricity access: | electrification - total population: 20% (2017) |
+| Electricity access: | electrification - urban areas: 23% (2017) |
+| Electricity access: | electrification - rural areas: 19% (2017) |
+| Electricity - production: | 3.463 billion kWh (2016 est.) |
+| Electricity - consumption: | 3.106 billion kWh (2016 est.) |
+| Electricity - exports: | 121 million kWh (2015 est.) |
+| Electricity - imports: | 50 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 1.02 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 19% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 68% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 12% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 2.5 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 32,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 31,490 bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 0 cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 14.16 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 4.703 million Mt (2017 est.) |

@@ -1,0 +1,25 @@
+| Energy | Ghana |
+| --- | --- |
+| Electricity - production: | 8.213 billion kWh (2010 est.) |
+| Electricity - consumption: | 5.311 billion kWh (2010 est.) |
+| Electricity - exports: | 1.036 billion kWh (2010 est.) |
+| Electricity - imports: | 106 million kWh (2010 est.) |
+| Electricity - installed generating capacity: | 1.985 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 40.6% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 59.4% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2010 est.) |
+| Crude oil - production: | 79,630 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 32,060 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 660 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 22,130 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 61,590 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 9,977 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 37,240 bbl/day (2010 est.) |
+| Natural gas - production: | 50 million cu m (2010 est.) |
+| Natural gas - consumption: | 120 million cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 830 million cu m (2011 est.) |
+| Natural gas - proved reserves: | 22.65 billion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 9.005 million Mt (2011 est.) |

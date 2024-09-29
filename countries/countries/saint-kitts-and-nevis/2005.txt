@@ -1,0 +1,14 @@
+| Energy | Saint Kitts and Nevis |
+| --- | --- |
+| Electricity - production: | 105.8 million kWh (2002) |
+| Electricity - production by source: | fossil fuel: 100% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - consumption: | 98.44 million kWh (2002) |
+| Electricity - exports: | 0 kWh (2002) |
+| Electricity - imports: | 0 kWh (2002) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 710 bbl/day (2001 est.) |
+| Oil - exports: | NA |
+| Oil - imports: | NA |

@@ -1,0 +1,26 @@
+| Energy | Belgium |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 79.83 billion kWh (2016 est.) |
+| Electricity - consumption: | 82.16 billion kWh (2016 est.) |
+| Electricity - exports: | 8.465 billion kWh (2016 est.) |
+| Electricity - imports: | 14.65 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 21.56 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 35% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 28% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 1% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 36% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2017 est.) |
+| Crude oil - imports: | 687,600 bbl/day (2017 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 731,700 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 648,600 bbl/day (2017 est.) |
+| Refined petroleum products - exports: | 680,800 bbl/day (2017 est.) |
+| Refined petroleum products - imports: | 601,400 bbl/day (2017 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 17.61 billion cu m (2017 est.) |
+| Natural gas - exports: | 736.2 million cu m (2017 est.) |
+| Natural gas - imports: | 18.09 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 134.7 million Mt (2017 est.) |

@@ -1,0 +1,10 @@
+| Energy | Puerto Rico |
+| --- | --- |
+| Electricity - production: | 16.76 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 98.45% |
+| Electricity - production by source: | hydro: 1.55% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 15.587 billion kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

@@ -1,0 +1,29 @@
+| Energy | GHANA |
+| --- | --- |
+| Electricity access: | population without electricity: 7,300,000 |
+| Electricity access: | electrification - total population: 72% |
+| Electricity access: | electrification - urban areas: 92% |
+| Electricity access: | electrification - rural areas: 50% (2013) |
+| Electricity - production: | 11.09 billion kWh (2015 est.) |
+| Electricity - consumption: | 8.377 billion kWh (2015 est.) |
+| Electricity - exports: | 552 million kWh (2015 est.) |
+| Electricity - imports: | 223 million kWh (2015 est.) |
+| Electricity - installed generating capacity: | 2.839 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 44.1% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 55.7% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 1% of total installed capacity (2015 est.) |
+| Crude oil - production: | 100,500 bbl/day (2016 est.) |
+| Crude oil - exports: | 99,890 bbl/day (2015 est.) |
+| Crude oil - imports: | 13,860 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 660 million bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 2,815 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 79,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 2,761 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 80,350 bbl/day (2014 est.) |
+| Natural gas - production: | 63.54 million cu m (2016 est.) |
+| Natural gas - consumption: | 1.325 billion cu m (2015 est.) |
+| Natural gas - exports: | 0 cu m (2015 est.) |
+| Natural gas - imports: | 626 million cu m (2015 est.) |
+| Natural gas - proved reserves: | 22.65 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 11 million Mt (2013 est.) |

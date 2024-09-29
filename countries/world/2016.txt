@@ -1,0 +1,29 @@
+| Energy | WORLD |
+| --- | --- |
+| Electricity access: | population without electricity: 1,201,000,000 |
+| Electricity access: | electrification - total population: 83% |
+| Electricity access: | electrification - urban areas: 95% |
+| Electricity access: | electrification - rural areas: 70% (2013) |
+| Electricity - production: | 22.75 trillion kWh (2014 est.) |
+| Electricity - consumption: | 21.38 trillion kWh (2014 est.) |
+| Electricity - exports: | 695.6 billion kWh (2013 est.) |
+| Electricity - imports: | 723.2 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 5.847 billion kW (2012 est.) |
+| Electricity - from fossil fuels: | 65.3% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 6.8% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 18.7% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 9.2% of total installed capacity (2012 est.) |
+| Crude oil - production: | 80.25 million bbl/day (2015 est.) |
+| Crude oil - exports: | 44.53 million bbl/day (2013 est.) |
+| Crude oil - imports: | 46.7 million bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 1.662 trillion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 89.29 million bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 93.5 million bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 26.97 million bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 26.06 million bbl/day (2013 est.) |
+| Natural gas - production: | 3.43 trillion cu m (2013 est.) |
+| Natural gas - consumption: | 3.42 trillion cu m (2013 est.) |
+| Natural gas - exports: | 1.136 trillion cu m (2013 est.) |
+| Natural gas - imports: | 1.449 trillion cu m (2013 est.) |
+| Natural gas - proved reserves: | 191.4 trillion cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 34.18 billion Mt (2012 est.) |

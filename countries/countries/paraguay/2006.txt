@@ -1,0 +1,16 @@
+| Energy | Paraguay |
+| --- | --- |
+| Electricity - production: | 51.29 billion kWh (2003) |
+| Electricity - production by source: | fossil fuel: 0% |
+| Electricity - production by source: | hydro: 99.9% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0.1% (2001) |
+| Electricity - consumption: | 3.528 billion kWh (2003) |
+| Electricity - exports: | 44.17 billion kWh (2003) |
+| Electricity - imports: | 0 kWh (2003) |
+| Oil - production: | 0 bbl/day (2003 est.) |
+| Oil - consumption: | 25,000 bbl/day (2003 est.) |
+| Oil - exports: | NA bbl/day |
+| Oil - imports: | NA bbl/day |
+| Natural gas - production: | 0 cu m (2003 est.) |
+| Natural gas - consumption: | 0 cu m (2003 est.) |

@@ -1,0 +1,25 @@
+| Energy | Hong Kong |
+| --- | --- |
+| Electricity - production: | 39.97 billion kWh (2013 est.) |
+| Electricity - consumption: | 44.21 billion kWh (2013 est.) |
+| Electricity - exports: | 1.65 billion kWh (2013 est.) |
+| Electricity - imports: | 11.47 billion kWh (2013 est.) |
+| Electricity - installed generating capacity: | 10.67 million kW (2013 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2013 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2013 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2013 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2013 est.) |
+| Crude oil - production: | 0 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 333,900 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 12,010 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 345,900 bbl/day (2013 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 3.097 billion cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 3.097 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 92.91 million Mt (2011 est.) |

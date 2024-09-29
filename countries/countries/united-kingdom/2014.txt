@@ -1,0 +1,25 @@
+| Energy | United Kingdom |
+| --- | --- |
+| Electricity - production: | 365.7 billion kWh (2013 est.) |
+| Electricity - consumption: | 323.3 billion kWh (2013 est.) |
+| Electricity - exports: | 3.103 billion kWh (2013 est.) |
+| Electricity - imports: | 17.53 billion kWh (2013 est.) |
+| Electricity - installed generating capacity: | 89.24 million kW (31 December 2012 ) |
+| Electricity - from fossil fuels: | 76% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 11.2% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 4.8% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 8% of total installed capacity (2012 est.) |
+| Crude oil - production: | 771,800 bbl/day (2013 est.) |
+| Crude oil - exports: | 637,800 bbl/day (2013 est.) |
+| Crude oil - imports: | 1.053 million bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 3.122 billion bbl (1 January 2013 est.) |
+| Refined petroleum products - production: | 1.343 million bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 1.217 million bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 526,400 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 566,700 bbl/day (2013 est.) |
+| Natural gas - production: | 38.48 billion cu m (2013 est.) |
+| Natural gas - consumption: | 51.63 billion cu m (2013 est.) |
+| Natural gas - exports: | 8.949 billion cu m (2013 est.) |
+| Natural gas - imports: | 48.26 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 244 billion cu m (1 January 2013 est.) |
+| Carbon dioxide emissions from consumption of energy: | 178.5 million Mt (2013 est.) |

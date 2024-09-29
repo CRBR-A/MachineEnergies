@@ -1,0 +1,25 @@
+| Energy | Ukraine |
+| --- | --- |
+| Electricity - production: | 198.1 billion kWh (2012 est.) |
+| Electricity - consumption: | 175.3 billion kWh (2012 est.) |
+| Electricity - exports: | 3.852 billion kWh (2012 est.) |
+| Electricity - imports: | 1.909 billion kWh (2010 est.) |
+| Electricity - installed generating capacity: | 54.88 million kW (2010 est.) |
+| Electricity - from fossil fuels: | 64.1% of total installed capacity (2010 est.) |
+| Electricity - from nuclear fuels: | 25.2% of total installed capacity (2010 est.) |
+| Electricity - from hydroelectric plants: | 9.9% of total installed capacity (2010 est.) |
+| Electricity - from other renewable sources: | 0.1% of total installed capacity (2010 est.) |
+| Crude oil - production: | 80,400 bbl/day (2012 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 155,300 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 395 million bbl (1 January 2013 es) |
+| Refined petroleum products - production: | 262,300 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 320,600 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 80,980 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 126,500 bbl/day (2010 est.) |
+| Natural gas - production: | 19.8 billion cu m (2011 est.) |
+| Natural gas - consumption: | 56.2 billion cu m (2010 est.) |
+| Natural gas - exports: | 2.6 billion cu m (2010 est.) |
+| Natural gas - imports: | 44.8 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 1.104 trillion cu m (1 January 2013 es) |
+| Carbon dioxide emissions from consumption of energy: | 304.4 million Mt (2011 est.) |

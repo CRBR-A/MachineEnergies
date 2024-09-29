@@ -1,0 +1,6 @@
+| Energy | Andorra |
+| --- | --- |
+| Electricity - production: | NA kWh |
+| Electricity - consumption: | NA kWh |
+| Electricity - exports: | NA kWh |
+| Electricity - imports: | NA kWh; note - most electricity supplied by Spain and France; Andorra generates a small amount of hydropower |

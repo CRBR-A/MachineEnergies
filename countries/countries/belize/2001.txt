@@ -1,0 +1,10 @@
+| Energy | Belize |
+| --- | --- |
+| Electricity - production: | 185 million kWh (1999) |
+| Electricity - production by source: | fossil fuel: 56.76% |
+| Electricity - production by source: | hydro: 43.24% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 172.1 million kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

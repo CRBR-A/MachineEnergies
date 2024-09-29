@@ -1,0 +1,25 @@
+| Energy | MADAGASCAR |
+| --- | --- |
+| Electricity - production: | 1.34 billion kWh (2011 est.) |
+| Electricity - consumption: | 1.246 billion kWh (2011 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 512,200 kW (2011 est.) |
+| Electricity - from fossil fuels: | 74% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 25.8% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0.2% of total installed capacity (2011 est.) |
+| Crude oil - production: | 0 bbl/day (2013 est.) |
+| Crude oil - exports: | 0 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 20,140 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 365 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 12,120 bbl/day (2010 est.) |
+| Natural gas - production: | 0 cu m (2012 est.) |
+| Natural gas - consumption: | 0 cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 0 cu m (2012 est.) |
+| Natural gas - proved reserves: | 2.01 billion cu m (1 January 2012 est.) |
+| Carbon dioxide emissions from consumption of energy: | 2.886 million Mt (2012 est.) |

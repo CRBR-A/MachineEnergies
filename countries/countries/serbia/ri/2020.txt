@@ -1,0 +1,26 @@
+| Energy | Serbia |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 36.54 billion kWh (2016 est.) |
+| Electricity - consumption: | 29.81 billion kWh (2016 est.) |
+| Electricity - exports: | 6.428 billion kWh (2016 est.) |
+| Electricity - imports: | 5.068 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 7.342 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 65% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 35% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 1% of total installed capacity (2017 est.) |
+| Crude oil - production: | 17,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 123 bbl/day (2015 est.) |
+| Crude oil - imports: | 40,980 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 77.5 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 74,350 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 74,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 15,750 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 18,720 bbl/day (2015 est.) |
+| Natural gas - production: | 509.7 million cu m (2017 est.) |
+| Natural gas - consumption: | 2.718 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 2.01 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 48.14 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 50.21 million Mt (2017 est.) |

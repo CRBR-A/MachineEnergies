@@ -1,0 +1,26 @@
+| Energy | Belarus |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 31.58 billion kWh (2016 est.) |
+| Electricity - consumption: | 31.72 billion kWh (2016 est.) |
+| Electricity - exports: | 3.482 billion kWh (2015 est.) |
+| Electricity - imports: | 6.319 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 10.04 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 96% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 1% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 3% of total installed capacity (2017 est.) |
+| Crude oil - production: | 31,000 bbl/day (2018 est.) |
+| Crude oil - exports: | 31,730 bbl/day (2015 est.) |
+| Crude oil - imports: | 468,400 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 198 million bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 477,200 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 141,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 351,200 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 14,630 bbl/day (2015 est.) |
+| Natural gas - production: | 59.46 million cu m (2017 est.) |
+| Natural gas - consumption: | 17.7 billion cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 17.53 billion cu m (2017 est.) |
+| Natural gas - proved reserves: | 2.832 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 56.07 million Mt (2017 est.) |

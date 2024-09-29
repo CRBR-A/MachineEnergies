@@ -1,0 +1,6 @@
+| Energy | Northern Mariana Islands |
+| --- | --- |
+| Electricity - production: | NA kWh |
+| Electricity - consumption: | NA kWh |
+| Electricity - exports: | 0 kWh |
+| Electricity - imports: | 0 kWh |

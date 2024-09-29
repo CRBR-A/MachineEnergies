@@ -1,0 +1,20 @@
+| Energy | Bolivia |
+| --- | --- |
+| Electricity - production: | 5.041 billion kWh (2005) |
+| Electricity - production by source: | fossil fuel: 44.4% |
+| Electricity - production by source: | hydro: 54% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 1.5% (2001) |
+| Electricity - consumption: | 4.207 billion kWh (2005) |
+| Electricity - exports: | 0 kWh (2005) |
+| Electricity - imports: | 0 kWh (2005) |
+| Oil - production: | 42,000 bbl/day (2005 est.) |
+| Oil - consumption: | 47,000 bbl/day (2004 est.) |
+| Oil - exports: | NA bbl/day |
+| Oil - imports: | NA bbl/day |
+| Oil - proved reserves: | 440.5 million bbl (1 January 2006) |
+| Natural gas - production: | 11.84 billion cu m (2005 est.) |
+| Natural gas - consumption: | 2.024 billion cu m (2005 est.) |
+| Natural gas - exports: | 9.821 billion cu m (2005 est.) |
+| Natural gas - imports: | 0 cu m (2005) |
+| Natural gas - proved reserves: | 651.8 billion cu m (1 January 2006 est.) |

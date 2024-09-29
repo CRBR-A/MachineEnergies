@@ -1,0 +1,20 @@
+| Energy | Chile |
+| --- | --- |
+| Electricity - production: | 41.66 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 47% |
+| Electricity - production by source: | hydro: 51.5% |
+| Electricity - production by source: | other: 1.4% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 40.13 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 1.386 billion kWh (2001) |
+| Oil - production: | 13,640 bbl/day (2001 est.) |
+| Oil - consumption: | 241,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 81.05 million bbl (37257) |
+| Natural gas - production: | 1.2 billion cu m (2001 est.) |
+| Natural gas - consumption: | 6.47 billion cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 5.27 billion cu m (2001 est.) |
+| Natural gas - proved reserves: | 67.78 billion cu m (37257) |

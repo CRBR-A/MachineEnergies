@@ -1,0 +1,10 @@
+| Energy | Iceland |
+| --- | --- |
+| Electricity - production: | 7.894 billion kWh (2001) |
+| Electricity - consumption: | 7.341 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 16,300 bbl/day (2001 est.) |
+| Oil - exports: | 0 bbl/day (2001) |
+| Oil - imports: | 15,470 bbl/day (2001) |

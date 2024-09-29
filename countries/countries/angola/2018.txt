@@ -1,0 +1,29 @@
+| Energy | Angola |
+| --- | --- |
+| Electricity access: | population without electricity: 15 million (2013) |
+| Electricity access: | electrification - total population: 30% (2013) |
+| Electricity access: | electrification - urban areas: 46% (2013) |
+| Electricity access: | electrification - rural areas: 18% (2013) |
+| Electricity - production: | 10.2 billion kWh (2016 est.) |
+| Electricity - consumption: | 9.036 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 2.613 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 34% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 64% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 2% of total installed capacity (2017 est.) |
+| Crude oil - production: | 1.666 million bbl/day (2017 est.) |
+| Crude oil - exports: | 1.782 million bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 9.523 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 53,480 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 130,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 30,340 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 111,600 bbl/day (2015 est.) |
+| Natural gas - production: | 3.115 billion cu m (2017 est.) |
+| Natural gas - consumption: | 821.2 million cu m (2017 est.) |
+| Natural gas - exports: | 3.993 billion cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 308.1 billion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 20.95 million Mt (2017 est.) |

@@ -1,0 +1,20 @@
+| Energy | Egypt |
+| --- | --- |
+| Electricity - production: | 75.23 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 81% |
+| Electricity - production by source: | hydro: 19% |
+| Electricity - production by source: | other: 0% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 69.96 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 816,900 bbl/day (2001 est.) |
+| Oil - consumption: | 562,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |
+| Oil - proved reserves: | 3.308 billion bbl (37257) |
+| Natural gas - production: | 21.2 billion cu m (2001 est.) |
+| Natural gas - consumption: | 21.2 billion cu m (2001 est.) |
+| Natural gas - exports: | 0 cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 1.264 trillion cu m (37257) |

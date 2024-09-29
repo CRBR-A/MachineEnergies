@@ -1,0 +1,11 @@
+| Energy | Greenland |
+| --- | --- |
+| Electricity - production: | 250 million kWh (1999) |
+| Electricity - production by source: | fossil fuel: 41% |
+| Electricity - production by source: | hydro: 59% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% |
+| Electricity - production by source: | note: Greenland is shifting its electricity production from fossil fuel to hydroelectric power production (1999) |
+| Electricity - consumption: | 232.5 million kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

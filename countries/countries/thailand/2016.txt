@@ -1,0 +1,29 @@
+| Energy | THAILAND |
+| --- | --- |
+| Electricity access: | population without electricity: 700,000 |
+| Electricity access: | electrification - total population: 99% |
+| Electricity access: | electrification - urban areas: 99.7% |
+| Electricity access: | electrification - rural areas: 98.3% (2013) |
+| Electricity - production: | 164 billion kWh (2014 est.) |
+| Electricity - consumption: | 164 billion kWh (2014 est.) |
+| Electricity - exports: | 1.6 billion kWh (2014 est.) |
+| Electricity - imports: | 12 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 40 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 90.2% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 6.5% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 3.3% of total installed capacity (2012 est.) |
+| Crude oil - production: | 248,200 bbl/day (2015 est.) |
+| Crude oil - exports: | 30,010 bbl/day (2013 est.) |
+| Crude oil - imports: | 897,800 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 400 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 1.273 million bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 1.231 million bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 241,800 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 75,400 bbl/day (2013 est.) |
+| Natural gas - production: | 42.15 billion cu m (2014 est.) |
+| Natural gas - consumption: | 53.75 billion cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 11.6 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 219.5 billion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 301 million Mt (2013 est.) |

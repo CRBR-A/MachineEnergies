@@ -1,0 +1,25 @@
+| Energy | SYRIA |
+| --- | --- |
+| Electricity - production: | 38.78 billion kWh (2011 est.) |
+| Electricity - consumption: | 35.37 billion kWh (2011 est.) |
+| Electricity - exports: | 1.192 billion kWh (2011 est.) |
+| Electricity - imports: | 0 kWh (2012 est.) |
+| Electricity - installed generating capacity: | 8.323 million kW (2011 est.) |
+| Electricity - from fossil fuels: | 89.2% of total installed capacity (2011 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2011 est.) |
+| Electricity - from hydroelectric plants: | 10.8% of total installed capacity (2011 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2011 est.) |
+| Crude oil - production: | 74,820 bbl/day (2013 est.) |
+| Crude oil - exports: | 152,400 bbl/day (2010 est.) |
+| Crude oil - imports: | 0 bbl/day (2010 est.) |
+| Crude oil - proved reserves: | 2.5 billion bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 253,600 bbl/day (2010 est.) |
+| Refined petroleum products - consumption: | 257,400 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 36,210 bbl/day (2010 est.) |
+| Refined petroleum products - imports: | 104,800 bbl/day (2010 est.) |
+| Natural gas - production: | 6.442 billion cu m (2012 est.) |
+| Natural gas - consumption: | 6.442 billion cu m (2012 est.) |
+| Natural gas - exports: | 0 cu m (2012 est.) |
+| Natural gas - imports: | 250 million cu m (2011 est.) |
+| Natural gas - proved reserves: | 240.7 billion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 50.92 million Mt (2012 est.) |

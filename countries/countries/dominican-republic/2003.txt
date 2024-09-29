@@ -1,0 +1,14 @@
+| Energy | Dominican Republic |
+| --- | --- |
+| Electricity - production: | 9.186 billion kWh (2001) |
+| Electricity - production by source: | fossil fuel: 92% |
+| Electricity - production by source: | hydro: 7.6% |
+| Electricity - production by source: | other: 0.4% (2001) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 8.543 billion kWh (2001) |
+| Electricity - exports: | 0 kWh (2001) |
+| Electricity - imports: | 0 kWh (2001) |
+| Oil - production: | 0 bbl/day (2001 est.) |
+| Oil - consumption: | 129,000 bbl/day (2001 est.) |
+| Oil - exports: | NA (2001) |
+| Oil - imports: | NA (2001) |

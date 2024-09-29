@@ -1,0 +1,10 @@
+| Energy | Slovenia |
+| --- | --- |
+| Electricity - production: | 12.451 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 34.44% |
+| Electricity - production by source: | hydro: 29.58% |
+| Electricity - production by source: | nuclear: 35.98% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 10.024 billion kWh (1999) |
+| Electricity - exports: | 2.2 billion kWh (1999) |
+| Electricity - imports: | 645 million kWh (1999) |

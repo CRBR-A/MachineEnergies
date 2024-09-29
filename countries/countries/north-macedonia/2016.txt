@@ -1,0 +1,26 @@
+| Energy | MACEDONIA |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 4.569 billion kWh (2014 est.) |
+| Electricity - consumption: | 6.96 billion kWh (2014 est.) |
+| Electricity - exports: | 112.9 million kWh (2014 est.) |
+| Electricity - imports: | 3.073 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 2.011 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 64.5% of total installed capacity (2014 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2014 est.) |
+| Electricity - from hydroelectric plants: | 33% of total installed capacity (2014 est.) |
+| Electricity - from other renewable sources: | 2.6% of total installed capacity (2014 est.) |
+| Crude oil - production: | 0 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 146 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 1,719 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 20,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 2,616 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 17,950 bbl/day (2014 est.) |
+| Natural gas - production: | 0 cu m (2014) |
+| Natural gas - consumption: | 134.7 million cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2014) |
+| Natural gas - imports: | 134.7 million cu m (2014 est.) |
+| Natural gas - proved reserves: | 0 cu m (31 December 2014 ) |
+| Carbon dioxide emissions from consumption of energy: | 7.9 million Mt (2013 est.) |

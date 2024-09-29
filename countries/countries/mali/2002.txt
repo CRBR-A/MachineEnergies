@@ -1,0 +1,10 @@
+| Energy | Mali |
+| --- | --- |
+| Electricity - production: | 462 million kWh (2000) |
+| Electricity - production by source: | fossil fuel: 43% |
+| Electricity - production by source: | hydro: 57% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 429.66 million kWh (2000) |
+| Electricity - exports: | 0 kWh (2000) |
+| Electricity - imports: | 0 kWh (2000) |

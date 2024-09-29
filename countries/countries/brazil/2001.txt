@@ -1,0 +1,11 @@
+| Energy | Brazil |
+| --- | --- |
+| Electricity - production: | 337.44 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 5.28% |
+| Electricity - production by source: | hydro: 90.66% |
+| Electricity - production by source: | nuclear: 1.12% |
+| Electricity - production by source: | other: 2.94% (1999) |
+| Electricity - consumption: | 353.674 billion kWh (1999) |
+| Electricity - exports: | 5 million kWh (1999) |
+| Electricity - imports: | 39.86 billion kWh |
+| Electricity - imports: | note: supplied by Paraguay (1999) |

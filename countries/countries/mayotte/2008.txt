@@ -1,0 +1,8 @@
+| Energy | Mayotte |
+| --- | --- |
+| Electricity - production: | NA kWh |
+| Electricity - consumption: | 139.2 million kWh (2005) |
+| Electricity - production by source: | fossil fuel: 0% |
+| Electricity - production by source: | hydro: 0% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% |

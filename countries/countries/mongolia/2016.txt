@@ -1,0 +1,29 @@
+| Energy | MONGOLIA |
+| --- | --- |
+| Electricity access: | population without electricity: 300,000 |
+| Electricity access: | electrification - total population: 90% |
+| Electricity access: | electrification - urban areas: 98% |
+| Electricity access: | electrification - rural areas: 73% (2013) |
+| Electricity - production: | 5.1 billion kWh (2014 est.) |
+| Electricity - consumption: | 5.6 billion kWh (2014 est.) |
+| Electricity - exports: | 33 million kWh (2014 est.) |
+| Electricity - imports: | 1.3 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 1 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 99.8% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0.2% of total installed capacity (2012 est.) |
+| Crude oil - production: | 23,180 bbl/day (2015 est.) |
+| Crude oil - exports: | 14,360 bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | NA bbl 0 bbl |
+| Refined petroleum products - production: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 28,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 25,620 bbl/day (2013 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 0 cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 14 million Mt (2013 est.) |

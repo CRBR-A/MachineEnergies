@@ -1,0 +1,29 @@
+| Energy | Algeria |
+| --- | --- |
+| Electricity access: | population without electricity: 400,000 (2016) |
+| Electricity access: | electrification - total population: 99.4% (2016) |
+| Electricity access: | electrification - urban areas: 99.6% (2016) |
+| Electricity access: | electrification - rural areas: 99% (2016) |
+| Electricity - production: | 66.89 billion kWh (2016 est.) |
+| Electricity - consumption: | 55.96 billion kWh (2016 est.) |
+| Electricity - exports: | 641 million kWh (2015 est.) |
+| Electricity - imports: | 257 million kWh (2016 est.) |
+| Electricity - installed generating capacity: | 19.27 million kW (2016 est.) |
+| Electricity - from fossil fuels: | 96% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 1% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 2% of total installed capacity (2017 est.) |
+| Crude oil - production: | 1.259 million bbl/day (2018 est.) |
+| Crude oil - exports: | 756,400 bbl/day (2015 est.) |
+| Crude oil - imports: | 5,340 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 12.2 billion bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 627,900 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 405,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 578,800 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 82,930 bbl/day (2015 est.) |
+| Natural gas - production: | 93.5 billion cu m (2017 est.) |
+| Natural gas - consumption: | 41.28 billion cu m (2017 est.) |
+| Natural gas - exports: | 53.88 billion cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 4.504 trillion cu m (1 January 2018 est.) |
+| Carbon dioxide emissions from consumption of energy: | 135.9 million Mt (2017 est.) |

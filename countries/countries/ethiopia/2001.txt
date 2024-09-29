@@ -1,0 +1,10 @@
+| Energy | Ethiopia |
+| --- | --- |
+| Electricity - production: | 1.625 billion kWh (1999) |
+| Electricity - production by source: | fossil fuel: 3.08% |
+| Electricity - production by source: | hydro: 96.92% |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - production by source: | other: 0% (1999) |
+| Electricity - consumption: | 1.511 billion kWh (1999) |
+| Electricity - exports: | 0 kWh (1999) |
+| Electricity - imports: | 0 kWh (1999) |

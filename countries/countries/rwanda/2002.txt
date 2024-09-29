@@ -1,0 +1,10 @@
+| Energy | Rwanda |
+| --- | --- |
+| Electricity - production: | 113 million kWh (2000) |
+| Electricity - production by source: | fossil fuel: 3% |
+| Electricity - production by source: | hydro: 97% |
+| Electricity - production by source: | other: 0% (2000) |
+| Electricity - production by source: | nuclear: 0% |
+| Electricity - consumption: | 174.09 million kWh (2000) |
+| Electricity - exports: | 1 million kWh (2000) |
+| Electricity - imports: | 70 million kWh (2000) |
